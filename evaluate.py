@@ -20,13 +20,18 @@ etd = lex.get_etymdict(ref='cogids')
 docs = sorted(set([d.split(' ')[0] for d in lex.cols]))
 table = []
 missing = 0
-PREDICTED, AUTOMATED = {}, {}
+PREDICTED, AUTOMATED, SECOND, THIRD = {}, {}, {}, {}
 for doc in docs:
     predicted = {k: v for k, v in lex.get_dict(
             col=doc+' GUESS',
             ).items() if v}
     automated = {k: v for k, v in lex.get_dict(
         col=doc+' BEST').items() if v}
+    second = {k: v for k, v in lex.get_dict(
+        col=doc+' SECOND').items() if v}
+    third = {k: v for k, v in lex.get_dict(
+        col=doc+' THIRD').items() if v}
+
     attested = lex.get_dict(
             col=doc+' ATTESTED')
     totals = sum([len(x) for x in predicted.values()])
@@ -34,6 +39,7 @@ for doc in docs:
     full, part, semi, miss = 0, 0, 0, 0
     now_predicted = 0
     PREDICTED[doc], AUTOMATED[doc] = [], []
+    SECOND[doc], THIRD[doc] = [], []
     for concept, idxsA in predicted.items():
         parts, fulls = [], []
         for i, idxAi in enumerate(idxsA):
@@ -53,10 +59,14 @@ for doc in docs:
                     full += 1
                     PREDICTED[doc] += [idxAi]
                     AUTOMATED[doc] += [automated[concept][i]]
+                    SECOND[doc] += [second[concept][i]]
+                    THIRD[doc] += [third[concept][i]]
                 elif 1 in parts:
                     part += 1
                     PREDICTED[doc] += [idxAi]
                     AUTOMATED[doc] += [automated[concept][i]]
+                    SECOND[doc] += [second[concept][i]]
+                    THIRD[doc] += [third[concept][i]]
                 else:
                     # get index of doculect
                     docIdx = lex.cols.index(doc+' ATTESTED')
@@ -72,6 +82,8 @@ for doc in docs:
                         semi += 1
                         PREDICTED[doc] += [idxAi]
                         AUTOMATED[doc] += [automated[concept][i]]
+                        SECOND[doc] += [second[concept][i]]
+                        THIRD[doc] += [third[concept][i]]
                     else:
                         miss += 1
 
@@ -212,7 +224,8 @@ print(tabulate(
     btable,
     headers=[
         'doculect',
-        'predicted',
+        'words',
+        'morphemes',
         'perfect',
         'proportion',
         'score'],
@@ -220,76 +233,41 @@ print(tabulate(
     floatfmt='.4f'
     ))
 
-# count accuracy of 
-ctable, dtable = [], []
+ctable = []
 S = {d: {} for d in docs}
-S2 = {d: {} for d in docs}
 for doc in docs:
-    predicted = lex.get_dict(
-            col=doc+' BEST',
-            )
     docIdx = lex.cols.index(doc+' ATTESTED')
-    bIdx = lex.cols.index(doc+' SECOND')
-    cIdx = lex.cols.index(doc+' THIRD')
-    for concept, idxs in predicted.items():
-        for idx in idxs:
-            cogids = lex[idx, 'cogids']
-            words = lex[idx, 'alignment'].n
-            if len(cogids) != len(words):
-                print(idx, doc, lex[idx, 'concept'])
-                raise ValueError
-            for i, (wordA, cogid) in enumerate(zip(words, cogids)):
-                second = [x for x in lex[etd[cogid][bIdx][0], 'tokens'].n[i] if x
-                        != '-']
-                third = [x for x in lex[etd[cogid][cIdx][0], 'tokens'].n[i] if x
-                        != '-']
-                second = class2tokens(second, wordA)
-                third = class2tokens(third, wordA)
-
-                attIdx = etd[cogid][docIdx]
-                if attIdx:
-                    scores = []
-                    wordB = lex[attIdx[0], 'alignment'].n[lex[attIdx[0],
-                        'cogids'].index(cogid)]
-                    if len(wordA) != len(wordB):
-                        print(idx, doc, lex[idx, 'concept'], wordA, wordB)
-                    for charA, charB in zip(second, wordB):
-                        if charA == charB:
-                            scores += [1]
+    for idx in SECOND[doc]:
+        cogids = lex[idx, 'cogids']
+        words = lex[idx, 'alignment'].n
+        if len(cogids) != len(words):
+            print(idx, doc, lex[idx, 'concept'])
+            raise ValueError
+        for wordA, cogid in zip(words, cogids):
+            attIdx = etd[cogid][docIdx]
+            if attIdx:
+                scores = []
+                wordB = lex[attIdx[0], 'alignment'].n[lex[attIdx[0],
+                    'cogids'].index(cogid)]
+                if len(wordA) != len(wordB):
+                    print(idx, doc, lex[idx, 'concept'], wordA, wordB)
+                for charA, charB in zip(wordA, wordB):
+                    if charA == charB:
+                        scores += [1]
+                    else:
+                        charsA = charA.split('|')
+                        if charB in charsA:
+                            scores += [1/(charsA.index(charB)+1)]
                         else:
-                            charsA = charA.split('|')
-                            if charB in charsA:
-                                scores += [1/(charsA.index(charB)+1)]
-                            else:
-                                scores += [0]
-                    score = sum(scores)/len(scores)
-                    S[doc][cogid] = [score, wordA, wordB, idxA, attIdx[0]]
-                    scores = []
-                    for charA, charB in zip(third, wordB):
-                        if charA == charB:
-                            scores += [1]
-                        else:
-                            charsA = charA.split('|')
-                            if charB in charsA:
-                                scores += [1/(charsA.index(charB)+1)]
-                            else:
-                                scores += [0]
-                    score = sum(scores)/len(scores)
-                    S2[doc][cogid] = [score, wordA, wordB, idxA, attIdx[0]]
-
+                            scores += [0]
+                score = sum(scores)/len(scores)
+                S[doc][cogid] = [score, wordA, wordB, idxA, attIdx[0]]
     ctable += [[
         doc,
         len(S[doc]),
         len([x for x in S[doc].values() if x[0] == 1]),
         len([x for x in S[doc].values() if x[0] == 1])/len(S[doc]),
         sum([cog[0] for cog in S[doc].values()])/len(S[doc])
-        ]]
-    dtable += [[
-        doc,
-        len(S2[doc]),
-        len([x for x in S2[doc].values() if x[0] == 1]),
-        len([x for x in S2[doc].values() if x[0] == 1])/len(S2[doc]),
-        sum([cog[0] for cog in S2[doc].values()])/len(S2[doc])
         ]]
 
 ctable += [[
@@ -313,6 +291,43 @@ print(tabulate(
     floatfmt='.4f'
     ))
 
+dtable = []
+S = {d: {} for d in docs}
+for doc in docs:
+    docIdx = lex.cols.index(doc+' ATTESTED')
+    for idx in THIRD[doc]:
+        cogids = lex[idx, 'cogids']
+        words = lex[idx, 'alignment'].n
+        if len(cogids) != len(words):
+            print(idx, doc, lex[idx, 'concept'])
+            raise ValueError
+        for wordA, cogid in zip(words, cogids):
+            attIdx = etd[cogid][docIdx]
+            if attIdx:
+                scores = []
+                wordB = lex[attIdx[0], 'alignment'].n[lex[attIdx[0],
+                    'cogids'].index(cogid)]
+                if len(wordA) != len(wordB):
+                    print(idx, doc, lex[idx, 'concept'], wordA, wordB)
+                for charA, charB in zip(wordA, wordB):
+                    if charA == charB:
+                        scores += [1]
+                    else:
+                        charsA = charA.split('|')
+                        if charB in charsA:
+                            scores += [1/(charsA.index(charB)+1)]
+                        else:
+                            scores += [0]
+                score = sum(scores)/len(scores)
+                S[doc][cogid] = [score, wordA, wordB, idxA, attIdx[0]]
+    dtable += [[
+        doc,
+        len(S[doc]),
+        len([x for x in S[doc].values() if x[0] == 1]),
+        len([x for x in S[doc].values() if x[0] == 1])/len(S[doc]),
+        sum([cog[0] for cog in S[doc].values()])/len(S[doc])
+        ]]
+
 dtable += [[
     'total',
     sum([row[1] for row in dtable]),
@@ -320,6 +335,7 @@ dtable += [[
     sum([row[2] for row in dtable])/sum([row[1] for row in dtable]),
     sum([row[4] for row in dtable])/len(docs),
     ]]
+
 print('\n### 5. Predictions (Automated, up to three candidates)\n')
 print(tabulate(
     dtable,

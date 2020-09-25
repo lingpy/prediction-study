@@ -4,6 +4,12 @@
 
 The main data we submit in this repository is an extensively annotated file named `predictions.tsv`. This file itself was automatically generated from double-checking the original predictions we made (both automatic and manual) and merging it with the attested forms, which were for convenience stored in a single spreadsheet. Since the comparison itself requires to align the data and also identify to which degree attested forms coincide with predicted ones, this work was *manually* carried out in the [EDICTOR](https://digling.org/edictor/) tool and then stored in the form of a simple TSV file (named file `predictions.tsv`). 
 
+In order to allow for a convenient editing of the data, we have used a server-based version of the EDICTOR, by which the data can be accessed online without uploading the file. This version is accessible from the link:
+
+```
+http://digling.org/edictor/?remote_dbase=predictions&file=predictions&basics=DOCULECT|CONCEPT|CONCEPT_PREDICTED|FORM|TOKENS|COGIDS|MORPHEMES|NOTE&columns=DOCULECT|CONCEPT|CONCEPT_PREDICTED|DOCULECT_IN_SOURCE|FORM|TOKENS|CROSSIDS|COGIDS|MORPHEMES|ALIGNMENT|NOTE&split_on_tones=false&async=true&root_formatter=COGIDS
+```
+
 ## Dependencies
 
 In order to run the code, you will need the following packages:
@@ -48,28 +54,28 @@ The output will first produce various tables which are for conveniency encoded i
 | doculect   |   words |   morphemes |   perfect |   proportion |   score |
 |:-----------|--------:|------------:|----------:|-------------:|--------:|
 | Duhumbi    |      11 |          14 |        10 |       0.7143 |  0.8690 |
-| Jerigaon   |      62 |          83 |        51 |       0.6145 |  0.8012 |
+| Jerigaon   |      62 |          83 |        51 |       0.6145 |  0.7992 |
 | Khispi     |      26 |          33 |        19 |       0.5758 |  0.7828 |
-| Khoina     |      38 |          48 |        20 |       0.4167 |  0.6771 |
+| Khoina     |      38 |          48 |        20 |       0.4167 |  0.6875 |
 | Khoitam    |      39 |          54 |        28 |       0.5185 |  0.7685 |
 | Rahung     |      45 |          53 |        29 |       0.5472 |  0.7453 |
 | Rupa       |      25 |          33 |        15 |       0.4545 |  0.6616 |
 | Shergaon   |      81 |          99 |        49 |       0.4949 |  0.7340 |
-| total      |     327 |         417 |       221 |       0.5300 |  0.7549 |
+| total      |     327 |         417 |       221 |       0.5300 |  0.7560 |
 
 ### 3. Predictions (Automated, one candidate)
 
-|          |   doculect |   predicted |   perfect |   proportion |   score |
-|:---------|-----------:|------------:|----------:|-------------:|--------:|
-| Duhumbi  |         11 |          13 |         6 |       0.4615 |  0.6923 |
-| Jerigaon |         62 |          73 |        34 |       0.4658 |  0.6986 |
-| Khispi   |         26 |          31 |        13 |       0.4194 |  0.7097 |
-| Khoina   |         38 |          45 |        16 |       0.3556 |  0.6481 |
-| Khoitam  |         39 |          47 |        23 |       0.4894 |  0.7340 |
-| Rahung   |         45 |          48 |        24 |       0.5000 |  0.7153 |
-| Rupa     |         25 |          31 |        13 |       0.4194 |  0.6505 |
-| Shergaon |         81 |          91 |        40 |       0.4396 |  0.6923 |
-| total    |        327 |         379 |       169 |       0.4459 |  0.6926 |
+| doculect   |   words |   morphemes |   perfect |   proportion |   score |
+|:-----------|--------:|------------:|----------:|-------------:|--------:|
+| Duhumbi    |      11 |          13 |         6 |       0.4615 |  0.6923 |
+| Jerigaon   |      62 |          73 |        34 |       0.4658 |  0.6963 |
+| Khispi     |      26 |          31 |        13 |       0.4194 |  0.7097 |
+| Khoina     |      38 |          45 |        16 |       0.3556 |  0.6593 |
+| Khoitam    |      39 |          47 |        23 |       0.4894 |  0.7340 |
+| Rahung     |      45 |          48 |        24 |       0.5000 |  0.7153 |
+| Rupa       |      25 |          31 |        13 |       0.4194 |  0.6505 |
+| Shergaon   |      81 |          91 |        40 |       0.4396 |  0.6923 |
+| total      |     327 |         379 |       169 |       0.4459 |  0.6937 |
 
 ### 4. Predictions (Automated, up to two candidates)
 
@@ -78,26 +84,27 @@ The output will first produce various tables which are for conveniency encoded i
 | Duhumbi    |          13 |         6 |       0.4615 |  0.6923 |
 | Jerigaon   |          73 |        34 |       0.4658 |  0.7169 |
 | Khispi     |          31 |        13 |       0.4194 |  0.7151 |
-| Khoina     |          45 |        16 |       0.3556 |  0.6556 |
-| Khoitam    |          48 |        22 |       0.4583 |  0.7257 |
+| Khoina     |          45 |        16 |       0.3556 |  0.6667 |
+| Khoitam    |          47 |        22 |       0.4681 |  0.7270 |
 | Rahung     |          48 |        24 |       0.5000 |  0.7292 |
 | Rupa       |          31 |        12 |       0.3871 |  0.6505 |
-| Shergaon   |          92 |        40 |       0.4348 |  0.7029 |
-| total      |         381 |       167 |       0.4383 |  0.6985 |
+| Shergaon   |          91 |        40 |       0.4396 |  0.7051 |
+| total      |         379 |       167 |       0.4406 |  0.7003 |
 
 ### 5. Predictions (Automated, up to three candidates)
 
 | doculect   |   predicted |   perfect |   proportion |   score |
 |:-----------|------------:|----------:|-------------:|--------:|
 | Duhumbi    |          13 |         6 |       0.4615 |  0.7179 |
-| Jerigaon   |          73 |        34 |       0.4658 |  0.7184 |
+| Jerigaon   |          73 |        34 |       0.4658 |  0.7192 |
 | Khispi     |          31 |        13 |       0.4194 |  0.7151 |
-| Khoina     |          45 |        16 |       0.3556 |  0.6617 |
-| Khoitam    |          48 |        22 |       0.4583 |  0.7292 |
+| Khoina     |          45 |        16 |       0.3556 |  0.6728 |
+| Khoitam    |          47 |        22 |       0.4681 |  0.7305 |
 | Rahung     |          48 |        24 |       0.5000 |  0.7292 |
 | Rupa       |          31 |        12 |       0.3871 |  0.6595 |
-| Shergaon   |          92 |        40 |       0.4348 |  0.7065 |
-| total      |         381 |       167 |       0.4383 |  0.7047 |
+| Shergaon   |          91 |        40 |       0.4396 |  0.7088 |
+| total      |         379 |       167 |       0.4406 |  0.7066 |
+
 ```
 
 
