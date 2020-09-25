@@ -1,0 +1,631 @@
+AutoID	ManuID	Language	Concept	Morpheme	AutoBest	ManuBest	Auto2	Manu2	Auto3	Manu3	Guess	Notes
+20	20	Jerigaon	Bugun	Bugun	12	l u ŋ	l u ŋ	l u|y ŋ	l u|ɔ ŋ|-	l u|y|ə ŋ	l u|ɔ|ə ŋ|-	s ə + l u ŋ		
+16	16	Jerigaon	Bugun	_sya-prf1	11	s Ø	s Ø	s|z Ø	s|z Ø	s|z Ø	s|z Ø			
+82	80	Jerigaon	Puroik	PUROIK	35	t a ŋ	t a ŋ	t a|ɛˀ ŋ|-	t a|ɛˀ ŋ|-	t a|ɛˀ|ə ŋ|-|(ŋ)	t a|ɛˀ|ə ŋ|-|y	s + t a ŋ		
+86	84	Jerigaon	Puroik	_sya-prf2	38	Ø	Ø	Ø	Ø	Ø	Ø			
+111	109	Jerigaon	shake	SHAKE1	45	kʰ uː	kʰ uː	kʰ|k uː|u	kʰ|k uː|u	kʰ|k uː|u	kʰ|k uː|u	kʰ uː	हिलाना (earthquake, carpet, clothes)	
+133	131	Jerigaon	flatten (dough)	FLATTEN	57	b i Ø	b i ŋ	b|dʑ i|iː Ø	b|dʑ i|iː ŋ	b|dʑ|w i|iː|ə Ø	b|dʑ|w i|iː|ə ŋ	b i ŋ	समतल करना e.g. dough	!
+142	140	Jerigaon	achieve, obtain	ACHIEVE	59	m ɐ̃ː -	m ɐ̃ː -	m ɐ̃ː|ə -	m ɐ̃ː -	m ɐ̃ː|ə -	m ɐ̃ː -	m ɐ̃ː	प्राप्त	
+166	164	Jerigaon	alive, healthy	ALIVE	69	h a ŋ	h a ŋ	h a|ɐ ŋ|-	h a|ɐ ŋ|-	h a|ɐ|ɛˀ ŋ|-	h a|ɐ|ɛˀ ŋ|-	a + h a ŋ	स्वस्थ	
+164	162	Jerigaon	alive, healthy	_u/o/a-prf1	68	ɛ	a	ɛ|a	a|ɛ	ɛ|a	a|ɛ			!
+192	190	Jerigaon	ask	ASK	88	Ø i k	Ø i k	Ø i|ə k|-	Ø i|ə k|-	Ø i|ə k|-	Ø i|ə k|-	dʑ i k	पूछना	
+206	204	Jerigaon	back (wards)	BACKWARDS	96	kʰ eː -	kʰ eː -	kʰ|k eː -	kʰ|k eː -	kʰ|k eː -	kʰ|k eː -	l ə  + kʰ eː	पिछला	
+210	208	Jerigaon	back (wards)	_la-prf2	97	l -	l -	l|h -|ə	l|h -|ə	l|h|d -|ə	l|h|d -|ə			
+220	218	Jerigaon	bad	BAD1	100	z ɐ̃ː -	z ɐ̃ː -	z ɐ̃ː|ə -	z ɐ̃ː -	z ɐ̃ː|ə -	z ɐ̃ː -	a + z ɐ̃ː	खराब	
+247	245	Jerigaon	beautiful	BEAUTIFUL	118	l eː -	l eː -	l|d eː -	l|d eː -	l|d eː -	l|d eː -	a + l eː	सुंदर	
+274	272	Jerigaon	bind (v)	BIND	139	r u ŋ	r u ŋ	r|n u|ɔ ŋ|-	r|n u|- ŋ|-	r|n|tʰ u|ɔ|eˀ ŋ|-|(ŋ)	r|n|tʰ u|-|eˀ ŋ|-|y	r u ŋ	छांदना  बांधना	
+279	277	Jerigaon	bite	BITE	142	dʑ ɛ k	dʑ ɛ - k	dʑ ɛ|ɛˀ k|-	dʑ ɛ|ɛˀ - k	dʑ ɛ|ɛˀ k|-	dʑ ɛ|ɛˀ - k	dʑ ɛ k	काटना  चबाना	!
+281	279	Jerigaon	same, equal	EQUAL	144	t u	t u	t u	t u	t u	t u	a + t u	वही, एक सा	
+311	309	Jerigaon	borrow	BORROW2	162	l ɛːʰ	l ɛːʰ	l ɛːʰ	l ɛːʰ	l ɛːʰ	l ɛːʰ	l ɛːʰ	उधार लेना	
+330	328	Jerigaon	bridge, hanging	HANGINGBRIDGE	174	s ɔ̃ː ŋ	s ɔ̃ː ŋ	s ɔ̃ː ŋ|-	s ɔ̃ː ŋ	s ɔ̃ː ŋ|-	s ɔ̃ː ŋ	s ɔ̃ ŋ	hanging bridge.jpg	
+370	368	Jerigaon	burn, roast (vt)	BURNVT	195	r iː	r iː	r|tʰ iː	r|tʰ iː	r|tʰ iː	r|tʰ iː	r iː	भूनना	
+399	397	Jerigaon	chest	CHEST	215	w ɔ	w ɔ	w ɔ	w ɔ	w ɔ	w ɔ	m ə + w ɔ	छाती	
+395	393	Jerigaon	chest	CHEST	214	m Ø	m Ø	m Ø	m Ø	m Ø	m Ø			
+442	440	Jerigaon	civet, palm	PALMCIVET	236	n ø n	Ø Ø Ø Ø	n ø|ɛ n	Ø Ø Ø Ø	n ø|ɛ n	Ø Ø Ø Ø	s u + n ø n	Asian-Palm-Civet.jpg	!
+447	445	Jerigaon	civet, palm	_sya-prf6	237	s Ø	s u	s|z Ø	s|z u	s|z Ø	s|z u			!
+451	449	Jerigaon	clean	CLEAN	238	s a n	s a Ø	s a|ɛˀ n	s a|ɛˀ Ø	s a|ɛˀ|ə n	s a|ɛˀ|ə Ø	a + s a	स्वच्छ	!
+476	474	Jerigaon	scratch	SCRATCH1	251	d ɔ k	d ɔ k	d ɔ|y k|-	d ɔ|a k|-	d ɔ|y|a k|-	d ɔ|a|u k|-	d ɔ k	खरोंचना with nails, hoofs	
+488	486	Jerigaon	cook	COOK1	259	Ø y ŋ	Ø y ŋ	Ø y ŋ|-	Ø y ŋ|y	Ø y ŋ|-|(ŋ)	Ø y ŋ|y|-	tʰ y ŋ	पकाना (water, hard tubers, meat, soft vegetables etc.!)	
+499	497	Jerigaon	cough (vi)	COUGH	268	s yː	Ø yː	s yː	Ø yː	s yː	Ø yː	ʨʰ yː	खांसना	!
+501	499	Jerigaon	cover (v)	COVER	270	Ø ɛ ŋ	Ø ɛ ŋ	Ø ɛ|ə ŋ|-	Ø ɛ|ə ŋ|-	Ø ɛ|ə|ɛˀ ŋ|-|ɹ	Ø ɛ|ə|ɛˀ ŋ|-|u	tʰ ɛ ŋ	ढोकना	
+519	517	Jerigaon	curcuma sp.	CURCUMA	279	b øˀ -	b øˀ -	b øˀ -	b øˀ|- -	b øˀ -	b øˀ|- -	b øˀ	अवती	
+523	521	Jerigaon	cure (vi)	CURE	280	dʑ a Ø	dʑ a Ø	dʑ a|ɛˀ Ø	dʑ a|ɛˀ Ø	dʑ a|ɛˀ Ø	dʑ a|ɛˀ|ɛ Ø	dʑ a p	अवती	
+532	530	Jerigaon	daughter-in-law	DAUGHTERINLAW	285	tɕʰ a n	tɕʰ a n	tɕʰ a|ɛˀ n	tɕʰ a|ɛˀ n	tɕʰ a|ɛˀ n	tɕʰ a|ɛˀ|ɛ n	a + tɕʰ a n	बहुॅ	
+534	532	Jerigaon	pull	PULL1	286	tɕʰ ɛ ŋ	tɕʰ ɛ ŋ	tɕʰ ɛ|ɛˀ ŋ|-	tɕʰ ɛ|ɛˀ ŋ|-	tɕʰ ɛ|ɛˀ ŋ|-	tɕʰ ɛ|ɛˀ ŋ|-	tɕʰ ɛ ŋ	खींचना	
+541	539	Jerigaon	peas	PEAS	301	b i n	b i n	b i|iː n|-	b i|iː n|-	b i|iː|ə n|-|ŋ	b i|iː|ə n|-|ŋ	b i n	job's tears.jpg	
+562	560	Jerigaon	deer, sambar	DEER	313	Ø y k	Ø y Ø	Ø y k	Ø y Ø	Ø y k	Ø y Ø	s ə + z y k	sambar deer.jpg	!
+565	563	Jerigaon	defeat (vi)	DEFEAT	314	pʰ ɔ̃ː ŋ	pʰ ɔ̃ː ŋ	pʰ ɔ̃ː ŋ|-	pʰ ɔ̃ː ŋ	pʰ ɔ̃ː ŋ|-	pʰ ɔ̃ː ŋ	pʰ ɔ̃ ŋ	हरा देना	
+570	568	Jerigaon	deity, ghost	DEITYGHOST	315	l ɔː	l ɔː	l ɔː	l ɔː	l ɔː	l ɔː	m ə + l ɔː	देवता भूत	
+573	571	Jerigaon	deity, ghost	_ma-prf1	316	m ə	m ə	m ə|-	m ə|-	m ə|-|ɔː	m ə|-|ɔː			
+577	575	Jerigaon	descend	DESCEND	318	j yː	j yː	j|m yː	j|m yː	j|m yː	j|m yː	j yː	नीचे उतरना	
+606	604	Jerigaon	dragon	THUNDER	334	tɕʰ aː	tɕʰ aː	tɕʰ|s aː|ɔː	tɕʰ|tɕ aː|ɔː	tɕʰ|s|tɕ aː|ɔː	tɕʰ|tɕ|s aː|ɔː	n ə + tɕʰ aː	maybe thunder, lightning	
+624	622	Jerigaon	eagle, buzzard	EAGLE	346	tɕ y ŋ	tɕ y ŋ	tɕ y ŋ	tɕ y ŋ	tɕ y ŋ	tɕ y ŋ	b ə + tɕ y ŋ	eagle.JPG	
+633	631	Jerigaon	eagle, buzzard	BIRD3	348	Ø ə	Ø ə	Ø ə|u	Ø ə|ɔ̃	Ø ə|u|ɔ̃	Ø ə|ɔ̃|ɔː			
+627	625	Jerigaon	quarrel (v)	RELEASE	347	s u ŋ	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|z u|ɔ|a ŋ|-|n	s|tɕʰ|z u|ɔ|- ŋ|-|u	s u ŋ	रिहा करना	
+685	683	Jerigaon	frying pan	FRYPAN	377	j ɛː	j ɛː	j|m ɛː|aː	j|m ɛː|aː	j|m ɛː|aː	j|m ɛː|aː	kʰ + j ɛː	तलने की कड़ाही	
+899	897	Jerigaon	frying pan	_kha-prf1	460	kʰ Ø	kʰ Ø	kʰ Ø	kʰ Ø	kʰ Ø	kʰ Ø			
+690	688	Jerigaon	face	FACE2	383	z y k	z y k	z y k|-	z y k|-	z y k|-	z y k|-	z y k	चेहरा	
+713	711	Jerigaon	millet, broomcorn	BITTER1	391	s ɐ k	s - Ø k	s ɐ k|-	s - Ø k	s ɐ k|-	s - Ø k	n ə + ʨʰ a k	broomcorn.jpg	!
+1327	1325	Jerigaon	millet, broomcorn	_na-prf2	687	n ə -	n ə -	n ə|ɔː -	n ə|ɔː -	n ə|ɔː -	n ə|ɔː -			
+717	715	Jerigaon	potato-bean	POTATOBEAN	393	m ɛ n	m ɛ n	m|w ɛ|a n|-	m|w ɛ|a n|-	m|w ɛ|a|ɐ̃ː n|-	m|w ɛ|a|ɐ̃ː n|-	m ɛ n	apios.jpe	
+728	726	Jerigaon	millet, foxtail	MILLETFOXTAIL	398	kʰ u	kʰ Ø u	kʰ u	kʰ Ø u|ɔ	kʰ u	kʰ Ø u|ɔ	n ə + kʰ u	foxtail.png	!
+743	741	Jerigaon	fence	FENCE	403	g u ŋ	g u ŋ	g u|ɔ ŋ|-	g u|- ŋ|-	g u|ɔ ŋ|-	g u|- ŋ|-|ɔ	g u ŋ	बाड़	
+747	745	Jerigaon	fetch	FETCH	406	l ɛˀ	l ɛˀ	l|d ɛˀ	l|d ɛˀ	l|d ɛˀ	l|d ɛˀ	l ɛˀ	लाना	
+782	780	Jerigaon	flame	FLAME	419	l a -	l a -	l a|ɐ -	l a|ɐ -	l a|ɐ|ɛˀ -	l a|ɐ|ɛ -	b a + l a	ज्योति	
+792	790	Jerigaon	flee	FLEE	421	j ɛ ʔ	j ɛ ʔ	j|m ɛ ʔ	j|m ɛ ʔ	j|m ɛ ʔ	j|m ɛ ʔ	j ɛ ʔ	भागना	
+819	817	Jerigaon	flow	FLOW	430	h ɔː	h ɔː	h|b ɔː	h|b ɔː	h|b ɔː	h|b ɔː	h ɔː	बहना	
+893	891	Jerigaon	wait	WAIT2	458	Ø a ŋ	Ø a ŋ	Ø a|ɛˀ ŋ	Ø a|ɛˀ ŋ	Ø a|ɛˀ ŋ	Ø a|ɛˀ|ɛ ŋ	l a ŋ	प्रतीक्षा करना, रक्षा करना	
+934	932	Jerigaon	wet	WET1	472	s i ŋ	s i ŋ	s|- i|ĩː ŋ|-	s i|ĩː ŋ|-	s|- i|ĩː|iː ŋ|-	s i|ĩː|iː ŋ|-|ɔ	a + s i ŋ	भीगा	
+963	961	Jerigaon	gourd	GOURD	485	tɕʰ u ŋ	tɕʰ - u ŋ	tɕʰ u|ɔ ŋ|-	tɕʰ -|u u|ɔ ŋ|-	tɕʰ u|ɔ ŋ|-	tɕʰ -|u|y u|ɔ ŋ|-	kʰ a + tɕʰ u ŋ	bottle gourd.jpg	!
+958	956	Jerigaon	gourd	_kha-prf4	484	kʰ -	kʰ -	kʰ|g -|uː	kʰ|g -|uː	kʰ|g -|uː	kʰ|g -|uː			
+998	996	Jerigaon	halt, stop	HALT	504	k ɐ k	k ɐ k	k ɐ k|-	k ɐ k|-	k ɐ k|-	k ɐ k|-	k ɐ k	स्र्कना	
+1003	1001	Jerigaon	fall	FALL1	505	tɕʰ uː	tɕʰ uː	tɕʰ|- uː|u	tɕʰ uː|u	tɕʰ|- uː|u	tɕʰ uː|u	tɕʰ uː	गिरना from height, slip, items?	
+1016	1014	Jerigaon	hatch	HATCH	509	tɕ ɔ k	tɕ ɔ k	tɕ|tɕʰ ɔ|o k|-	tɕ|tɕʰ ɔ|o k|-	tɕ|tɕʰ ɔ|o k|-	tɕ|tɕʰ ɔ|o|- k|-	tɕ ɔ k	अंडे से निकलना, सेना	
+1037	1035	Jerigaon	hearth, fireplace	FIREPLACE	516	r ø Ø	r Ø Ø Ø	r|tʰ ø Ø	r|tʰ Ø Ø Ø	r|tʰ ø Ø	r|tʰ Ø Ø Ø	b + r ɔ p	चूल्हा	!
+1035	1033	Jerigaon	hearth, fireplace	FIRE3	515	b uː	b -	b uː	b -	b uː	b -			!
+1068	1066	Jerigaon	hornbill	BIRD5	531	h u	h u	h|pʰ u|ɔ	h|pʰ u|ɔ	h|pʰ u|ɔ|y	h|pʰ u|ɔ|ə	h u + l ɔ̃ː + w ɔ̃ː ŋ	hornbill.jpe	
+1040	1038	Jerigaon	hornbill	HORNBILL3	517	l ɔ̃ː ŋ	l ɔ̃ː ŋ	l|h ɔ̃ː ŋ|-	l|h ɔ̃ː ŋ|-	l|h|d ɔ̃ː ŋ|-|n	l|h|d ɔ̃ː ŋ|-|n			
+1074	1072	Jerigaon	hornbill	HORNBILL2	532	w ɔ̃ː ŋ	w ɔ̃ː ŋ	w|j ɔ̃ː ŋ|-	w|j ɔ̃ː ŋ|-	w|j ɔ̃ː ŋ|-	w|j ɔ̃ː ŋ|-|y			
+1092	1090	Jerigaon	horsefly	HORSEFLY1	540	t ɛ m	t i m	t ɛ|i m|-	t i|ə m|-	t ɛ|i|ə m|-	t i|ə m|-	t a m + p iː	गुड़मुक्खी	!
+1088	1086	Jerigaon	horsefly	HORSEFLY2	539	p iː -	p iː -	p iː -	p iː -	p iː -	p iː -			
+1131	1129	Jerigaon	ice	ICE	566	h ɛ k	h ɛ k	h|kʰ ɛ|a k	h ɛ|a k	h|kʰ ɛ|a k	h ɛ|a k	h ɛ k	बर्फ़	
+1134	1132	Jerigaon	back (n)	BACKNB1	568	k yː	k yː	k|h yː|iː	k|h yː|-	k|h|tɕ yː|iː	k|h|tɕ yː|-|ə	k yː	पीठ	
+1219	1217	Jerigaon	lift completely, carry	LIFTUP	624	kʰ a ŋ	kʰ a ŋ	kʰ|k a|ɐ ŋ|-	kʰ|k a|ɐ ŋ|-	kʰ|k a|ɐ|ɛˀ ŋ|-	kʰ|k a|ɐ|ɛˀ ŋ|-	kʰ a ŋ	उठाना	
+1248	1246	Jerigaon	like, love	LIKE	635	h ɔ -	h ɔ -	h ɔ -	h ɔ -	h ɔ -	h ɔ -	h ɔ	पसंद होना,  प्रेम करना	
+1258	1256	Jerigaon	load (n)	LOADN	644	j u ŋ	j u ŋ	j|m u ŋ	j|m u ŋ	j|m u ŋ	j|m u ŋ	j u ŋ	भार	
+1289	1287	Jerigaon	make	MAKE	664	s - Ø	s e Ø	s -|eˀ Ø	s e|- Ø	s -|eˀ|e Ø	s e|-|eˀ Ø	s eˀ	बनाना,  करना	!
+1299	1297	Jerigaon	manure	MANURE2	671	w uː	w uː	w uː|u	w uː|u	w uː|u	w uː|u	l ə + w uː	खाद,  पाँस,	
+1296	1294	Jerigaon	manure	MANURE1	670	Ø Ø	Ø Ø	Ø Ø	Ø Ø	Ø Ø	Ø Ø			
+1317	1315	Jerigaon	meet	MEET	683	s yː	s yː	s yː	s yː	s yː	s yː	s yː	मिलना	
+1323	1321	Jerigaon	middle / centre	MIDDLE	686	tɕ u ŋ	tɕ u ŋ	tɕ u ŋ|-	tɕ u ŋ|-	tɕ u ŋ|-|(ŋ)	tɕ u ŋ|-|y	a + tɕ u ŋ	बीच का	
+1329	1327	Jerigaon	settle	SETTLE	688	tɕʰ a k	tɕʰ a k	tɕʰ a|ɐ k|-	tɕʰ a|ɐ k|-	tɕʰ a|ɐ|ɛˀ k|-	tɕʰ a|ɐ|ɛˀ k|-	tɕʰ ɐ k	बसना people, frost	
+1389	1387	Jerigaon	naga, serpent deity	NAGA	721	h yː	h yː	h|n yː|o	h|n yː|-	h|n yː|o|eː	h|n yː|-|eː	h yː	नाग	
+1412	1410	Jerigaon	neck	NECK1	733	Ø u -	Ø u Ø -	Ø u -|ŋ	Ø u Ø -|ŋ	Ø u -|ŋ	Ø u Ø -|ŋ	n ə + tʰ u ŋ	गरदन	!
+1414	1412	Jerigaon	neck	_hna-prf4	734	Ø ə -	Ø ə -	Ø ə -	Ø ə -	Ø ə -	Ø ə -			
+1425	1423	Jerigaon	net for fishing	NET	742	tɕʰ u k	tɕʰ u k	tɕʰ|tɕ u k	tɕʰ|tɕ u k	tɕʰ|tɕ u k	tɕʰ|tɕ u k	tɕʰ u k	मछली पकड़ने का जाल	
+1445	1443	Jerigaon	oil	OIL	759	tʰ ɔː	tʰ ɔː	tʰ|t ɔː	tʰ|t ɔː	tʰ|t ɔː	tʰ|t ɔː	tʰ ɔː	तेल	
+1480	1478	Jerigaon	pangolin	PANGOLIN	778	w Ø	w Ø	w Ø	w Ø	w Ø	w Ø	s y + w ɔ	pangolin.jpg	
+1485	1483	Jerigaon	pangolin	MEAT3	779	s y	s y	s|tɕʰ y	s|tɕʰ y	s|tɕʰ|z y	s|tɕʰ|z y			
+1518	1516	Jerigaon	pinch	PINCH	807	tɕ i k	tɕ i k	tɕ i|ə k|-	tɕ i|ə k|-	tɕ i|ə k|-	tɕ i|ə k|-	tɕ i k	चुभना (e.g. harvest finger millet)	
+1522	1520	Jerigaon	plant  (vt)	PLANT	814	h ɐː	h ɐː	h ɐː	h ɐː	h ɐː	h ɐː	h ɐː	भूमि में गाड़ना	
+1524	1522	Jerigaon	play	PLAY2	815	l Ø	l Ø	l Ø	l Ø	l Ø	l Ø	l ɔː	खेलना	
+1532	1530	Jerigaon	plough (v)	PLOUGH	817	w Ø	w Ø	w Ø	w Ø	w Ø	w Ø	w ɔː	हल चलाना	
+1540	1538	Jerigaon	pour	POUR	823	h y k	h y k	h|n y|i k|-	h|n y|i k|-	h|n y|i k|-|ŋ	h|n y|i|- k|-	h y k	डालना	
+1544	1542	Jerigaon	present	_PRS	824	d i	d i	d|s i|ə	d|s i|ə	d|s|tʰ i|ə	d|s|tʰ i|ə	d i	I eat now	
+1564	1562	Jerigaon	grind (grinding stone)	GRIND1	837	s u Ø	s u ŋ	s|tɕʰ u|ɔ Ø	s|tɕʰ u|ɔ ŋ	s|tɕʰ|z u|ɔ|a Ø	s|tɕʰ|z u|ɔ|- ŋ	s u ŋ	पीसना	!
+1572	1570	Jerigaon	question	QUESTION	843	j a	j a	j|m a|ɐ	j|m a|ɐ	j|m a|ɐ|ɛˀ	j|m a|ɐ|ɛˀ	j a	Are you Sartang? vs. Is he Sartang? vs. What is he? and What are you?	
+1583	1581	Jerigaon	husks, chaff	HUSKS	854	g u -	g u -	g u|ɔ -|k	g u|ɔ -|k	g u|ɔ|a -|k	g u|ɔ|- -|k	g u	भूसी,  भूसा	
+1595	1593	Jerigaon	reap	REAP	856	r ɔ̃ː ŋ	r ɔ̃ː ŋ	r ɔ̃ː ŋ	r ɔ̃ː ŋ	r ɔ̃ː ŋ	r ɔ̃ː ŋ	r ɔ̃ ŋ	काटना e.g. paddy	
+1599	1597	Jerigaon	recognise	RECOGNISE	857	ĩˀ -	ĩˀ -	ĩˀ -	ĩˀ -	ĩˀ -	ĩˀ -	ĩˀ	पहचानना	
+1607	1605	Jerigaon	now	NOW	870	g ɔ	g ɔ	g ɔ|y	g ɔ|y	g ɔ|y	g ɔ|y	g ɔ	अभी	
+1618	1616	Jerigaon	ride, mount	RIDE	874	ɛ̃ĩ n	ɛ̃ĩ n	ɛ̃ĩ|y n|ŋ	ɛ̃ĩ|y n|ŋ	ɛ̃ĩ|y|ĩː n|ŋ	ɛ̃ĩ|y|ĩː n|ŋ	ɛ̃ĩ n	घोड़े की सवारी करने	
+1641	1639	Jerigaon	pubic hair	PUBEHAIR	893	m yː Ø	m yː ŋ	m|w yː|y Ø	m|w yː|y ŋ	m|w|n yː|y|ø Ø	m|w|- yː|y|- ŋ	m y ŋ	जघवास्थि के बाल	!
+1652	1650	Jerigaon	rub; sharpen	SHARPEN	896	z yː -	z ə -	z yː -	z ə -	z yː -	z ə -	z e	तेज करने e.g. a knife	!
+1655	1653	Jerigaon	run	RUN	897	tɕʰ ɛː	tɕʰ ɛː	tɕʰ|tɕ ɛː	tɕʰ|tɕ ɛː	tɕʰ|tɕ ɛː	tɕʰ|tɕ ɛː	tɕʰ ɛː	दौड़ाना	
+1680	1678	Jerigaon	search	SEARCH	913	s ɔː	s ɔː	s|z ɔː	s|z ɔː	s|z ɔː	s|z ɔː	s ɔː	खोजना	
+1689	1687	Jerigaon	shade	SHADE	924	tɕʰ a -	tɕʰ a -	tɕʰ a|ɐ -	tɕʰ a|ɐ -	tɕʰ a|ɐ|ɛˀ -	tɕʰ a|ɐ|ɛ -	tɕʰ a	छाया,  साया (shade shadow)	
+1693	1691	Jerigaon	shake	SHAKE2	926	kʰ i -	kʰ i -	kʰ i|ə -	kʰ i|ə -	kʰ i|ə|ɛ̃ː -	kʰ i|ə|ɛ̃ː -	kʰ i	हिलाना (earthquake, carpet, clothes)	
+1699	1697	Jerigaon	shoe, footwear	SHOE	937	h ɔ̃ː Ø	h ɔ̃ː ŋ	h|n ɔ̃ː|i Ø	h|n ɔ̃ː|i ŋ	h|n ɔ̃ː|i|ɔ Ø	h|n ɔ̃ː|i|ɔ ŋ	l ə + h ɔ̃ː ŋ	जूता	!
+1737	1735	Jerigaon	smell (n)	SMELLN	984	s ĩː -	s ĩː -	s|- ĩː|i -|k	s ĩː|i -|k	s|- ĩː|i|y -|k	s ĩː|i|y -|k	s ĩː	गंध	
+1747	1745	Jerigaon	snatch away	SNATCH	992	kʰ ɔ	kʰ ɔ	kʰ|tɕʰ ɔ|øː	kʰ|tɕʰ ɔ|øː	kʰ|tɕʰ|k ɔ|øː	kʰ|tɕʰ|k ɔ|øː	kʰ ɔ	छीनना (land)	
+1767	1765	Jerigaon	sow, broadcast	SOW1	1017	pʰ i k	pʰ i k	pʰ i|ə k	pʰ i|ə k	pʰ i|ə k	pʰ i|ə k	pʰ i k	बीज बोना	
+1771	1769	Jerigaon	sow, broadcast	SOW2	1018	h eˀ	h eˀ	h eˀ	h eˀ|ɛ	h eˀ	h eˀ|ɛ	h eˀ	बीज बोना	
+1860	1858	Jerigaon	steam	STEAM	1070	h Ø -	h Ø ŋ	h Ø -|ŋ	h Ø ŋ|-	h Ø -|ŋ	h Ø ŋ|-|ɔ	h ɐ ŋ + p ɔː	भाप	!
+1864	1862	Jerigaon	steam	_pa-suf9	1071	p ɔː	p ɔː	p ɔː|ɛˀ	p ɔː|ɛˀ	p ɔː|ɛˀ	p ɔː|ɛˀ			
+1871	1869	Jerigaon	stich	STICH	1075	tɕʰ ɐ k	tɕʰ ɐ k	tɕʰ|tɕ ɐ k|-	tɕʰ|tɕ ɐ k|-	tɕʰ|tɕ ɐ k|-	tɕʰ|tɕ ɐ k|-	tɕʰ ɐ k	सिलना	
+1876	1874	Jerigaon	story	STORY1	1078	t a Ø	t a Ø	t a Ø	t a Ø	t a Ø	t a Ø	kʰ a n + t a ŋ	कहानी	
+1880	1878	Jerigaon	story	STORY2	1079	kʰ a ɹ	kʰ a ɹ	kʰ|g a|ɛ ɹ	kʰ|g a|ɛˀ ɹ	kʰ|g a|ɛ|ɛˀ ɹ	kʰ|g a|ɛˀ|ə ɹ			
+1908	1906	Jerigaon	sweet	SWEET	1098	tɕʰ ĩː	tɕʰ ĩː	tɕʰ|tɕ ĩː|ɛ̃ĩ	tɕʰ|tɕ ĩː|ɛ̃ĩ	tɕʰ|tɕ ĩː|ɛ̃ĩ|ɛ̃ː	tɕʰ|tɕ ĩː|ɛ̃ĩ|ɛ̃ː	a + tɕʰ ĩː	मिठाई	
+1922	1920	Jerigaon	tear (vt)	TEAR	1114	z eˀ -	z eˀ -	z eˀ -	z eˀ -	z eˀ -	z eˀ -	z eˀ	नोचना	
+1925	1923	Jerigaon	tell	TELL	1115	s ɐˀ -	s ɐˀ -	s ɐˀ -	s ɐˀ -	s ɐˀ -	s ɐˀ -	s ɐˀ	बोलना	
+1936	1934	Jerigaon	thief	STEAL2	1127	j ɔː	j ɔː	j|m ɔː|ɔ̃	j|m ɔː	j|m ɔː|ɔ̃	j|m ɔː	dʑ y + j ɔː	चोर	
+1939	1937	Jerigaon	thief	_byi-prf7	1129	dʑ Ø	dʑ Ø	dʑ Ø	dʑ Ø	dʑ Ø	dʑ Ø			
+1948	1946	Jerigaon	thing	THING2	1138	tɕʰ i ŋ	tɕʰ Ø ŋ -	tɕʰ|s i|y ŋ|-	tɕʰ Ø ŋ -|ŋ	tɕʰ|s i|y|ĩː ŋ|-	tɕʰ Ø ŋ -|ŋ	m ə + tɕʰ i ŋ	चीज़	!
+1944	1942	Jerigaon	thing	THING1	1137	m ə	m ə	m ə	m ə|i	m ə	m ə|i			
+1961	1959	Jerigaon	thunder (vi)	THUNDER	1155	h y k	h y k	h y|i k|-	h y|i k|-	h y|i k|-	h y|i k|-	h y k	मेघगर्जन	
+1985	1983	Jerigaon	tusk	TUSK	1186	n Ø	n Ø	n Ø	n Ø	n Ø	n Ø	n i	दांत (elephant, wild boar)	
+1988	1986	Jerigaon	twist	TWIST	1188	tɕʰ Ø Ø	tɕʰ Ø -	tɕʰ Ø Ø	tɕʰ Ø -	tɕʰ Ø Ø	tɕʰ Ø -	tɕʰ i	घुमाना	!
+1992	1990	Jerigaon	uproot	UPROOT	1194	pʰ y ŋ	pʰ y ŋ	pʰ|h y|yː ŋ	pʰ|h y|yː ŋ	pʰ|h y|yː ŋ	pʰ|h y|yː ŋ	pʰ y ŋ	जड़ से उखाड़ना	
+2028	2026	Jerigaon	walking stick	WALKINGSTICK	1215	s y ŋ	s - Ø ŋ	s y|i ŋ|-	s - Ø ŋ	s y|i ŋ|-	s - Ø ŋ	g y + s ɔ ŋ	कुबड़ी	!
+2025	2023	Jerigaon	walking stick	STICK2	1214	g y	g y	g y|ɔ̃	g y|ɔː	g y|ɔ̃|ɔː	g y|ɔː			
+2046	2044	Jerigaon	wheat	WHEAT	1235	k uː	k uː	k|h uː|u	k|h uː|u	k|h|tɕ uː|u	k|h|tɕ uː|u	m u + k uː	गेहूँ	
+2050	2048	Jerigaon	wheat	_ma-prf12	1237	Ø u	Ø u	Ø u|ə	Ø u|ə	Ø u|ə|ɔ̃	Ø u|ə			
+2076	2074	Jerigaon	wipe	WIPE	1262	yː	yː	yː	yː|-	yː	yː|-|ə	yː	पोंछना	
+2095	2093	Jerigaon	year, this	YEARTHIS	1278	tʰ a Ø	tʰ a Ø	tʰ a|ɛˀ Ø	tʰ a|ɛˀ Ø	tʰ a|ɛˀ Ø	tʰ a|ɛˀ|ɛ Ø	tʰ a m + b u	इस साल	
+2093	2091	Jerigaon	year, this	_pu-suf3	1277	b u	b u	b u	b u	b u	b u			
+112	110	Khoina	shake	SHAKE1	45	kʰ uː	kʰ uː	kʰ|g uː|-	kʰ|g uː|-	kʰ|g uː|-|yː	kʰ|g uː|-|yː	kʰ uː	हिलाना (earthquake, carpet, clothes)	
+134	132	Khoina	flatten (dough)	FLATTEN	57	b i Ø	b i ŋ	b|w i|iː Ø	b|w i|iː ŋ	b|w|dʑ i|iː|aː Ø	b|w|dʑ i|iː|aː ŋ	b i ŋ	समतल करना e.g. dough	!
+167	165	Khoina	alive, healthy	ALIVE	69	f a ŋ	f a ŋ	f a|ɐ ŋ|-	f a|ɐ ŋ|-	f a|ɐ|ə ŋ|-|n	f a|ɐ|ə ŋ|-	a + f a ŋ	स्वस्थ	
+165	163	Khoina	alive, healthy	_u/o/a-prf1	68	a	ə	a|ə	ə|aː	a|ə|aː	ə|aː|a			!
+207	205	Khoina	back (wards)	BACKWARDS	96	kʰ ɛː -	kʰ ɛː -	kʰ|g ɛː|eː -	kʰ|g ɛː|eː -	kʰ|g ɛː|eː -	kʰ|g ɛː|eː -	l ə + kʰ ɛː	पिछला	
+212	210	Khoina	back (wards)	_la-prf2	97	l ə	l ə	l|h ə|a	l|h ə|a	l|h|d ə|a	l|h|d ə|a			
+248	246	Khoina	beautiful	BEAUTIFUL	118	l ɛː -	l ɛː -	l|h ɛː -	l|h ɛː -	l|h|d ɛː -	l|h|d ɛː -	a + l ɛː	सुंदर	
+258	256	Khoina	beer strainer	BEERSTRAINER1	127	g a -	g a -	g a|ə -	g a|ə -	g a|ə|aː -	g a|ə -	g a + tɕ aː	khaski.JPG	
+254	252	Khoina	beer strainer	BEERSTRAINER2	126	tɕ aː	tɕ aː	tɕ aː	tɕ aː|iː	tɕ aː	tɕ aː|iː			
+280	278	Khoina	bite	BITE	142	dz ai k	dz ai - k	dz ai k	dz ai - k|ɐ	dz ai k	dz ai - k|ɐ	dz ai k	काटना  चबाना	!
+295	293	Khoina	boil  (water)	BOILWATER	154	tsʰ ɔ	tsʰ ɔ	tsʰ|tɕʰ ɔ	tsʰ|tɕʰ ɔ	tsʰ|tɕʰ ɔ	tsʰ|tɕʰ ɔ	tsʰ ɔ	पानी उबालें	
+312	310	Khoina	borrow	BORROW2	162	l aː	l aː	l|h aː	l|h aː	l|h aː	l|h aː	l aː	उधार लेना	
+484	482	Khoina	comparative degree	_COMP	258	ʂ ɔ k	ʂ ɔ k	ʂ|ɕ ɔ|ɐ̃ː k	ʂ|ɕ ɔ|ɐ̃ː k|ɐ	ʂ|ɕ|s ɔ|ɐ̃ː|y k	ʂ|ɕ|s ɔ|ɐ̃ː|y k|ɐ	ʂ ɔ k	big – bigger  आपेक्षिक मात्रा	
+503	501	Khoina	cover (v)	COVER	270	tʰ ai ŋ	tʰ ai ŋ	tʰ ai|ə ŋ|-	tʰ ai|ə ŋ|-	tʰ ai|ə|u ŋ|-|j	tʰ ai|ə|u ŋ|-|u	tʰ ai ŋ	ढोकना	
+535	533	Khoina	pull	PULL1	286	ʈʂʰ ai ŋ	ʈʂʰ ai ŋ	ʈʂʰ ai ŋ|-	ʈʂʰ ai ŋ|-	ʈʂʰ ai ŋ|-|n	ʈʂʰ ai ŋ|-|a	ʈʂʰ ai ŋ	खींचना	
+542	540	Khoina	peas	PEAS	301	b i -	b i -	b i|iː -|n	b i|iː -|n	b i|iː|aː -|n	b i|iː|aː -|n	b i	job's tears.jpg	
+567	565	Khoina	defeat (vi)	DEFEAT	314	pʰ ũː ŋ	pʰ ũː ŋ	pʰ|pʰl ũː|ɔ̃ː ŋ|-	pʰ|pʰl ũː|ɔ̃ː ŋ|-	pʰ|pʰl ũː|ɔ̃ː|ũ ŋ|-|ŋː	pʰ|pʰl ũː|ɔ̃ː|ũ ŋ|-|u	pʰ ũ ŋ	हरा देना	
+579	577	Khoina	dig	DIG	320	Ø ɔ k	Ø ɔ k	Ø ɔ|ɔː k	Ø ɔ|ɔː k|ɐ	Ø ɔ|ɔː k	Ø ɔ|ɔː k|ɐ	j ɔ k	खोदना	
+625	623	Khoina	eagle, buzzard	EAGLE	346	tɕ a ŋ	tɕ a ŋ	tɕ a ŋ|ŋː	tɕ a ŋ|u	tɕ a ŋ|ŋː	tɕ a ŋ|u|ŋː	b ə + tɕ a ŋ	eagle.JPG	
+634	632	Khoina	eagle, buzzard	BIRD3	348	Ø ə	Ø ə	Ø ə|ɔ	Ø ə|ɔː	Ø ə|ɔ|ɔː	Ø ə|ɔː			
+628	626	Khoina	quarrel (v)	RELEASE	347	ʂ u ŋ	ʂ u ŋ	ʂ|tsʰ u|ɔ ŋ|-	ʂ|tsʰ u|ɔ ŋ|-	ʂ|tsʰ|ɕ u|ɔ|a ŋ|-|n	ʂ|tsʰ|ɕ u|ɔ|- ŋ|-|u	ʂ u ŋ	रिहा करना	
+719	717	Khoina	potato-bean	POTATOBEAN	393	m ɛ n	m ɛ n	m|w ɛ|ə n|-	m|w ɛ|ə n|-	m|w|b ɛ|ə|a n|-	m|w|b ɛ|ə|a n|-	m ɛ n	apios.jpe	
+734	732	Khoina	amaranth	AMARANTH	401	k u ŋ	k - u ŋ	k|kʰ u|ɔ ŋ|-	k|kʰ -|ɐ̃ː u|n ŋ|-	k|kʰ|ʈʂʰ u|ɔ|ə ŋ|-|j	k|kʰ|ʈʂʰ -|ɐ̃ː|y u|n|a ŋ|-|(ŋ)	m ə + k u ŋ	amaranth.jpg	!
+173	171	Khoina	amaranth	_ma-prf1	76	m ə -	m ə -	m|b ə|ɛ -	m|b ə|ɐ̃ː -	m|b ə|ɛ|ɐ̃ː -	m|b ə|ɐ̃ː|ɛ -			
+744	742	Khoina	fence	FENCE	403	g u ŋ	g u ŋ	g u|ə ŋ|-	g u|ə ŋ|-	g u|ə|ũː ŋ|-|j	g u|ə|ũː ŋ|-|j	g u ŋ	बाड़	
+748	746	Khoina	fetch	FETCH	406	l a	l a	l|h a	l|h a	l|h|d a	l|h|d a	l a	लाना	
+784	782	Khoina	flame	FLAME	419	h a -	h a -	h a|ɐ -	h a|ɐ -	h a|ɐ|ə -	h a|ɐ|ə -	b a + h a	ज्योति	
+793	791	Khoina	flee	FLEE	421	j ɛ ʔ	j ɛ ʔ	j ɛ ʔ|t	j ɛ ʔ|t	j ɛ ʔ|t	j ɛ ʔ|t	j ɛ ʔ	भागना	
+796	794	Khoina	float	FLOAT	422	r aː	r aː	r aː	r aː	r aː	r aː	r aː	वायु पर तैरना	
+807	805	Khoina	sister, younger	SISYOUNG	427	r i ŋ	r i ŋ	r i|y ŋ|-	r i ŋ|-	r i|y ŋ|-|n	r i ŋ|-|u	m ə + r i ŋ	छोटी बहन	
+1684	1682	Khoina	sister, younger	_ma-prf11	918	m ə	m ə	m|b ə|a	m|b ə|a	m|b ə|a|y	m|b ə|a|y			
+821	819	Khoina	flow	FLOW	430	b ɔ̃ː	b ɔ̃ː	b ɔ̃ː	b ɔ̃ː	b ɔ̃ː	b ɔ̃ː	b ɔ̃ː	बहना	
+886	884	Khoina	okay	OKAY	454	ɐː	ɐː	ɐː	ɐː	ɐː	ɐː	ɐː	e.g. I go ok	
+935	933	Khoina	wet	WET1	472	ʂ i ŋ	ʂ i ŋ	ʂ|ɕ i|y ŋ|-	ʂ|ɕ i|ĩː ŋ|-	ʂ|ɕ|s i|y|ĩː ŋ|-|n	ʂ|ɕ|s i|ĩː|u ŋ|-	a + ʂ i ŋ	भीगा	
+937	935	Khoina	keep, remain	KEEP	475	r uː	r uː	r uː|-	r uː|-	r uː|-|yː	r uː|-|yː	r uː	रखना	
+951	949	Khoina	shoulder	SHOULDER2	482	t yː ŋ	t yː ŋ	t|tʰ yː|y ŋ|-	t|tʰ yː|y ŋ|-	t|tʰ|tsʰ yː|y|a ŋ|-|n	t|tʰ|tsʰ yː|y|a ŋ|-|u	j a + pʰ a k + t y ŋ	कंधा	
+1704	1702	Khoina	shoulder	SHOULDER1	943	pʰ a k	pʰ a Ø	pʰ|pʰl a|ə k	pʰ|pʰl a|ə Ø	pʰ|pʰl a|ə|aː k	pʰ|pʰl a|ə Ø			!
+1715	1713	Khoina	shoulder	HANDB1	946	j a	j a	j a|ə	j a|ə	j a|ə|y	j a|ə|y			
+956	954	Khoina	goral	GORAL	483	z ɛ n	z ɛ n	z ɛ n	z ɛ|a n	z ɛ n	z ɛ|a n	s ə + z ɛ n	goral.jpg	
+1004	1002	Khoina	fall	FALL1	505	tsʰ uː	tsʰ uː	tsʰ|- uː|-	tsʰ uː|-	tsʰ|- uː|-|yː	tsʰ uː|-|yː	tsʰ uː	गिरना from height, slip, items?	
+1038	1036	Khoina	hearth, fireplace	FIREPLACE	516	r ø Ø	r Ø Ø Ø	r ø Ø	r Ø Ø Ø	r ø Ø	r Ø Ø Ø	b + r ɔ p	चूल्हा	!
+1036	1034	Khoina	hearth, fireplace	FIRE3	515	b uː	b -	b uː	b -	b uː	b -			!
+1058	1056	Khoina	hold	HOLD	524	Ø ø n	Ø ø n	Ø ø n	Ø ø n	Ø ø n	Ø ø n	z ø n	पकड़ना	
+1132	1130	Khoina	ice	ICE	566	x ɛ t	x ɛ t	x|kʰ ɛ|ə t	x ɛ|ə t|ɐ	x|kʰ ɛ|ə|aː t	x ɛ|ə|a t|ɐ	x ɛ t	बर्फ़	
+1136	1134	Khoina	back (n)	BACKNB1	568	k yː	k yː	k|x yː|y	k|x yː|-	k|x|kʰ yː|y|ĩː	k|x|kʰ yː|-|ĩː	k yː	पीठ	
+1162	1160	Khoina	jackal	JACKAL2	577	r u ŋ	r Ø Ø (ŋ)	r u ŋ|-	r Ø Ø (ŋ)	r u ŋ|-|n	r Ø Ø (ŋ)	m i + r u ŋ	सियार	!
+1165	1163	Khoina	jackal	JACKAL1	578	m i	m i	m|b i	m|b i	m|b i	m|b i			
+1172	1170	Khoina	morning	MORNING1	581	r uː	r uː	r uː|-	r uː|-	r uː|-|yː	r uː|-|yː	n ə + r uː	सुबह	
+1354	1352	Khoina	morning	MORNING3	698	n ɔ	n ɔː	n|r ɔ|ɔː	n|- ɔː	n|r ɔ|ɔː	n|-|r ɔː			!
+1192	1190	Khoina	late (vi)	LATE	601	j Ø -	j Ø -	j Ø -|t	j Ø -|t	j Ø -|t	j Ø -|t	j eˀ	देर हो जाना	
+1220	1218	Khoina	lift completely, carry	LIFTUP	624	kʰ a ŋ	kʰ a ŋ	kʰ|g a|ɐ ŋ|-	kʰ|g a|ɐ ŋ|n	kʰ|g a|ɐ|ə ŋ|-|n	kʰ|g a|ɐ|ə ŋ|n|-	kʰ a ŋ	उठाना	
+1234	1232	Khoina	cook	COOK1	631	Ø ɔ ŋ	Ø ɔ ŋ	Ø ɔ ŋ|-	Ø ɔ ŋ|-	Ø ɔ ŋ|-|j	Ø ɔ ŋ|-|j	r ɔ ŋ	पकाना (water, tubers, meat, vegetables!)	
+1330	1328	Khoina	settle	SETTLE	688	tsʰ a k	tsʰ a k	tsʰ|tɕʰ a|ɐ k	tsʰ|tɕʰ a|ɐ k|ɐ	tsʰ|tɕʰ a|ɐ|ə k	tsʰ|tɕʰ a|ɐ|ə k|ɐ	tsʰ ɐ k	बसना people, frost	
+1390	1388	Khoina	naga, serpent deity	NAGA	721	h yː	h yː	h|n yː|ɔː	h|n yː|-	h|n yː|ɔː|eː	h|n yː|-|eː	h yː	नाग	
+1447	1445	Khoina	oil	OIL	759	tʰ ɔː	tʰ ɔː	tʰ|t ɔː|ɐː	tʰ|t ɔː|ɐː	tʰ|t|ʈʂʰ ɔː|ɐː	tʰ|t|ʈʂʰ ɔː|ɐː	tʰ ɔː	तेल	
+1514	1512	Khoina	pheasant, tragopan	TRAGOPAN	801	b aː Ø	b aː Ø	b aː Ø	b aː Ø	b aː Ø	b aː Ø	h u + b ɐː	tragopan.jpg	
+1510	1508	Khoina	pheasant, tragopan	BIRD8	800	h u	h u	h|x u|ɔ	h|x u|-	h|x|f u|ɔ|ũː	h|x|f u|-|ɔ			
+1529	1527	Khoina	play	PLAY1	816	Ø ai ŋ	Ø ai ŋ	Ø ai|ɛ ŋ|-	Ø ai|ɛ ŋ|-	Ø ai|ɛ|a ŋ|-|j	Ø ai|ɛ|a ŋ|-|j	j ai ŋ	खेलना	
+1541	1539	Khoina	pour	POUR	823	h y k	h y k	h|n y|i k|ŋ	h|n y|i k|ɐ	h|n y|i|ə k|ŋ	h|n y|i|ə k|ɐ	h y k	डालना	
+1549	1547	Khoina	prohibitive prefix	_PROH	825	d ə	d ə	d ə|a	d ə|a	d ə|a|y	d ə|a|y	d ə	I eat now	
+1565	1563	Khoina	grind (grinding stone)	GRIND1	837	ʂ u Ø	ʂ u ŋ	ʂ|tsʰ u|ɔ Ø	ʂ|tsʰ u|ɔ ŋ	ʂ|tsʰ|ɕ u|ɔ|a Ø	ʂ|tsʰ|ɕ u|ɔ|- ŋ	ʂ u ŋ	पीसना	!
+1573	1571	Khoina	question	QUESTION	843	j a	j a	j a|ɐ	j a|ɐ	j a|ɐ|ə	j a|ɐ|ə	j a	Are you Sartang? vs. Is he Sartang? vs. What is he? and What are you?	
+1584	1582	Khoina	husks, chaff	HUSKS	854	g u -	g u -	g|h u|ɔ -|k	g|h u|ɔ -|k	g|h u|ɔ|a -|k	g|h u|ɔ|- -|k	g u	भूसी,  भूसा	
+1597	1595	Khoina	reap	REAP	856	r ũː ŋ	r ũː ŋ	r ũː|ɔ̃ː ŋ|ŋː	r ũː|ɔ̃ː ŋ|u	r ũː|ɔ̃ː|ũ ŋ|ŋː	r ũː|ɔ̃ː|ũ ŋ|u|ŋː	r ũ ŋ	काटना e.g. paddy	
+1608	1606	Khoina	now	NOW	870	g ɔ	g ɔ	g|h ɔ	g|h ɔ|-	g|h ɔ	g|h ɔ|-	g ɔ	अभी	
+1613	1611	Khoina	rice, unhusked, paddy	PADDY	871	ʂ ɛː	ʂ ɛː	ʂ|ɕ ɛː	ʂ|ɕ ɛː	ʂ|ɕ|s ɛː	ʂ|ɕ|s ɛː	n ə + ʂ ɛː	धान	
+1616	1614	Khoina	rice, unhusked, paddy	_na-prf4	872	n yː	n ɔ	n|r yː|a	n|r ɔ|a	n|r|h yː|a|y	n|r|h ɔ|a|y			!
+1619	1617	Khoina	ride, mount	RIDE	874	ɛ̃ː n	ɛ̃ː n	ɛ̃ː|y n|ŋ	ɛ̃ː|y n|ŋ	ɛ̃ː|y n|ŋ	ɛ̃ː|y n|ŋ	ɛ̃ n	घोड़े की सवारी करने	
+1642	1640	Khoina	pubic hair	PUBEHAIR	893	m yː Ø	m yː ŋ	m|w yː|y Ø	m|w yː|y ŋ	m|w|n yː|y|a Ø	m|w|- yː|y|a ŋ	m y ŋ	जघवास्थि के बाल	!
+1678	1676	Khoina	scratch	SCRATCH2	912	h Ø Ø	h Ø -	h|x Ø Ø	h|x Ø -|ŋ	h|x|f Ø Ø	h|x|f Ø -|ŋ	h  ɔ̃ː	खरोंचना with nails, hoofs	!
+1690	1688	Khoina	shade	SHADE	924	tsʰ a -	tsʰ a -	tsʰ|tɕʰ a|ɐ -	tsʰ|tɕʰ a|ɐ -	tsʰ|tɕʰ|ʈʂʰ a|ɐ|ɛ -	tsʰ|tɕʰ|ʈʂʰ a|ɐ|ɛ -	tsʰ a	छाया,  साया (shade shadow)	
+1700	1698	Khoina	shoe, footwear	SHOE	937	h ɔ̃ː n	h ũː n	h|n ɔ̃ː|ũː n	h|n ũː|ɔ̃ː n|u	h|n ɔ̃ː|ũː|i n	h|n ũː|ɔ̃ː|i n|u	l ə + h ũ n	जूता	!
+1738	1736	Khoina	smell (n)	SMELLN	984	ʂ ĩː -	ʂ ĩː -	ʂ|s ĩː|y -|k	ʂ|s ĩː|y -|k	ʂ|s|ɕ ĩː|y|ɛ̃ː -|k	ʂ|s|ɕ ĩː|y|ɛ̃ː -|k	ʂ ĩː	गंध	
+1744	1742	Khoina	smell (vi)	SMELL2	987	n aː Ø	n aː -	n|r aː Ø	n|- aː -|ŋ	n|r aː Ø	n|-|r aː -|ŋ	n aː	गंध देना	!
+1749	1747	Khoina	snatch away	SNATCH	992	kʰ ɔ	kʰ ɔ	kʰ|ʈʂʰ ɔ	kʰ|ʈʂʰ ɔ	kʰ|ʈʂʰ|g ɔ	kʰ|ʈʂʰ|g ɔ	kʰ ɔ	छीनना (land)	
+1897	1895	Khoina	suck	SUCK1	1089	ʐ y -	ʐ - -	ʐ|z y|ɔː -	ʐ|z -|ɔː -	ʐ|z y|ɔː -	ʐ|z -|ɔː|y -	ʐ yː	चूसना	!
+1918	1916	Khoina	takin	TAKIN	1107	tsʰ ø n	tsʰ ø n	tsʰ|ʈʂʰ ø n|-	tsʰ|ʈʂʰ ø|- n|-	tsʰ|ʈʂʰ|tɕʰ ø n|-|m	tsʰ|ʈʂʰ|tɕʰ ø|- n|-|ø	tsʰ ə + tsʰ ø n	takin.jpe	
+1912	1910	Khoina	takin	_sya-prf24	1106	tsʰ ə	tsʰ ə	tsʰ|tɕʰ ə|a	tsʰ|tɕʰ ə|a	tsʰ|tɕʰ|ʂ ə|a|y	tsʰ|tɕʰ|ʂ ə|a|y			
+1950	1948	Khoina	thing	THING2	1138	tsʰ i ŋ	tsʰ Ø n -	tsʰ|tɕʰ i|y ŋ|-	tsʰ|tɕʰ Ø n -	tsʰ|tɕʰ|ʈʂʰ i|y|ĩː ŋ|-|j	tsʰ|tɕʰ|ʈʂʰ Ø n -	m a + tsʰ i ŋ	चीज़	!
+1945	1943	Khoina	thing	THING1	1137	m a	m a	m a	m a|i	m a	m a|i			
+1963	1961	Khoina	thunder (vi)	THUNDER	1155	h y k	h y k	h|x y|i k|t	h|x y|i k|t	h|x|f y|i|ə k|t	h|x|f y|i|ə k|t|-	h y k	मेघगर्जन	
+1993	1991	Khoina	uproot	UPROOT	1194	pʰ y ŋ	pʰ y ŋ	pʰ|f y|yː ŋ	pʰ|f y|yː ŋ	pʰ|f|pʰl y|yː ŋ	pʰ|f|pʰl y|yː ŋ	pʰ y ŋ	जड़ से उखाड़ना	
+2024	2022	Khoina	wait	WAIT1	1209	dʑ ɐ k	dʑ ɐ k	dʑ|ɖʐ ɐ k	dʑ|ɖʐ ɐ|- k|ɐ	dʑ|ɖʐ|dz ɐ k	dʑ|ɖʐ|dz ɐ|- k|ɐ	dʑ ɐ k	प्रतीक्षा करना, रक्षा करना	
+2030	2028	Khoina	walking stick	WALKINGSTICK	1215	s y ŋ	s - Ø ŋ	s y|i ŋ|-	s - Ø ŋ|-	s y|i|ə ŋ|-|n	s - Ø ŋ|-	g y + s ɔ  ŋ	कुबड़ी	!
+2027	2025	Khoina	walking stick	STICK2	1214	g y	g y	g y|ɔː	g y	g y|ɔː	g y			
+2048	2046	Khoina	wheat	WHEAT	1235	k uː	k uː	k|x uː|-	k|x uː|-	k|x|kʰ uː|-|yː	k|x|kʰ uː|-|yː	m u + k uː	गेहूँ	
+2052	2050	Khoina	wheat	_ma-prf12	1237	Ø a	Ø u	Ø a|u	Ø u|a	Ø a|u|ɔː	Ø u|a			!
+2078	2076	Khoina	wipe	WIPE	1262	yː	yː	yː|y	yː|-	yː|y|ɔː	yː|-|ɔː	yː	पोंछना	
+2086	2084	Khoina	wring, squeeze	SQUEEZE	1270	tɕ ɛ̃ˀ -	tɕ ɛ̃ˀ -	tɕ|dz ɛ̃ˀ -	tɕ|dz ɛ̃ˀ -	tɕ|dz|ts ɛ̃ˀ -	tɕ|dz|ts ɛ̃ˀ -	tɕ ɛ̃ˀ	मरोड़ना,  निचोड़ना	
+22	22	Khoitam	Bugun	Bugun	12	l u ŋ	l u ŋ	l|r u|uˀ ŋ|-	l|r u|uˀ ŋ|-	l|r u|uˀ ŋ|-	l|r u|uˀ ŋ|-	s ə + l u ŋ		
+18	18	Khoitam	Bugun	_sya-prf1	11	s Ø	s Ø	s|z Ø	s|z Ø	s|z Ø	s|z Ø			
+37	37	Khoitam	Jerigaon people	JERIGAON	17	tɕ ĩː	tɕ ĩː	tɕ|ʨ ĩː	tɕ|ʨ ĩː	tɕ|ʨ ĩː	tɕ|ʨ ĩː	d ə + tɕ ĩː		
+44	44	Khoitam	Jerigaon people	_da-prf2	19	d ə	d ə	d|tʰ ə|-	d|tʰ ə|-	d|tʰ|tɕ ə|-|iː	d|tʰ|tɕ ə|-|iː			
+83	81	Khoitam	Puroik	PUROIK	35	t a ŋ	t a ŋ	t a|ə ŋ|-	t a|ə ŋ|-	t a|ə ŋ|-|(ŋ)	t a|ə ŋ|-|y	s + t a ŋ		
+87	85	Khoitam	Puroik	_sya-prf2	38	Ø	Ø	Ø	Ø	Ø	Ø			
+97	95	Khoitam	Rahung, people of	RAHUNG2	40	pʰ Ø ŋ	pʰ Ø ŋ	pʰ Ø ŋ|-	pʰ Ø ŋ	pʰ Ø ŋ|-	pʰ Ø ŋ	r ə + pʰ u ŋ		
+100	98	Khoitam	Rahung, people of	RAHUNG1	41	r ə	r ə	r ə	r ə	r ə	r ə			
+130	128	Khoitam	Thembang people	THEMBANG2	51	pʰ a ŋ	pʰ a ŋ	pʰ a|ə ŋ|-	pʰ a|ə ŋ	pʰ a|ə|u ŋ|-	pʰ a|ə|u ŋ	tʰ yː + pʰ a ŋ		
+127	125	Khoitam	Thembang people	THEMBANG1	50	tʰ yː Ø	tʰ yː Ø	tʰ yː Ø	tʰ yː Ø	tʰ yː Ø	tʰ yː Ø			
+135	133	Khoitam	flatten (dough)	FLATTEN	57	b i Ø	b i ŋ	b|dʑ i|iː Ø	b|dʑ i|iː ŋ	b|dʑ|w i|iː|ə Ø	b|dʑ|w i|iː|ə ŋ	b i ŋ	समतल करना e.g. dough	!
+199	197	Khoitam	back (n)	BACKNA	94	kʰ u ŋ	kʰ u ŋ	kʰ u|ɛˀ ŋ|-	kʰ u|ɛˀ ŋ	kʰ u|ɛˀ|uˀ ŋ|-	kʰ u|ɛˀ|uˀ ŋ	n a + kʰ u ŋ	पीठ	
+203	201	Khoitam	back (n)	_na-prf1	95	n a	n a	n|m a|ɛ	n|m a|ɛ	n|m a|ɛ|i	n|m a|ɛ|i			
+249	247	Khoitam	beautiful	BEAUTIFUL	118	l eː -	l eː -	l|r eː -	l|r eː -	l|r eː -	l|r eː -	a + l eː	सुंदर	
+275	273	Khoitam	bind (v)	BIND	139	r u ŋ	r u ŋ	r|l u|eˀ ŋ|-	r|l u|- ŋ|-	r|l|n u|eˀ ŋ|-|(ŋ)	r|l|n u|-|eˀ ŋ|-|y	r u ŋ	छांदना  बांधना	
+452	450	Khoitam	clean	CLEAN	238	ts a m	ts a -	ts a|ə m	ts a|ə -	ts a|ə m	ts a|ə -	a + ts a	स्वच्छ	!
+477	475	Khoitam	scratch	SCRATCH1	251	d ɔ k	d ɔ k	d|dʑ ɔ|y k|-	d|dʑ ɔ|a k|ɛ	d|dʑ ɔ|y|a k|-	d|dʑ ɔ|a|yː k|ɛ|-	d ɔ k	खरोंचना with nails, hoofs	
+489	487	Khoitam	cook	COOK1	259	Ø y ŋ	Ø y ŋ	Ø y|ɛˀ ŋ|-	Ø y|ɛˀ ŋ|y	Ø y|ɛˀ ŋ|-|(ŋ)	Ø y|ɛˀ ŋ|y|-	tʰ y ŋ	पकाना (water, hard tubers, meat, soft vegetables etc.!)	
+504	502	Khoitam	cover (v)	COVER	270	Ø ɛ ŋ	Ø ɛ ŋ	Ø ɛ|ə ŋ|-	Ø ɛ|ə ŋ|-	Ø ɛ|ə|a ŋ|-|(ŋ)	Ø ɛ|ə|a ŋ|-|u	tʰ ɛ ŋ	ढोकना	
+518	516	Khoitam	short	SHORT	276	tʰ u ŋ	tʰ u ŋ	tʰ u|uˀ ŋ|-	tʰ u|uˀ ŋ	tʰ u|uˀ ŋ|-	tʰ u|uˀ ŋ	a + tʰ u ŋ	छोटा	
+536	534	Khoitam	pull	PULL1	286	tɕʰ ɛ ŋ	tɕʰ ɛ ŋ	tɕʰ ɛ|a ŋ|-	tɕʰ ɛ|a ŋ|-	tɕʰ ɛ|a ŋ|-	tɕʰ ɛ|a|- ŋ|-|i	tɕʰ ɛ ŋ	खींचना	
+543	541	Khoitam	peas	PEAS	301	b i ŋ	b i ŋ	b i|iː ŋ|n	b i|iː ŋ|n	b i|iː|ə ŋ|n	b i|iː|ə ŋ|n|-	b i ŋ	job's tears.jpg	
+580	578	Khoitam	dig	DIG	320	Ø ɔ k	Ø ɔ k	Ø ɔ k	Ø ɔ k|ɛ	Ø ɔ k	Ø ɔ k|ɛ	j ɔ k	खोदना	
+608	606	Khoitam	dragon	THUNDER	334	tɕʰ ɛː	tɕʰ ɛː	tɕʰ|s ɛː|ə	tɕʰ|s ɛː|ə	tɕʰ|s|z ɛː|ə	tɕʰ|s|z ɛː|ə	n ə + tɕʰ ɛː	maybe thunder, lightning	
+629	627	Khoitam	quarrel (v)	RELEASE	347	s u ŋ	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|z u|ɔ|a ŋ|-|m	s|tɕʰ|z u|ɔ|- ŋ|-|u	s u ŋ	रिहा करना	
+656	654	Khoitam	earthworm	EARTHWORM3	356	kʰl ɛː	kʰl ɛː	kʰl ɛː|aː	kʰl ɛː|aː	kʰl ɛː|aː	kʰl ɛː|aː	kʰl ɛː	केंचुआ also ‘wet’  गीला	
+715	713	Khoitam	millet, broomcorn	BITTER1	391	ʨʰ a k	ʨʰ - Ø k	ʨʰ|tsʰ a k	ʨʰ|tsʰ - Ø k|ɛ	ʨʰ|tsʰ a k	ʨʰ|tsʰ - Ø k|ɛ|-	n ə + ʨʰ a k	broomcorn.jpg	!
+735	733	Khoitam	amaranth	AMARANTH	401	k u ŋ	k - u ŋ	k u|ə ŋ|-	k -|ɔ u|- ŋ|-	k u|ə|- ŋ|-	k -|ɔ|ɔː u|-|ŋ ŋ|-|(ŋ)	m ə + k u ŋ	amaranth.jpg	!
+174	172	Khoitam	amaranth	_ma-prf1	76	m ə -	m ɔ̃ː -	m|j ə|yː -	m|j ɔ̃ː|ə -	m|j ə|yː|ɔ̃ː -	m|j ɔ̃ː|ə|yː -			!
+822	820	Khoitam	flow	FLOW	430	h ũː	h ũː	h ũː	h ũː	h ũː	h ũː	h ũː	बहना	
+938	936	Khoitam	keep, remain	KEEP	475	r uː	r uː	r uː|-	r uː|-	r uː|-|ũː	r uː|-|ũː	r uː	रखना	
+964	962	Khoitam	gourd	GOURD	485	tɕʰ u ŋ	tɕʰ - u ŋ	tɕʰ u ŋ|-	tɕʰ -|u u|ŋ ŋ|-	tɕʰ u ŋ|-	tɕʰ -|u|y u|ŋ ŋ|-	kʰ a + tɕʰ u ŋ	bottle gourd.jpg	!
+959	957	Khoitam	gourd	_kha-prf4	484	kʰ -	kʰ -	kʰ|g -	kʰ|g -	kʰ|g -	kʰ|g|- -			
+1000	998	Khoitam	halt, stop	HALT	504	k a k	k a k	k a k	k a k|ɛ	k a k	k a k|ɛ	k a k	स्र्कना	
+1005	1003	Khoitam	fall	FALL1	505	tɕʰ uː	tɕʰ uː	tɕʰ uː|-	tɕʰ uː|-	tɕʰ uː|-	tɕʰ uː|-	tɕʰ uː	गिरना from height, slip, items?	
+1163	1161	Khoitam	jackal	JACKAL2	577	r u ŋ	r Ø Ø (ŋ)	r u ŋ|-	r Ø Ø (ŋ)	r u ŋ|-	r Ø Ø (ŋ)	m a + r u ŋ	सियार	!
+1166	1164	Khoitam	jackal	JACKAL1	578	m a	m a	m|j a	m|j a	m|j a	m|j a			
+1235	1233	Khoitam	cook	COOK1	631	Ø u ŋ	Ø ɔ ŋ	Ø u|ɔ ŋ|-	Ø ɔ ŋ|-	Ø u|ɔ ŋ|-	Ø ɔ ŋ|-|i	r ɔ ŋ	पकाना (water, hard tubers, meat, soft vegetables etc.!)	!
+1290	1288	Khoitam	make	MAKE	664	ʨʰ - Ø	ʨʰ e Ø	ʨʰ|tsʰ -|eˀ Ø	ʨʰ|tsʰ e|eˀ Ø	ʨʰ|tsʰ -|eˀ|e Ø	ʨʰ|tsʰ e|eˀ Ø	ʨʰ eˀ	बनाना,  करना	!
+1301	1299	Khoitam	manure	MANURE2	671	w uː	w uː	w uː	w uː	w uː	w uː	l ə + w uː	खाद,  पाँस,	
+1324	1322	Khoitam	middle / centre	MIDDLE	686	tɕ u ŋ	tɕ u ŋ	tɕ u|ɛˀ ŋ|-	tɕ u|- ŋ|-	tɕ u|ɛˀ ŋ|-|(ŋ)	tɕ u|-|ɛˀ ŋ|-|y	a + tɕ u ŋ	बीच का	
+1391	1389	Khoitam	naga, serpent deity	NAGA	721	l yː	l yː	l|n yː|-	l|n yː|-	l|n yː|-|eː	l|n yː|-|eː	l yː	नाग	
+1426	1424	Khoitam	net for fishing	NET	742	tɕʰ u k	tɕʰ u k	tɕʰ|s u|ɛˀ k	tɕʰ|s u|- k|ɛ	tɕʰ|s|z u|ɛˀ k	tɕʰ|s|z u|-|ɛˀ k|ɛ	tɕʰ u k	मछली पकड़ने का जाल	
+1525	1523	Khoitam	play	PLAY2	815	l Ø	l Ø	l|r Ø	l|r Ø	l|r Ø	l|r Ø	l ɔː	खेलना	
+1542	1540	Khoitam	pour	POUR	823	l y k	l y k	l|n y|i k|ŋ	l|n y|i k|ɛ	l|n y|i k|ŋ|-	l|n y|i|- k|ɛ|-	l y k	डालना	
+1545	1543	Khoitam	present	_PRS	824	d ɛ	d ɛ	d|t ɛ	d|t ɛ	d|t|l ɛ	d|t|l ɛ	d ɛ	I eat now	
+1566	1564	Khoitam	grind (grinding stone)	GRIND1	837	s u Ø	s u ŋ	s|tɕʰ u|ɔ Ø	s|tɕʰ u|ɔ ŋ	s|tɕʰ|z u|ɔ|a Ø	s|tɕʰ|z u|ɔ|- ŋ	s u ŋ	पीसना	!
+1585	1583	Khoitam	husks, chaff	HUSKS	854	l u p	s u p	l u|ɔ p|-	s|l u|ɔ p|-	l u|ɔ|a p|-|k	s|l u|ɔ|- p|-|k	s u p	भूसी,  भूसा	!
+1609	1607	Khoitam	now	NOW	870	l ɔ	s ɔ	l ɔ|y	s|l ɔ|y	l ɔ|y|ɔː	s|l ɔ|y|ɔː	s ɔ	अभी	!
+1620	1618	Khoitam	ride, mount	RIDE	874	ĩː n	ĩː n	ĩː|ə n|ɹ	ĩː|ə n|ɹ	ĩː|ə n|ɹ	ĩː|ə n|ɹ	ĩ n	घोड़े की सवारी करने	
+1643	1641	Khoitam	pubic hair	PUBEHAIR	893	m yː Ø	m yː ŋ	m yː|y Ø	m yː|y ŋ	m yː|y|ɔ Ø	m yː|y|- ŋ	m y ŋ	जघवास्थि के बाल	!
+1650	1648	Khoitam	rub	RUB	895	n y ŋ	n y ŋ	n y ŋ|-	n|ɔ y ŋ	n y ŋ|-	n|ɔ y ŋ	n y ŋ	रगड़ना flat hand	
+1657	1655	Khoitam	run	RUN	897	tɕ ɛː	tɕ ɛː	tɕ ɛː	tɕ ɛː	tɕ ɛː	tɕ ɛː	tɕ ɛː	दौड़ाना	
+1694	1692	Khoitam	shake	SHAKE2	926	kʰ i -	kʰ i -	kʰ i|iː -|ŋ	kʰ i|iː -|ŋ	kʰ i|iː|ĩː -|ŋ|n	kʰ i|iː|- -|ŋ|n	kʰ i	हिलाना (earthquake, carpet, clothes)	
+1701	1699	Khoitam	shoe, footwear	SHOE	937	l ũː ŋ	l ũː ŋ	l|n ũː|ɔ̃ː ŋ	l|n ũː|u ŋ	l|n ũː|ɔ̃ː|u ŋ	l|n ũː|u ŋ	l ə + l ũ ŋ	जूता	
+1739	1737	Khoitam	smell (n)	SMELLN	984	s ĩː -	s ĩː -	s|tɕ ĩː|ə -|k	s|tɕ ĩː|ə -|k	s|tɕ|z ĩː|ə|i -|k	s|tɕ|z ĩː|ə|i -|k	s ĩː	गंध	
+1750	1748	Khoitam	snatch away	SNATCH	992	kʰ ɔ	kʰ ɔ	kʰ|tɕʰ ɔ|øː	kʰ|tɕʰ ɔ|kʰ	kʰ|tɕʰ|kʰw ɔ|øː	kʰ|tɕʰ|kʰw ɔ|kʰ	kʰ ɔ	छीनना (land)	
+1851	1849	Khoitam	stab	STAB	1064	dʑ u k	dʑ u k	dʑ u|ɛˀ k|-	dʑ u|ɛˀ k|ɛ	dʑ u|ɛˀ k|-	dʑ u|ɛˀ k|ɛ|-	dʑ u k	भोंकना	
+1873	1871	Khoitam	stich	STICH	1075	tɕ a k	tɕ a k	tɕ a|ɔ k|-	tɕ a|ɔ k|-	tɕ a|ɔ|ũ k|-	tɕ a|ɔ|ũ k|-|ɛ	tɕ a k	सिलना	
+1901	1899	Khoitam	suck	SUCK2	1090	tɕʰ ɛ ŋ	tɕʰ ɛ ŋ	tɕʰ ɛ|a ŋ|-	tɕʰ ɛ|a ŋ	tɕʰ ɛ|a ŋ|-	tɕʰ ɛ|a|- ŋ	tɕʰ ɛ ŋ	चूसना	
+1919	1917	Khoitam	takin	TAKIN	1107	tɕʰ ɔ m	tɕʰ ɔ m	tɕʰ|s ɔ m|ŋ	tɕʰ|s ɔ|- m|-	tɕʰ|s|ʨʰ ɔ m|ŋ|n	tɕʰ|s|ʨʰ ɔ|- m|-|ŋ	tɕʰ ə + tɕʰ ɔ m	takin.jpe	
+1913	1911	Khoitam	takin	_sya-prf24	1106	tɕʰ ə	tɕʰ ə	tɕʰ|ʨʰ ə|u	tɕʰ|ʨʰ ə|u	tɕʰ|ʨʰ|s ə|u|y	tɕʰ|ʨʰ|s ə|u|y			
+2037	2035	Khoitam	wear	WEAR	1226	j ɔ̃ -	j ɔ̃ -	j|w ɔ̃ -	j|w ɔ̃ -	j|w|n ɔ̃ -	j|w|n ɔ̃ -	j ɔ̃	पहनना	
+38	38	Rahung	Jerigaon people	JERIGAON	17	tɕ ĩː	tɕ ĩː	tɕ ĩː	tɕ ĩː	tɕ ĩː	tɕ ĩː	d ə + tɕ ĩː		
+45	45	Rahung	Jerigaon people	_da-prf2	19	d ə	d ə	d|tʰ ə|a	d|tʰ ə|a	d|tʰ|kʰ ə|a|-	d|tʰ|kʰ ə|a|-			
+84	82	Rahung	Puroik	PUROIK	35	t a ŋ	t a ŋ	t a|ə ŋ|-	t a|- ŋ|a	t a|ə|- ŋ|-|(ŋ)	t a|-|ə ŋ|a|u	s + t a ŋ		
+88	86	Rahung	Puroik	_sya-prf2	38	Ø	Ø	Ø	Ø	Ø	Ø			
+98	96	Rahung	Rahung, people of	RAHUNG2	40	pʰ Ø ŋ	pʰ Ø ŋ	pʰ|b Ø ŋ	pʰ|b Ø ŋ|a	pʰ|b Ø ŋ	pʰ|b Ø ŋ|a|u	r ə + pʰ u ŋ		
+101	99	Rahung	Rahung, people of	RAHUNG1	41	r ə	r ə	r ə|u	r ə|u	r ə|u	r ə|u			
+136	134	Rahung	flatten (dough)	FLATTEN	57	b i Ø	b i ŋ	b|dʑ i|iː Ø	b|dʑ i|iː ŋ	b|dʑ|w i|iː|ɛː Ø	b|dʑ|w i|iː|ɛː ŋ	b i ŋ	समतल करना e.g. dough	!
+139	137	Rahung	above, top	ON1	58	tɕʰ ũː ŋ	tɕʰ ũː ŋ	tɕʰ ũː|ɔ ŋ	tɕʰ ũː|ɔ ŋ|a	tɕʰ ũː|ɔ|a ŋ	tɕʰ ũː|ɔ|a ŋ|a|u	tɕʰ ũ ŋ	ऊपर,  चोटी	
+153	151	Rahung	split	SPLIT2	65	j ɔ	j ɔ	j|h ɔ|u	j|h ɔ	j|h ɔ|u	j|h ɔ	j ɔ	विभाजित करना (bamboo)	
+200	198	Rahung	back (n)	BACKNA	94	Ø u ŋ	Ø u ŋ	Ø u|ɛˀ ŋ	Ø u|- ŋ|a	Ø u|ɛˀ ŋ	Ø u|-|ɛˀ ŋ|a|u	n a + kʰ u ŋ	पीठ	
+204	202	Rahung	back (n)	_na-prf1	95	n a	n a	n|m a|ɛ	n|m a|ɛ	n|m|pʰ a|ɛ|ə	n|m|pʰ a|ɛ|s			
+259	257	Rahung	beer strainer	BEERSTRAINER1	127	Ø a -	Ø a -	Ø a|ə -	Ø a|- -	Ø a|ə|u -	Ø a|-|ə -	g a + tɕ ɛː	khaski.JPG	
+255	253	Rahung	beer strainer	BEERSTRAINER2	126	tɕ ɛː	tɕ ɛː	tɕ ɛː|iː	tɕ ɛː|-	tɕ ɛː|iː	tɕ ɛː|-|iː			
+276	274	Rahung	bind (v)	BIND	139	r u ŋ	r u ŋ	r|ɹ u|eˀ ŋ|-	r|ɹ u|- ŋ|a	r|ɹ|n u|eˀ ŋ|-|(ŋ)	r|ɹ|n u|-|eˀ ŋ|a|y	r u ŋ	छांदना  बांधना	
+282	280	Rahung	same, equal	EQUAL	144	t u	t u	t u	t u	t u	t u	a + t u	वही, एक सा	
+310	308	Rahung	borrow	BORROW1	161	Ø iː	Ø iː	Ø iː	Ø iː|-	Ø iː	Ø iː|-	l iː	उधार लेना	
+313	311	Rahung	borrow	BORROW2	162	l ɛːʰ	l ɛːʰ	l|r ɛːʰ	l|r ɛːʰ	l|r|n ɛːʰ	l|r|n ɛːʰ	l ɛːʰ	उधार लेना	
+332	330	Rahung	bridge, hanging	HANGINGBRIDGE	174	s ũː ŋ	s ũː ŋ	s ũː|a ŋ|n	s|- ũː|a ŋ	s ũː|a ŋ|n	s|- ũː|a ŋ	s ũ ŋ	hanging bridge.jpg	
+371	369	Rahung	burn, roast (vt)	BURNVT	195	r iː	r iː	r iː	r iː|-	r iː	r iː|-	r iː	भूनना	
+444	442	Rahung	civet, palm	PALMCIVET	236	n ø m	Ø Ø Ø m	n|pʰ ø|eˀ m	Ø Ø Ø m|n	n|pʰ|m ø|eˀ|ɔ m	Ø Ø Ø m|n	s ə + n ɔ m	Asian-Palm-Civet.jpg	!
+449	447	Rahung	civet, palm	_sya-prf6	237	s u	s -	s u	s|- -|u	s u	s|- -|u			!
+478	476	Rahung	scratch	SCRATCH1	251	d ɔ k	d ɔ k	d|l ɔ k|-	d|l ɔ k|-	d|l|dʑ ɔ k|-	d|l|dʑ ɔ k|-	d ɔ k	खरोंचना with nails, hoofs	
+490	488	Rahung	cook	COOK1	259	Ø ə ŋ	Ø ə ŋ	Ø ə|ɛˀ ŋ|-	Ø ə|ɛˀ ŋ|a	Ø ə|ɛˀ ŋ|-|(ŋ)	Ø ə|ɛˀ ŋ|a|u	r ə ŋ	पकाना (water, hard tubers, meat, soft vegetables etc.!)	
+505	503	Rahung	cover (v)	COVER	270	Ø ɛ ŋ	Ø ɛ ŋ	Ø ɛ|- ŋ|-	Ø ɛ|- ŋ|u	Ø ɛ|- ŋ|-|k	Ø ɛ|- ŋ|u|k	tʰ ɛ ŋ	ढोकना	
+544	542	Rahung	peas	PEAS	301	b i ŋ	b i ŋ	b|m i|iː ŋ|n	b|m i|iː ŋ|n	b|m i|iː|ɛː ŋ|n|-	b|m i|iː|ɛː ŋ|n|-	b i ŋ	job's tears.jpg	
+563	561	Rahung	deer, sambar	DEER	313	Ø y k	Ø y Ø	Ø y k	Ø y Ø	Ø y k	Ø y Ø	s ə + z y k	sambar deer.jpg	!
+600	598	Rahung	down	DOWN	332	b Ø	b Ø	b Ø	b Ø	b Ø	b Ø	b u	नीचे	
+630	628	Rahung	quarrel (v)	RELEASE	347	s u ŋ	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|z u|ɔ|a ŋ|-|k	s|tɕʰ|z u|ɔ|- ŋ|-|u	s u ŋ	रिहा करना	
+657	655	Rahung	earthworm	EARTHWORM3	356	pʰl ɛː	pʰl ɛː	pʰl ɛː|a	pʰl ɛː|a	pʰl ɛː|a|ə	pʰl ɛː|a|ə	pʰl ɛː	केंचुआ also ‘wet’  गीला	
+720	718	Rahung	potato-bean	POTATOBEAN	393	m ɛ n	m ɛ n	m|pʰ ɛ|a n	m|pʰ ɛ|a n	m|pʰ|- ɛ|a|ə n	m|pʰ ɛ|a|ə n	m ɛ n	apios.jpe	
+730	728	Rahung	millet, foxtail	MILLETFOXTAIL	398	kʰ u	kʰ Ø -	kʰ u	kʰ Ø -|u	kʰ u	kʰ Ø -|u	n ə + kʰ u	foxtail.png	!
+736	734	Rahung	amaranth	AMARANTH	401	k u ŋ	k - u ŋ	k|g u|ə ŋ|-	k|g -|ɔ u|m ŋ|-	k|g u|ə|ɔ ŋ|-	k|g -|ɔ|a u|m|ŋ ŋ|-|(ŋ)	m ə + k u ŋ	amaranth.jpg	!
+175	173	Rahung	amaranth	_ma-prf1	76	m - -	m - -	m|pʰ -|a -	m|pʰ -|a -	m|pʰ|- -|a|ɔ̃ː -	m|pʰ|j -|a|i -			
+757	755	Rahung	honey	HONEYA	408	tɕʰ yː	tɕʰ yː	tɕʰ|tɕ yː|y	tɕʰ|tɕ yː|y	tɕʰ|tɕ|dʑ yː|y|ø	tɕʰ|tɕ|dʑ yː|y|u	tɕʰ yː	शहद	
+785	783	Rahung	flame	FLAME	419	r a p	r a p	r|ɹ a|ə p	r|ɹ a|- p	r|ɹ a|ə|i p	r|ɹ a|-|ə p	b a + l a p	ज्योति	
+810	808	Rahung	flow	FLOW	428	h y ŋ	h y ŋ	h|kʰ y|ə ŋ	h|kʰ y|ə ŋ	h|kʰ y|ə|u ŋ	h|kʰ y|ə|u ŋ	h y ŋ	बहना	
+823	821	Rahung	flow	FLOW	430	h ɔ	h ɔ	h ɔ|ow	h ɔ|ow	h ɔ|ow|a	h ɔ|ow|a	h ɔ	बहना	
+894	892	Rahung	wait	WAIT2	458	Ø a ŋ	Ø a ŋ	Ø a|ə ŋ	Ø a|ə ŋ|a	Ø a|ə|u ŋ	Ø a|ə|u ŋ|a|u	l a ŋ	प्रतीक्षा करना, रक्षा करना	
+939	937	Rahung	keep, remain	KEEP	475	r uː	r uː	r uː|-	r uː|-	r uː|-|a	r uː|-|a	r uː	रखना	
+1059	1057	Rahung	hold	HOLD	524	z ø m	z ø m	z ø|ɔ m	z ø m	z ø|ɔ m	z ø m	z ø m	पकड़ना	
+1164	1162	Rahung	jackal	JACKAL2	577	r u ŋ	r Ø Ø (ŋ)	r u ŋ|-	r Ø Ø (ŋ)	r u ŋ|-	r Ø Ø (ŋ)	m a + r u ŋ	सियार	!
+1167	1165	Rahung	jackal	JACKAL1	578	m a	m a	m|pʰ a	m|pʰ a	m|pʰ|- a	m|pʰ|j a			
+1221	1219	Rahung	lift completely, carry	LIFTUP	624	kʰ a ŋ	kʰ a ŋ	kʰ a|ə ŋ	kʰ a|ə ŋ|a	kʰ a|ə ŋ	kʰ a|ə|- ŋ|a|i	kʰ a ŋ	उठाना	
+1291	1289	Rahung	make	MAKE	664	tɕʰ - Ø	tɕʰ e Ø	tɕʰ -|eˀ Ø	tɕʰ e|eˀ Ø	tɕʰ -|eˀ|e Ø	tɕʰ e|eˀ Ø	tɕʰ eˀ	बनाना,  करना	!
+1318	1316	Rahung	meet	MEET	683	s yː	s yː	s yː	s yː	s yː	s yː	s yː	मिलना	
+1325	1323	Rahung	middle / centre	MIDDLE	686	tɕ u ŋ	tɕ u ŋ	tɕ u|ɛˀ ŋ|-	tɕ u|- ŋ|a	tɕ u|ɛˀ ŋ|-|(ŋ)	tɕ u|-|ɛˀ ŋ|a|u	a + tɕ u ŋ	बीच का	
+1392	1390	Rahung	naga, serpent deity	NAGA	721	l yː	l yː	l|m yː|oː	l|m yː|oː	l|m|pʰ yː|oː|eː	l|m|pʰ yː|oː|eː	l yː	नाग	
+1427	1425	Rahung	net for fishing	NET	742	tɕʰ u k	tɕʰ u k	tɕʰ u|ɛˀ k	tɕʰ u|- k	tɕʰ u|ɛˀ k	tɕʰ u|-|ɛˀ k	tɕʰ u k	मछली पकड़ने का जाल	
+1515	1513	Rahung	pheasant, tragopan	TRAGOPAN	801	b ɔ Ø	b ɔ Ø	b ɔ Ø	b ɔ Ø	b ɔ Ø	b ɔ Ø	h u + b ɔ p	tragopan.jpg	
+1511	1509	Rahung	pheasant, tragopan	BIRD8	800	h u	h u	h|kʰ u	h|kʰ u|-	h|kʰ u	h|kʰ u|-			
+1526	1524	Rahung	play	PLAY2	815	l Ø	l Ø	l|r Ø	l|r Ø	l|r|n Ø	l|r|n Ø	l ɔː	खेलना	
+1543	1541	Rahung	pour	POUR	823	l y k	l y k	l|m y|i k|ŋ	l|m y|- k|-	l|m|pʰ y|i k|ŋ|-	l|m|pʰ y|-|i k|-	l y k	डालना	
+1546	1544	Rahung	present	_PRS	824	d ɛ	d ɛ	d|t ɛ	d|t ɛ	d|t|ɹ ɛ	d|t|ɹ ɛ	d ɛ	I eat now	
+1567	1565	Rahung	grind (grinding stone)	GRIND1	837	s u Ø	s u ŋ	s|tɕʰ u|ɔ Ø	s|tɕʰ u|ɔ ŋ	s|tɕʰ|z u|ɔ|a Ø	s|tɕʰ|z u|ɔ|- ŋ	s u ŋ	पीसना	!
+1586	1584	Rahung	husks, chaff	HUSKS	854	g u p	g u p	g|l u|ɔ p|-	g|- u|ɔ p|-	g|l u|ɔ|a p|-|k	g|-|l u|ɔ|- p|-|k	g u p	भूसी,  भूसा	
+1610	1608	Rahung	now	NOW	870	g ɔ	g ɔ	g|l ɔ|oː	g|- ɔ|-	g|l ɔ|oː	g|-|l ɔ|-|oː	g ɔ	अभी	
+1614	1612	Rahung	rice, unhusked, paddy	PADDY	871	s eː	s eː	s eː	s eː	s eː	s eː	n ə + s eː	धान	
+1617	1615	Rahung	rice, unhusked, paddy	_na-prf4	872	n ə	n ə	n|pʰ ə|a	n|pʰ ə|a	n|pʰ|h ə|a	n|pʰ|h ə|a			
+1621	1619	Rahung	ride, mount	RIDE	874	ĩː n	ĩː n	ĩː|a n|m	ĩː|a n|m	ĩː|a|- n|m|ɹ	ĩː|a|- n|m|ɹ	ĩ n	घोड़े की सवारी करने	
+1644	1642	Rahung	pubic hair	PUBEHAIR	893	m yː Ø	m yː ŋ	m|pʰ yː|y Ø	m|pʰ yː|y ŋ	m|pʰ|- yː|y|ø Ø	m|pʰ yː|y|u ŋ	m y ŋ	जघवास्थि के बाल	!
+1691	1689	Rahung	shade	SHADE	924	tɕʰ a p	tɕʰ a p	tɕʰ a|i p	tɕʰ a|s p	tɕʰ a|i|ə p	tɕʰ a|s|- p	tɕʰ a p	छाया,  साया (shade shadow)	
+1695	1693	Rahung	shake	SHAKE2	926	kʰ i -	kʰ i -	kʰ i|ə -|n	kʰ i|ə -|n	kʰ i|ə|ĩː -|n	kʰ i|ə|ĩː -|n	kʰ i	हिलाना (earthquake, carpet, clothes)	
+1702	1700	Rahung	shoe, footwear	SHOE	937	l ũː m	l ũː m	l|m ũː|ɔ̃ː m	l|m ũː|- m	l|m|pʰ ũː|ɔ̃ː|i m	l|m|pʰ ũː|-|ɔ m	l ə + l ũ m	जूता	
+1726	1724	Rahung	sing	SING	952	t ɛː	t ɛː	t ɛː	t ɛː	t ɛː	t ɛː	t ɛː	गाना	
+1740	1738	Rahung	smell (n)	SMELLN	984	s ĩː -	s ĩː -	s|tɕ ĩː|y -|k	s|tɕ ĩː|y -|k	s|tɕ ĩː|y|a -|k	s|tɕ ĩː|y|a -|k	s ĩː	गंध	
+1751	1749	Rahung	snatch away	SNATCH	992	kʰ o	kʰ o	kʰ|tɕʰ o|øː	kʰ|tɕʰ o|øː	kʰ|tɕʰ|h o|øː|ow	kʰ|tɕʰ|h o|øː|ow	kʰ o	छीनना (land)	
+1768	1766	Rahung	sow, broadcast	SOW1	1017	pʰ i k	pʰ i k	pʰ|b i k	pʰ|b i|- k	pʰ|b i k	pʰ|b i|- k	pʰ i k	बीज बोना	
+1821	1819	Rahung	spit	THROW1	1048	tʰ øˀ -	tʰ øˀ -	tʰ øˀ -	tʰ øˀ -	tʰ øˀ -	tʰ øˀ -	tʰ øˀ	फेंकना	
+1852	1850	Rahung	stab	STAB	1064	dʑ u k	dʑ u k	dʑ u|ɛˀ k|-	dʑ u|ɛˀ k|-	dʑ u|ɛˀ k|-	dʑ u|ɛˀ k|-	dʑ u k	भोंकना	
+1874	1872	Rahung	stich	STICH	1075	tɕ a k	tɕ a k	tɕ a|ɔ k|-	tɕ a|ɔ k|-	tɕ a|ɔ|ũ k|-	tɕ a|ɔ|ũ k|-	tɕ a k	सिलना	
+1937	1935	Rahung	thief	STEAL2	1127	j oː	j oː	j|h oː|ə	j|h oː|ow	j|h oː|ə|ow	j|h oː|ow|ɔː	dʑ y + j oː	चोर	
+1940	1938	Rahung	thief	_byi-prf7	1129	dʑ y	dʑ y	dʑ y	dʑ y	dʑ y	dʑ y			
+1964	1962	Rahung	thunder (vi)	THUNDER	1155	h y k	h y k	h|kʰ y|i k	h|kʰ y|- k|-	h|kʰ y|i|oː k	h|kʰ y|-|oː k|-	h y k	मेघगर्जन	
+1994	1992	Rahung	uproot	UPROOT	1194	pʰ i ŋ	pʰ i ŋ	pʰ|h i ŋ	pʰ|h i|- ŋ|u	pʰ|h|b i ŋ	pʰ|h|b i|- ŋ|u	pʰ i ŋ	जड़ से उखाड़ना	
+2000	1998	Rahung	vegetable, leafy	VEGGIE	1197	d a ŋ	d a ŋ	d|l a|ə ŋ	d|l a|- ŋ|a	d|l a|ə|u ŋ	d|l a|-|ə ŋ|a|u	d a ŋ	सबजी	
+2038	2036	Rahung	wear	WEAR	1226	j ɔ̃ -	j ɔ̃ -	j|w ɔ̃ -	j|w ɔ̃ -	j|w ɔ̃ -	j|w ɔ̃ -	j ɔ̃	पहनना	
+131	129	Rupa	Thembang people	THEMBANG2	51	b a ŋ	b a ŋ	b a|ə ŋ|-	b a|ə ŋ|-	b a|ə|aˀ ŋ|-|k	b a|ə|aˀ ŋ|-|ɔ	tʰ ə + b a ŋ		
+128	126	Rupa	Thembang people	THEMBANG1	50	t ə Ø	t ə Ø	t|tʰw ə Ø	t|tʰw ə Ø	t|tʰw ə Ø	t|tʰw ə Ø			
+137	135	Rupa	flatten (dough)	FLATTEN	57	b i Ø	b i ŋ	b|w i|iː Ø	b|w i|iː ŋ	b|w|dʑ i|iː|ə Ø	b|w|dʑ i|iː|ə ŋ	b i ŋ	समतल करना e.g. dough	!
+140	138	Rupa	above, top	ON1	58	ʨʰ ũː ŋ	ʨʰ ũː ŋ	ʨʰ|tɕʰ ũː|ɔ ŋ|k	ʨʰ|tɕʰ ũː|ɔ ŋ|-	ʨʰ|tɕʰ|ʨ ũː|ɔ ŋ|k|-	ʨʰ|tɕʰ|ʨ ũː|ɔ ŋ|-|ɔ	ʨʰ ũ ŋ	ऊपर,  चोटी	
+154	152	Rupa	split	SPLIT2	65	j ɔ̃	j ɔ̃	j|w ɔ̃|u	j|w ɔ̃	j|w ɔ̃|u	j|w ɔ̃	j ɔ̃	विभाजित करना (bamboo)	
+260	258	Rupa	beer strainer	BEERSTRAINER1	127	kʰ a -	kʰ a -	kʰ a|aː -	kʰ a|- -	kʰ a|aː|ɛ -	kʰ a|-|aː -	kʰ a + k i	khaski.JPG	
+256	254	Rupa	beer strainer	BEERSTRAINER2	126	k ã	k ã	k ã|iː	k ã|iː	k ã|iː	k ã|iː|i			
+277	275	Rupa	bind (v)	BIND	139	r u ŋ	r u ŋ	r|l u|y ŋ|-	r|l u|- ŋ|-	r|l|n u|y|- ŋ|-|k	r|l|n u|-|eˀ ŋ|-|y	r u ŋ	छांदना  बांधना	
+321	319	Rupa	lick	LICK	166	l a k	l a k	l|d a|ɐ k	l|d a|ɐ k	l|d a|ɐ k	l|d a|ɐ k	l a k	चटना	
+445	443	Rupa	civet, palm	PALMCIVET	236	ɲ ɔ m	Ø Ø Ø m	ɲ|n ɔ|eˀ m|ŋ	Ø Ø Ø m	ɲ|n ɔ|eˀ m|ŋ	Ø Ø Ø m	s u + ɲ ɔ m	Asian-Palm-Civet.jpg	!
+450	448	Rupa	civet, palm	_sya-prf6	237	s uː	s u	s uː	s u|uː	s uː	s u|uː			!
+485	483	Rupa	comparative degree	_COMP	258	s ɔ k	s ɔ k	s|ɕ ɔ|ɔ̃ː k	s|ɕ ɔ|ɔ̃ː k	s|ɕ ɔ|ɔ̃ː k	s|ɕ ɔ|ɔ̃ː|- k	s ɔ k	big – bigger  आपेक्षिक मात्रा	
+509	507	Rupa	creeper, vine	VINE	272	kʰ yː	kʰ yː	kʰ yː|øː	kʰ yː|øː	kʰ yː|øː	kʰ yː|øː	kʰ yː	बेल	
+521	519	Rupa	curcuma sp.	CURCUMA	279	b øˀ -	b øˀ -	b|pʰl øˀ -	b|pʰl øˀ|- -	b|pʰl øˀ -	b|pʰl øˀ|- -	b øˀ	अवती	
+524	522	Rupa	cure (vi)	CURE	280	dʑ a Ø	dʑ a Ø	dʑ|ʥ a|aː Ø	dʑ|ʥ a|aː Ø	dʑ|ʥ|dz a|aː|ɛ Ø	dʑ|ʥ|dz a|aː|ɛ Ø	dʑ a p	अवती	
+545	543	Rupa	peas	PEAS	301	pʰl i n	pʰl i n	pʰl|b i|iː n|ŋ	pʰl|b i|iː n|ŋ	pʰl|b i|iː|ə n|ŋ	pʰl|b i|iː|ə n|ŋ|y	pʰl i n	job's tears.jpg	
+568	566	Rupa	defeat (vi)	DEFEAT	314	pʰ ũː ŋ	pʰ ũː ŋ	pʰ|pʰl ũː|ɔ ŋ|-	pʰ|pʰl ũː|ɔ ŋ|-	pʰ|pʰl|p ũː|ɔ ŋ|-|k	pʰ|pʰl|p ũː|ɔ ŋ|-|ɔ	pʰ ũ ŋ	हरा देना	
+591	589	Rupa	pull	PULL2	326	g iː	g iː	g iː|yː	g iː|yː	g iː|yː	g iː|yː	g iː	खींचना	
+609	607	Rupa	dragon	THUNDER	334	tɕʰ aː	tɕʰ aː	tɕʰ|ʨʰ aː	tɕʰ|ʨʰ aː	tɕʰ|ʨʰ|tsʰ aː	tɕʰ|ʨʰ|tsʰ aː	n ə + tɕʰ aː	maybe thunder, lightning	
+631	629	Rupa	quarrel (v)	RELEASE	347	s u ŋ	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|z u|ɔ|a ŋ|-|m	s|tɕʰ|z u|ɔ|a ŋ|-|m	s u ŋ	रिहा करना	
+737	735	Rupa	amaranth	AMARANTH	401	k u ŋ	k - ŋ ŋ	k|kʰ u|ə ŋ|-	k|kʰ -|ɔ̃ː ŋ|m ŋ|-	k|kʰ|g u|ə|ɔ̃ː ŋ|-|k	k|kʰ|g -|ɔ̃ː|ə ŋ|m|u ŋ|-|n	m ə + k u ŋ	amaranth.jpg	!
+176	174	Rupa	amaranth	_ma-prf1	76	m ə -	m ə -	m ə|ɔ̃ː -	m ə|ɔ̃ː -	m ə|ɔ̃ː|ɛ -	m ə|ɔ̃ː|ɛ -			
+745	743	Rupa	fence	FENCE	403	g u ŋ	g u ŋ	g u|y ŋ|-	g u|- ŋ|-	g u|y|ə ŋ|-|k	g u|-|ə ŋ|-|ɔ	g u ŋ	बाड़	
+758	756	Rupa	honey	HONEYA	408	tɕʰ yː	tɕʰ yː	tɕʰ|ʨʰ yː|y	tɕʰ|ʨʰ yː|y	tɕʰ|ʨʰ|ʨ yː|y|ə	tɕʰ|ʨʰ|ʨ yː|y|ə	tɕʰ yː	शहद	
+797	795	Rupa	float	FLOAT	422	r aː	r aː	r aː	r aː	r aː	r aː	r aː	वायु पर तैरना	
+811	809	Rupa	flow	FLOW	428	h y ŋ	h y ŋ	h|kʰ y|u ŋ	h|kʰ y|u ŋ	h|kʰ y|u|i ŋ	h|kʰ y|u|i ŋ	h y ŋ	बहना	
+887	885	Rupa	okay	OKAY	454	ɔ	ɔ	ɔ|oː	ɔ|oː	ɔ|oː	ɔ|oː	ɔ	e.g. I go ok	
+936	934	Rupa	wet	WET1	472	s i ŋ	s i ŋ	s i|y ŋ	s i|y ŋ|y	s i|y|iː ŋ	s i|y|iː ŋ|y	a + s i ŋ	भीगा	
+965	963	Rupa	gourd	GOURD	485	ʨʰ u ŋ	ʨʰ - ŋ ŋ	ʨʰ|tɕʰ u|y ŋ|-	ʨʰ|tɕʰ -|u ŋ|y ŋ|-	ʨʰ|tɕʰ|kʰ u|y|- ŋ|-|k	ʨʰ|tɕʰ|kʰ -|u ŋ|y|u ŋ|-|ɔ	kʰ a + ʨʰ u ŋ	bottle gourd.jpg	!
+960	958	Rupa	gourd	_kha-prf4	484	kʰ -	kʰ -	kʰ|k -|uː	kʰ|k -|uː	kʰ|k|g -|uː	kʰ|k|g -|uː			
+1001	999	Rupa	halt, stop	HALT	504	kʰ a k	kʰ a k	kʰ a|ɐ k	kʰ a|ɐ k	kʰ a|ɐ k	kʰ a|ɐ k	kʰ a k	स्र्कना	
+1018	1016	Rupa	hatch	HATCH	509	ts ɔ k	ts ɔ k	ts|ʨ ɔ|o k	ts|ʨ ɔ|- k	ts|ʨ|tɕʰ ɔ|o k	ts|ʨ|tɕʰ ɔ|-|o k	ʨ ɔ k	अंडे से निकलना, सेना	
+1095	1093	Rupa	horsefly	HORSEFLY1	540	t ɔː m	t i m	t ɔː|y m|ŋ	t i|y m|ŋ	t ɔː|y m|ŋ	t i|y m|ŋ	t a m + p i	गुड़मुक्खी	!
+1090	1088	Rupa	horsefly	HORSEFLY2	539	p i -	p i -	p|b i -|m	p|b i -|m	p|b i -|m	p|b i -|m			
+1137	1135	Rupa	back (n)	BACKNB1	568	k yː	k yː	k|g yː|ɛː	k|g yː|ɛː	k|g yː|ɛː|øː	k|g yː|ɛː|øː	k yː	पीठ	
+1201	1199	Rupa	leech, water	LEECHWATER1	609	kʰj i Ø	kʰj i Ø	kʰj i|ə Ø	kʰj i|ə Ø	kʰj i|ə Ø	kʰj i|ə Ø	pʰ + kʰj i k	जोंक	
+406	404	Rupa	leech, water	_phu-prf4	216	pʰ	pʰ	pʰ|pʰl	pʰ|pʰl	pʰ|pʰl|b	pʰ|pʰl|b			
+1292	1290	Rupa	make	MAKE	664	tsʰ - Ø	tsʰ e Ø	tsʰ -|eˀ Ø	tsʰ e|- Ø	tsʰ -|eˀ|e Ø	tsʰ e|-|eˀ Ø	tsʰ eˀ	बनाना,  करना	!
+1302	1300	Rupa	manure	MANURE2	671	w uː	w uː	w uː|u	w uː|u	w uː|u|ɔ	w uː|u|p	l ə + w uː	खाद,  पाँस,	
+1482	1480	Rupa	pangolin	PANGOLIN	778	w Ø	w Ø	w Ø	w Ø	w Ø	w Ø	s y + w ɔ	pangolin.jpg	
+1488	1486	Rupa	pangolin	MEAT3	779	s y	s y	s|tɕʰ y|ə	s|tɕʰ y|ə	s|tɕʰ|ɕ y|ə	s|tɕʰ|ɕ y|ə			
+1530	1528	Rupa	play	PLAY1	816	Ø ɛ ŋ	Ø ɛ ŋ	Ø ɛ|a ŋ|-	Ø ɛ|a ŋ|-	Ø ɛ|a ŋ|-|n	Ø ɛ|a ŋ|-|n	j ɛ ŋ	खेलना	
+1547	1545	Rupa	present	_PRS	824	d i	d i	d|n i|iː	d|n i|iː	d|n|l i|iː	d|n|l i|iː	d i	I eat now	
+1554	1552	Rupa	pumpkin	PUMPKIN2	829	pʰl u ŋ	pʰl u ŋ	pʰl u|- ŋ|n	pʰl u|- ŋ|n	pʰl u|-|ũ ŋ|n|k	pʰl u|-|ũ ŋ|n|-	m a + pʰl u ŋ	कद्दू	
+1558	1556	Rupa	pumpkin	_ma-prf8	830	m a	m a	m|b a|ə	m|b a|ə	m|b a|ə|-	m|b a|ə|ɛ			
+1568	1566	Rupa	grind (grinding stone)	GRIND1	837	s u Ø	s u ŋ	s|tɕʰ u|ɔ Ø	s|tɕʰ u|ɔ ŋ	s|tɕʰ|z u|ɔ|a Ø	s|tɕʰ|z u|ɔ|a ŋ	s u ŋ	पीसना	!
+1587	1585	Rupa	husks, chaff	HUSKS	854	g u p	g u p	g|h u|ɔ p|-	g|h u|ɔ p|-	g|h u|ɔ|a p|-|k	g|h u|ɔ|a p|-|k	g u p	भूसी,  भूसा	
+1611	1609	Rupa	now	NOW	870	g ɔ	g ɔ	g|h ɔ|ɔ̃	g|h ɔ|ɔ̃	g|h ɔ|ɔ̃|aw	g|h ɔ|ɔ̃|-	g ɔ	अभी	
+1645	1643	Rupa	pubic hair	PUBEHAIR	893	m yː Ø	m yː ŋ	m|ɲ yː|y Ø	m|- yː|y ŋ	m|ɲ yː|y|ə Ø	m|-|ɲ yː|y|ə ŋ	m y ŋ	जघवास्थि के बाल	!
+1862	1860	Rupa	steam	STEAM	1070	l Ø ŋ	l Ø ŋ	l|h Ø ŋ	l|h Ø ŋ|y	l|h Ø ŋ	l|h Ø ŋ|y	l a ŋ + p oː	भाप	
+1868	1866	Rupa	steam	_pa-suf9	1071	p oː	p oː	p|b oː|uː	p|b oː|uː	p|b|bl oː|uː	p|b|bl oː|uː			
+1877	1875	Rupa	story	STORY1	1078	t aˀ (ŋ)	t aˀ (ŋ)	t aˀ (ŋ)	t aˀ (ŋ)	t aˀ (ŋ)	t aˀ (ŋ)	kʰ a n + t a ŋ	कहानी	
+1883	1881	Rupa	story	STORY2	1079	kʰ a ɹ	kʰ a ɹ	kʰ|k a|ə ɹ	kʰ|k a|ə ɹ	kʰ|k|g a|ə|- ɹ	kʰ|k|g a|ə|aˀ ɹ			
+1898	1896	Rupa	suck	SUCK1	1089	z yː -	z yː -	z yː -	z yː -	z yː -	z yː -	z yː	चूसना	
+1920	1918	Rupa	takin	TAKIN	1107	tɕʰ ɔ m	tɕʰ ɔ m	tɕʰ|ʨʰ ɔ|øˀ m|(ŋ)	tɕʰ|ʨʰ ɔ|- m|-	tɕʰ|ʨʰ|kʰ ɔ|øˀ|ø m|(ŋ)|ŋ	tɕʰ|ʨʰ|kʰ ɔ|-|øˀ m|-|(ŋ)	tɕʰ ə + tɕʰ ɔ m	takin.jpe	
+1914	1912	Rupa	takin	_sya-prf24	1106	tsʰ ə	tsʰ ə	tsʰ|tɕʰ ə|y	tsʰ|tɕʰ ə|y	tsʰ|tɕʰ|z ə|y	tsʰ|tɕʰ|z ə|y			
+2001	1999	Rupa	vegetable, leafy	VEGGIE	1197	d a ŋ	d a ŋ	d a|aː ŋ|k	d a|- ŋ|-	d a|aː|ɛ ŋ|k|-	d a|-|aː ŋ|-|ɔ	d a ŋ	सबजी	
+2087	2085	Rupa	wring, squeeze	SQUEEZE	1270	z ɛ̃ˀ -	z ɛ̃ˀ -	z|ts ɛ̃ˀ -	z|ts ɛ̃ˀ -	z|ts ɛ̃ˀ -	z|ts ɛ̃ˀ -	z ɛ̃ˀ	मरोड़ना,  निचोड़ना	
+39	39	Shergaon	Jerigaon people	JERIGAON	17	tɕ ĩː	tɕ ĩː	tɕ ĩː	tɕ ĩː	tɕ ĩː	tɕ ĩː	d ə + tɕ ĩː		
+46	46	Shergaon	Jerigaon people	_da-prf2	19	d ə	d ə	d|tʰ ə|i	d|tʰ ə|i	d|tʰ ə|i|a	d|tʰ ə|i|a			
+85	83	Shergaon	Puroik	PUROIK	35	t a ŋ	t a ŋ	t a|ɔ ŋ|(ŋ)	t a|ɔ ŋ|-	t a|ɔ ŋ|(ŋ)	t a|ɔ ŋ|-|(ŋ)	s + t a ŋ		
+89	87	Shergaon	Puroik	_sya-prf2	38	Ø	Ø	Ø	Ø	Ø	Ø			
+113	111	Shergaon	shake	SHAKE1	45	kʰ uː	kʰ uː	kʰ uː	kʰ uː	kʰ uː	kʰ uː	kʰ uː	हिलाना (earthquake, carpet, clothes)	
+132	130	Shergaon	Thembang people	THEMBANG2	51	b a ŋ	b a ŋ	b a|aː ŋ|-	b a|aː ŋ|-	b a|aː ŋ|-|k	b a|aː|- ŋ|-|ɔ	tʰ ə + b a ŋ		
+129	127	Shergaon	Thembang people	THEMBANG1	50	t u Ø	t u Ø	t|tʰ u Ø	t|tʰ u Ø	t|tʰ u Ø	t|tʰ u Ø			
+138	136	Shergaon	flatten (dough)	FLATTEN	57	b i Ø	b i ŋ	b|w i|iː Ø	b|w i|iː ŋ	b|w|dʑ i|iː|ə Ø	b|w|dʑ i|iː|ə ŋ	b i ŋ	समतल करना e.g. dough	!
+141	139	Shergaon	above, top	ON1	58	tɕʰ ɔ̃ː ŋ	tɕʰ ɔ̃ː ŋ	tɕʰ ɔ̃ː|ɔ ŋ|k	tɕʰ ɔ̃ː|ɔ ŋ|-	tɕʰ ɔ̃ː|ɔ ŋ|k|-	tɕʰ ɔ̃ː|ɔ ŋ|-|ɔ	tɕʰ ɔ̃ ŋ	ऊपर,  चोटी	
+143	141	Shergaon	achieve, obtain	ACHIEVE	59	m ɔ̃ː -	m ɔ̃ː -	m ɔ̃ː -	m ɔ̃ː -	m ɔ̃ː -	m ɔ̃ː -	m ɔ̃ː	प्राप्त	
+193	191	Shergaon	ask	ASK	88	Ø i k	Ø i k	Ø i k|t	Ø i k|t	Ø i k|t	Ø i k|t	dʑ i k	पूछना	
+208	206	Shergaon	back (wards)	BACKWARDS	96	kʰ eː -	kʰ eː -	kʰ eː -	kʰ eː -	kʰ eː -	kʰ eː -	l ə + kʰ eː	पिछला	
+213	211	Shergaon	back (wards)	_la-prf2	97	l ə	l ə	l|pl ə	l|pl ə	l|pl|- ə	l|pl|i ə			
+221	219	Shergaon	bad	BAD1	100	z ɔ̃ː -	z ɔ̃ː -	z ɔ̃ː -	z ɔ̃ː -	z ɔ̃ː -	z ɔ̃ː -	a + z ɔ̃ː	खराब	
+250	248	Shergaon	beautiful	BEAUTIFUL	118	l eː -	l eː -	l eː -	l eː -	l eː -	l eː -	a + l eː	सुंदर	
+261	259	Shergaon	beer strainer	BEERSTRAINER1	127	kʰ a -	kʰ a -	kʰ a|aː -	kʰ a|aː -	kʰ a|aː|i -	kʰ a|aː|i -	kʰ a + kʰ i	khaski.JPG	
+257	255	Shergaon	beer strainer	BEERSTRAINER2	126	kʰ a	kʰ a	kʰ a	kʰ a	kʰ a	kʰ a			
+278	276	Shergaon	bind (v)	BIND	139	r u ŋ	r u ŋ	r|l u|ɔ ŋ|-	r|l u|- ŋ|-	r|l|t u|ɔ|- ŋ|-|k	r|l|t u|-|ɔ ŋ|-|ɔ	r u ŋ	छांदना  बांधना	
+283	281	Shergaon	same, equal	EQUAL	144	t u	t u	t u	t u	t u	t u	a + t u	वही, एक सा	
+314	312	Shergaon	borrow	BORROW2	162	l aː	l aː	l aː	l aː	l aː	l aː	l aː	उधार लेना	
+322	320	Shergaon	lick	LICK	166	l a k	l a k	l a k|t	l a k|t	l a k|t	l a k|t	l a k	चटना	
+329	327	Shergaon	break	BREAK	170	Ø a p	Ø a p	Ø a|ɛ p	Ø a|ɛ p	Ø a|ɛ p	Ø a|ɛ p	g a p	टूटना	
+333	331	Shergaon	bridge, hanging	HANGINGBRIDGE	174	s ɔ̃ː -	s ɔ̃ː -	s ɔ̃ː -|n	s ɔ̃ː -	s ɔ̃ː -|n	s ɔ̃ː -	s ɔ̃ː	hanging bridge.jpg	
+372	370	Shergaon	burn, roast (vt)	BURNVT	195	r iː	r iː	r|t iː|i	r|t iː|i	r|t iː|i	r|t iː|i	r iː	भूनना	
+402	400	Shergaon	chest	CHEST	215	j aw	j aw	j aw	j aw	j aw	j aw	m ə + j aw	छाती	
+397	395	Shergaon	chest	CHEST	214	m Ø	m Ø	m Ø	m Ø	m Ø	m Ø			
+408	406	Shergaon	chew	CHEW	217	k uː	k uː	k uː	k uː	k uː	k uː	k uː	छाती	
+453	451	Shergaon	clean	CLEAN	238	s a m	s a -	s a m	s a -	s a m	s a -	a + s a	स्वच्छ	!
+456	454	Shergaon	bad	BAD2	239	ɲ u	ɲ u	ɲ u	ɲ u	ɲ u	ɲ u	a + ɲ u	खराब	
+479	477	Shergaon	cold	COLD	252	Ø a n	Ø a n	Ø a n	Ø a n	Ø a n	Ø a n	a + ʨ a n	ठंडा	
+480	478	Shergaon	cold (vi)	COLDVI	253	r Ø Ø	r Ø Ø	r Ø Ø	r Ø Ø	r Ø Ø	r Ø Ø	r a n	ठंडा	
+486	484	Shergaon	comparative degree	_COMP	258	s ɔ k	s ɔ k	s|ɕ ɔ|ɔ̃ː k|t	s|ɕ ɔ|ɔ̃ː k|t	s|ɕ ɔ|ɔ̃ː k|t	s|ɕ ɔ|ɔ̃ː|- k|t	s ɔ k	big – bigger  आपेक्षिक मात्रा	
+500	498	Shergaon	cough (vi)	COUGH	268	Ø iː	Ø iː	Ø iː|yː	Ø iː|yː	Ø iː|yː|i	Ø iː|yː|i	ʨʰ iː	खांसना	
+506	504	Shergaon	cover (v)	COVER	270	tʰ ɛ ŋ	tʰ ɛ ŋ	tʰ ɛ|ə ŋ|-	tʰ ɛ|ə ŋ|-	tʰ ɛ|ə ŋ|-|m	tʰ ɛ|ə ŋ|-|u	tʰ ɛ ŋ	ढोकना	
+522	520	Shergaon	curcuma sp.	CURCUMA	279	b eˀ -	b eˀ -	b|pʰl eˀ -	b|pʰl eˀ|ɔ -	b|pʰl eˀ -	b|pʰl eˀ|ɔ -	b eˀ	अवती	
+525	523	Shergaon	cure (vi)	CURE	280	dʑ a Ø	dʑ a Ø	dʑ a|aː Ø	dʑ a|aː Ø	dʑ a|aː Ø	dʑ a|aː|- Ø	dʑ a p	अवती	
+531	529	Shergaon	trunk (tree)	TRUNK	283	tʰ u ŋ	tʰ u ŋ	tʰ|t u ŋ|(ŋ)	tʰ|t u ŋ|(ŋ)	tʰ|t u ŋ|(ŋ)	tʰ|t u ŋ|(ŋ)	tʰ u ŋ	पेड का तना	
+533	531	Shergaon	daughter-in-law	DAUGHTERINLAW	285	tɕʰ a m	tɕʰ a m	tɕʰ a m	tɕʰ a m	tɕʰ a m	tɕʰ a m	a + tɕʰ a m	बहुॅ	
+546	544	Shergaon	peas	PEAS	301	pʰl i n	pʰl i n	pʰl|b i|iː n|ŋ	pʰl|b i|iː n|ŋ	pʰl|b i|iː|ə n|ŋ	pʰl|b i|iː|ə n|ŋ|u	pʰl i n	job's tears.jpg	
+564	562	Shergaon	deer, sambar	DEER	313	Ø u k	Ø u Ø	Ø u k	Ø u Ø	Ø u k	Ø u Ø	s ə + z u k	sambar deer.jpg	!
+569	567	Shergaon	defeat (vi)	DEFEAT	314	pʰ ɔ̃ː ŋ	pʰ ɔ̃ː ŋ	pʰ|p ɔ̃ː ŋ|-	pʰ|p ɔ̃ː ŋ|-	pʰ|p ɔ̃ː ŋ|-|k	pʰ|p ɔ̃ː ŋ|-|ɔ	pʰ ɔ̃ ŋ	हरा देना	
+571	569	Shergaon	deity, ghost	DEITYGHOST	315	l Ø	l Ø	l Ø	l Ø	l Ø	l Ø	m ə + l oː	देवता भूत	
+576	574	Shergaon	deity, ghost	_ma-prf1	316	m ə	m ə	m|b ə|a	m|b ə|a	m|b ə|a|u	m|b ə|a|u			
+578	576	Shergaon	descend	DESCEND	318	j iː	j iː	j iː|yː	j iː|yː	j iː|yː|i	j iː|yː|i	j iː	नीचे उतरना	
+581	579	Shergaon	dig	DIG	320	Ø ɔ k	Ø ɔ k	Ø ɔ k|t	Ø ɔ k|t	Ø ɔ k|t	Ø ɔ k|t	w ɔ k	खोदना	
+592	590	Shergaon	pull	PULL2	326	g iː	g iː	g|k iː|i	g|k iː|i	g|k iː|i	g|k iː|i	g iː	खींचना	
+610	608	Shergaon	dragon	THUNDER	334	tɕʰ aː	tɕʰ aː	tɕʰ|tɕʰɹ aː	tɕʰ|tɕʰɹ aː	tɕʰ|tɕʰɹ|tsʰ aː	tɕʰ|tɕʰɹ|tsʰ aː	n ə + tɕʰ aː	maybe thunder, lightning	
+626	624	Shergaon	eagle, buzzard	EAGLE	346	Ø Ø ŋ	Ø Ø ŋ	Ø Ø ŋ|-	Ø Ø ŋ|-	Ø Ø ŋ|-	Ø Ø ŋ|-	h u + tɕ a ŋ	eagle.JPG	
+635	633	Shergaon	eagle, buzzard	BIRD3	348	Ø u	Ø u	Ø u|y	Ø u|y	Ø u|y	Ø u|y			
+632	630	Shergaon	quarrel (v)	RELEASE	347	s u ŋ	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|z u|ɔ|a ŋ|-|m	s|tɕʰ|z u|ɔ|- ŋ|-|u	s u ŋ	रिहा करना	
+687	685	Shergaon	frying pan	FRYPAN	377	j aː	j aː	j|h aː|i	j|h aː	j|h aː|i	j|h aː	kʰ + j aː	तलने की कड़ाही	
+901	899	Shergaon	frying pan	_kha-prf1	460	kʰ Ø	kʰ Ø	kʰ Ø	kʰ Ø	kʰ Ø	kʰ Ø			
+692	690	Shergaon	face	FACE2	383	z u k	z u k	z u k|t	z u k|t	z u k|t	z u k|t	z u k	चेहरा	
+721	719	Shergaon	potato-bean	POTATOBEAN	393	m a n	m a n	m a|ɔ n	m a|ɔ n	m a|ɔ n	m a|ɔ n	m a n	apios.jpe	
+738	736	Shergaon	amaranth	AMARANTH	401	k u ŋ	k - u ŋ	k u|ə ŋ|-	k|- -|ɔ u|- ŋ|-	k u|ə|y ŋ|-|m	k|- -|ɔ|ɔ̃ː u|- ŋ|-|n	m ə + k u ŋ	amaranth.jpg	!
+177	175	Shergaon	amaranth	_ma-prf1	76	m ə -	m ə -	m ə|u -	m ə|ɔ̃ː -	m ə|u|ɔ̃ː -	m ə|ɔ̃ː|u -			
+746	744	Shergaon	fence	FENCE	403	g u ŋ	g u ŋ	g|k u|ɔ ŋ|-	g|k u|- ŋ|-	g|k u|ɔ|- ŋ|-|m	g|k u|-|ɔ ŋ|-|m	g u ŋ	बाड़	
+759	757	Shergaon	honey	HONEYA	408	tɕʰ u	tɕʰ u	tɕʰ|tɕ u|iː	tɕʰ|tɕ u|iː	tɕʰ|tɕ|dʑ u|iː|i	tɕʰ|tɕ|dʑ u|iː|ə	tɕʰ u	शहद	
+786	784	Shergaon	flame	FLAME	419	l a p	l a p	l a|u p|k	l a|u p	l a|u|ɔ p|k	l a|u|ɔ p	b a + l a p	ज्योति	
+798	796	Shergaon	float	FLOAT	422	r aː	r aː	r|t aː	r|t aː	r|t aː	r|t aː	r aː	वायु पर तैरना	
+812	810	Shergaon	flow	FLOW	428	h u m	h u m	h|kʰ u|i m	h|kʰ u|i m	h|kʰ u|i|ə m	h|kʰ u|i|ə m	h u m	बहना	
+888	886	Shergaon	okay	OKAY	454	oː	oː	oː	oː	oː	oː	oː		
+895	893	Shergaon	wait	WAIT2	458	pl a ŋ	pl a ŋ	pl a|ɔ ŋ|(ŋ)	pl a|ɔ ŋ|(ŋ)	pl a|ɔ ŋ|(ŋ)	pl a|ɔ ŋ|(ŋ)	pl a ŋ	प्रतीक्षा करना, रक्षा करना	
+940	938	Shergaon	keep, remain	KEEP	475	r uː	r uː	r|t uː	r|t uː	r|t uː	r|t uː	r uː	रखना	
+966	964	Shergaon	gourd	GOURD	485	tɕʰ u ŋ	tɕʰ - u ŋ	tɕʰ u|ɔ ŋ|-	tɕʰ -|ə u|ŋ ŋ|ɔ	tɕʰ u|ɔ|- ŋ|-|k	tɕʰ -|ə|ɔ u|ŋ ŋ|ɔ	kʰ a + tɕʰ u ŋ	bottle gourd.jpg	!
+961	959	Shergaon	gourd	_kha-prf4	484	kʰ -	kʰ -	kʰ|k -|uː	kʰ|k -|uː	kʰ|k -|uː	kʰ|k -|uː			
+1002	1000	Shergaon	halt, stop	HALT	504	k a k	k a k	k a k|t	k a k|t	k a k|t	k a k|t	k a k	स्र्कना	
+1006	1004	Shergaon	fall	FALL1	505	tɕʰ uː	tɕʰ uː	tɕʰ uː	tɕʰ uː	tɕʰ uː	tɕʰ uː	tɕʰ uː	गिरना from height, slip, items?	
+1019	1017	Shergaon	hatch	HATCH	509	tɕ ɔ k	tɕ ɔ k	tɕ ɔ|o k|t	tɕ ɔ|o k|t	tɕ ɔ|o k|t	tɕ ɔ|o|- k|t	tɕ ɔ k	अंडे से निकलना, सेना	
+1072	1070	Shergaon	hornbill	BIRD5	531	pʰ u	pʰ u	pʰ|n u|ɔ	pʰ|n u|y	pʰ|n u|ɔ|ə	pʰ|n u|y|-	pʰ u + l ɔ̃ː + w ɔ ŋ	hornbill.jpe	
+1044	1042	Shergaon	hornbill	HORNBILL3	517	l ɔ̃ː ŋ	l ɔ̃ː ŋ	l|pl ɔ̃ː ŋ|-	l|pl ɔ̃ː ŋ|-	l|pl|- ɔ̃ː ŋ|-|n	l|pl|i ɔ̃ː ŋ|-|n			
+1078	1076	Shergaon	hornbill	HORNBILL2	532	w ɔ ŋ	w ɔ ŋ	w|p ɔ ŋ|(ŋ)	w|p ɔ ŋ|-	w|p ɔ ŋ|(ŋ)	w|p ɔ ŋ|-|(ŋ)			
+1096	1094	Shergaon	horsefly	HORSEFLY1	540	t ɔː m	t i m	t ɔː|u m	t i|u m|-	t ɔː|u m	t i|u m|-	t a m + p iː	गुड़मुक्खी	!
+1091	1089	Shergaon	horsefly	HORSEFLY2	539	p Ø -	p Ø -	p|pl Ø -	p|pl Ø -	p|pl|b Ø -	p|pl|b Ø -			
+1138	1136	Shergaon	back (n)	BACKNB1	568	k iː	k iː	k iː|yː	k|- iː|yː	k iː|yː|i	k|- iː|yː|i	k iː	पीठ	
+1193	1191	Shergaon	late (vi)	LATE	601	j Ø -	j Ø -	j Ø -	j Ø -	j Ø -	j Ø -	j ɔˀ	देर हो जाना	
+1236	1234	Shergaon	cook	COOK1	631	Ø u ŋ	Ø Ø ŋ	Ø u ŋ|-	Ø Ø ŋ|-	Ø u ŋ|-|m	Ø Ø ŋ|-|m	r u ŋ	पकाना (water, hard tubers, meat, soft vegetables etc.!)	!
+1250	1248	Shergaon	like, love	LIKE	635	h Ø n	h Ø n	h Ø n	h Ø n	h Ø n	h Ø n	h ø n	पसंद होना,  प्रेम करना	
+1251	1249	Shergaon	listen, heed	LISTEN	638	n u -	n u -	n u -	n u -	n u -	n u -	n u	सावधान रहना, सुनना	
+1259	1257	Shergaon	load (n)	LOADN	644	j u ŋ	j u ŋ	j u ŋ|(ŋ)	j u ŋ|(ŋ)	j u ŋ|(ŋ)	j u ŋ|(ŋ)	j u ŋ	भार	
+1268	1266	Shergaon	look	LOOK	648	l a n	l a n	l|pl a|- n|-	l|pl a|- n|-	l|pl|- a|- n|-	l|pl|i a|- n|-	l a n	देखना	
+1293	1291	Shergaon	make	MAKE	664	tɕʰ - Ø	tɕʰ e Ø	tɕʰ -|e Ø	tɕʰ e|ɔ Ø	tɕʰ -|e Ø	tɕʰ e|ɔ Ø	tɕʰ eˀ	बनाना,  करना	!
+1303	1301	Shergaon	manure	MANURE2	671	w uː	w uː	w uː|o	w uː|p	w uː|o	w uː|p|o	l ə + w uː	खाद,  पाँस,	
+1298	1296	Shergaon	manure	MANURE1	670	Ø Ø	Ø Ø	Ø Ø	Ø Ø	Ø Ø	Ø Ø			
+1319	1317	Shergaon	meet	MEET	683	s iː	s iː	s|ɕ iː|yː	s|ɕ iː|yː	s|ɕ iː|yː|i	s|ɕ iː|yː|i	s iː	मिलना	
+1326	1324	Shergaon	middle / centre	MIDDLE	686	tɕ u ŋ	tɕ u ŋ	tɕ u ŋ|(ŋ)	tɕ u|- ŋ|-	tɕ u ŋ|(ŋ)	tɕ u|- ŋ|-|(ŋ)	a + tɕ u ŋ	बीच का	
+1393	1391	Shergaon	naga, serpent deity	NAGA	721	l iː	l iː	l iː|yː	l iː|yː	l iː|yː|i	l iː|yː|i	l iː	नाग	
+1428	1426	Shergaon	net for fishing	NET	742	tɕʰ u k	tɕʰ u k	tɕʰ u k	tɕʰ u|- k	tɕʰ u k	tɕʰ u|- k	tɕʰ u k	मछली पकड़ने का जाल	
+1483	1481	Shergaon	pangolin	PANGOLIN	778	w Ø	w Ø	w Ø	w Ø	w Ø	w Ø	s i + w ɔ	pangolin.jpg	
+1489	1487	Shergaon	pangolin	MEAT3	779	s i	s i	s|tɕʰ i|u	s|tɕʰ i|u	s|tɕʰ|ɕ i|u	s|tɕʰ|ɕ i|u			
+1519	1517	Shergaon	pinch	PINCH	807	tɕ i k	tɕ i k	tɕ i k|t	tɕ i k|t	tɕ i k|t	tɕ i k|t	tɕ i k	चुभना (e.g. harvest finger millet)	
+1523	1521	Shergaon	plant  (vt)	PLANT	814	l Ø	l Ø	l Ø	l Ø	l Ø	l Ø	l ɔː	भूमि में गाड़ना	
+1531	1529	Shergaon	play	PLAY1	816	Ø ɛ ŋ	Ø ɛ ŋ	Ø ɛ|a ŋ|-	Ø ɛ|a ŋ|-	Ø ɛ|a|- ŋ|-|n	Ø ɛ|a|- ŋ|-|n	j ɛ ŋ	खेलना	
+1533	1531	Shergaon	plough (v)	PLOUGH	817	w Ø	w Ø	w Ø	w Ø	w Ø	w Ø	w oː	हल चलाना	
+1548	1546	Shergaon	present	_PRS	824	d i	d i	d|l i	d|l i	d|l|tʰ i	d|l|tʰ i	d i	I eat now	
+1555	1553	Shergaon	pumpkin	PUMPKIN2	829	pʰl u ŋ	pʰl u ŋ	pʰl u|- ŋ|n	pʰl u|- ŋ|n	pʰl u|- ŋ|n|k	pʰl u|- ŋ|n|-	m a + pʰl u ŋ	कद्दू	
+1559	1557	Shergaon	pumpkin	_ma-prf8	830	m a	m a	m|b a|ə	m|b a|ə	m|b a|ə|-	m|b a|ə|aː			
+1569	1567	Shergaon	grind (grinding stone)	GRIND1	837	s u Ø	s u ŋ	s|tɕʰ u|ɔ Ø	s|tɕʰ u|ɔ ŋ	s|tɕʰ|z u|ɔ|a Ø	s|tɕʰ|z u|ɔ|- ŋ	s u ŋ	पीसना	!
+1574	1572	Shergaon	question	QUESTION	843	j a	j a	j a	j a	j a	j a	j a	Are you Sartang? vs. Is he Sartang? vs. What is he? and What are you?	
+1588	1586	Shergaon	husks, chaff	HUSKS	854	g u p	g u p	g u|ɔ p|-	g u|ɔ p|-	g u|ɔ|a p|-|k	g u|ɔ|- p|-|k	g u p	भूसी,  भूसा	
+1598	1596	Shergaon	reap	REAP	856	r ɔ̃ː ŋ	r ɔ̃ː ŋ	r ɔ̃ː ŋ|-	r ɔ̃ː ŋ|-	r ɔ̃ː ŋ|-	r ɔ̃ː ŋ|-	r ɔ̃ ŋ	काटना e.g. paddy	
+1600	1598	Shergaon	recognise	RECOGNISE	857	Ø -	Ø -	Ø -	Ø -	Ø -	Ø -	ĩˀ	पहचानना	
+1612	1610	Shergaon	now	NOW	870	g ɔ	g ɔ	g ɔ|o	g ɔ|o	g ɔ|o|aw	g ɔ|o|-	g ɔ	अभी	
+1622	1620	Shergaon	ride, mount	RIDE	874	ɛ̃ː n	ɛ̃ː n	ɛ̃ː|ɛ n	ɛ̃ː|ɛ n	ɛ̃ː|ɛ|ə n	ɛ̃ː|ɛ|ə n	ɛ̃ n	घोड़े की सवारी करने	
+1646	1644	Shergaon	pubic hair	PUBEHAIR	893	m u Ø	m u ŋ	m|ɲ u|iː Ø	m|- u|iː ŋ	m|ɲ u|iː|i Ø	m|-|ɲ u|iː|ə ŋ	m u ŋ	जघवास्थि के बाल	!
+1651	1649	Shergaon	rub	RUB	895	n u ŋ	n u ŋ	n u ŋ|(ŋ)	n|ɔ u ŋ|(ŋ)	n u ŋ|(ŋ)	n|ɔ u ŋ|(ŋ)	n u ŋ	रगड़ना flat hand	
+1653	1651	Shergaon	rub; sharpen	SHARPEN	896	z iː -	z Ø -	z iː -	z Ø -	z iː -	z Ø -	z e	तेज करने e.g. a knife	!
+1679	1677	Shergaon	scratch	SCRATCH2	912	h Ø ŋ	h Ø ŋ	h|n Ø ŋ	h|n Ø ŋ	h|n Ø ŋ	h|n Ø ŋ	h ɔ̃ ŋ	खरोंचना with nails, hoofs	
+1681	1679	Shergaon	search	SEARCH	913	s aw	s aw	s aw	s aw	s aw	s aw	s aw	खोजना	
+1692	1690	Shergaon	shade	SHADE	924	tɕʰ a p	tɕʰ a p	tɕʰ a|u p	tɕʰ a|u p	tɕʰ a|u|ɔ p	tɕʰ a|u|ɔ p	tɕʰ a p	छाया,  साया (shade shadow)	
+1696	1694	Shergaon	shake	SHAKE2	926	kʰ i -	kʰ i -	kʰ i -	kʰ i -	kʰ i -	kʰ i -	kʰ i	हिलाना (earthquake, carpet, clothes)	
+1703	1701	Shergaon	shoe, footwear	SHOE	937	l ɔ̃ː Ø	l ɔ̃ː Ø	l ɔ̃ː|u Ø	l ɔ̃ː|u Ø	l ɔ̃ː|u Ø	l ɔ̃ː|u Ø	l ə + l ɔ̃ ŋ	जूता	
+1727	1725	Shergaon	sing	SING	952	t aː	t aː	t aː	t aː	t aː	t aː	t aː	गाना	
+1741	1739	Shergaon	smell (n)	SMELLN	984	s ĩː -	s ĩː -	s|ɕ ĩː|ə -|k	s|ɕ ĩː|ə -|k	s|ɕ ĩː|ə -|k	s|ɕ ĩː|ə -|k	s ĩː	गंध	
+1752	1750	Shergaon	snatch away	SNATCH	992	kʰ aw	kʰ aw	kʰ aw|ɔj	kʰ aw|ɔj	kʰ aw|ɔj	kʰ aw|ɔj	kʰ aw	छीनना (land)	
+1769	1767	Shergaon	sow, broadcast	SOW1	1017	pʰ i t	pʰ i t	pʰ i t|k	pʰ i t|k	pʰ i t|k	pʰ i t|k	pʰ i t	बीज बोना	
+1773	1771	Shergaon	sow, broadcast	SOW2	1018	h eˀ	h eˀ	h eˀ	h eˀ	h eˀ	h eˀ	h eˀ	बीज बोना	
+1822	1820	Shergaon	spit	THROW1	1048	tʰ eˀ -	tʰ eˀ -	tʰ eˀ -	tʰ eˀ -	tʰ eˀ -	tʰ eˀ -	tʰ eˀ	फेंकना	
+1863	1861	Shergaon	steam	STEAM	1070	l Ø ŋ	l Ø -	l Ø ŋ|-	l Ø -|ŋ	l Ø ŋ|-	l Ø -|ŋ	l ɔ̃ + p uː	भाप	!
+1869	1867	Shergaon	steam	_pa-suf9	1071	p uː	p uː	p|pl uː|oː	p|pl uː|oː	p|pl|b uː|oː	p|pl|b uː|oː			
+1875	1873	Shergaon	stick	STICK	1076	kʰ Ø	kʰ Ø	kʰ Ø	kʰ Ø	kʰ Ø	kʰ Ø	kʰ ɔ̃ː	छड़ी	
+1878	1876	Shergaon	story	STORY1	1078	t Ø Ø	t Ø Ø	t Ø Ø	t Ø Ø	t Ø Ø	t Ø Ø	kʰ a n + t a ŋ	कहानी	
+1884	1882	Shergaon	story	STORY2	1079	kʰ a ɹ	kʰ a ɹ	kʰ|k a|ə ɹ	kʰ|k a|ə ɹ	kʰ|k a|ə|- ɹ	kʰ|k a|ə|u ɹ			
+1902	1900	Shergaon	suck	SUCK2	1090	kʰ ɛ ŋ	kʰ ɛ ŋ	kʰ ɛ ŋ|(ŋ)	kʰ ɛ ŋ|(ŋ)	kʰ ɛ ŋ|(ŋ)	kʰ ɛ ŋ|(ŋ)	kʰ ɛ ŋ	चूसना	
+1921	1919	Shergaon	takin	TAKIN	1107	tɕʰ ɔ m	tɕʰ u m	tɕʰ|kʰ ɔ|eˀ m|-	tɕʰ|kʰ u|ɔ m|-	tɕʰ|kʰ|tɕʰɹ ɔ|eˀ|e m|-|n	tɕʰ|kʰ|tɕʰɹ u|ɔ|- m|-|ɔ	tɕʰ ə + tɕʰ u m	takin.jpe	!
+1915	1913	Shergaon	takin	_sya-prf24	1106	tɕʰ ə	tsʰ ə	tɕʰ|z ə|i	tsʰ|tɕʰ ə|y	tɕʰ|z|tsʰ ə|i|u	tsʰ|tɕʰ|z ə|y			!
+1923	1921	Shergaon	tear (vt)	TEAR	1114	z eˀ -	z eˀ -	z eˀ -	z eˀ -	z eˀ -	z eˀ -	z eˀ	नोचना	
+1938	1936	Shergaon	thief	STEAL2	1127	j aw	j aw	j aw	j aw	j aw	j aw	dʑ y + j aw	चोर	
+1941	1939	Shergaon	thief	_byi-prf7	1129	dʑ Ø	dʑ Ø	dʑ Ø	dʑ Ø	dʑ Ø	dʑ Ø			
+1951	1949	Shergaon	thing	THING2	1138	tɕʰ i ŋ	tɕʰ Ø ŋ -	tɕʰ i|u ŋ|-	tɕʰ Ø ŋ -	tɕʰ i|u ŋ|-|m	tɕʰ Ø ŋ -	m ə + tɕʰ i ŋ	चीज़	!
+1946	1944	Shergaon	thing	THING1	1137	m ə	m ə	m ə	m ə|u	m ə	m ə|u			
+1987	1985	Shergaon	tusk	TUSK	1186	ɲ Ø	ɲ Ø	ɲ Ø	ɲ Ø	ɲ Ø	ɲ Ø	ɲ i	दांत (elephant, wild boar)	
+1990	1988	Shergaon	twist	TWIST	1188	kʰ Ø Ø	kʰ Ø -	kʰ Ø Ø	kʰ Ø -	kʰ Ø Ø	kʰ Ø -	kʰ i	घुमाना	!
+1995	1993	Shergaon	uproot	UPROOT	1194	pʰ i ŋ	pʰ i ŋ	pʰ i ŋ	pʰ i ŋ	pʰ i ŋ	pʰ i ŋ	pʰ i ŋ	जड़ से उखाड़ना	
+2002	2000	Shergaon	vegetable, leafy	VEGGIE	1197	d a ŋ	d a ŋ	d a|aː ŋ|k	d a|aː ŋ|-	d a|aː|ɔ ŋ|k|-	d a|aː|ɔ ŋ|-|ɔ	d a ŋ	सबजी	
+2039	2037	Shergaon	wear	WEAR	1226	j ɔ̃ -	j ɔ̃ -	j ɔ̃ -	j ɔ̃ -	j ɔ̃ -	j ɔ̃ -	j ɔ̃	पहनना	
+2088	2086	Shergaon	wring, squeeze	SQUEEZE	1270	tɕ Ø -	tɕ Ø -	tɕ Ø -	tɕ Ø -	tɕ Ø -	tɕ Ø -	tɕ eˀ	मरोड़ना,  निचोड़ना	
+2096	2094	Shergaon	year, this	YEARTHIS	1278	tʰ a Ø	tʰ a Ø	tʰ|t a Ø	tʰ|t a Ø	tʰ|t a Ø	tʰ|t a Ø	tʰ a m + b u	इस साल	
+2094	2092	Shergaon	year, this	_pu-suf3	1277	Ø u	Ø u	Ø u	Ø u	Ø u	Ø u			
+152	150	Khispi	split	SPLIT2	65	g ɔ	g ɔ	g|j ɔ|a	g|j ɔ	g|j|- ɔ|a	g|j ɔ	g ɔ	विभाजित करना (bamboo)	
+331	329	Khispi	bridge, hanging	HANGINGBRIDGE	174	ɕ a m	ɕ a m	ɕ a m	ɕ|s a m	ɕ a m	ɕ|s a m	ɕ a m	hanging bridge.jpg	
+400	398	Khispi	chest	CHEST	215	g ɔw	g ɔw	g ɔw	g ɔw	g ɔw	g ɔw	g ɔw	छाती	
+502	500	Khispi	cover (v)	COVER	270	d ɛ ŋ	d ɛ ŋ	d ɛ|i ŋ|-	d ɛ|i ŋ|-	d ɛ|i|e ŋ|-|n	d ɛ|i|e ŋ|-|n	tʰ ɛ ŋ	ढोकना	
+517	515	Khispi	short	SHORT	276	tʰ ɔ ŋ	tʰ ɔ ŋ	tʰ|d ɔ|a ŋ|m	tʰ|d ɔ|a ŋ|-	tʰ|d|t ɔ|a|u ŋ|m|l	tʰ|d|t ɔ|a|u ŋ|-|m	ɔ + tʰ ɔ ŋ	छोटा	
+520	518	Khispi	curcuma sp.	CURCUMA	279	b ɔ s	b ɔ s	b ɔ s|ɕ	b ɔ s|ɕ	b ɔ s|ɕ	b ɔ s|ɕ	b ɔ s	अवती	
+530	528	Khispi	trunk (tree)	TRUNK	283	tʰ u ŋ	tʰ u ŋ	tʰ|d u ŋ|m	tʰ|d u ŋ|-	tʰ|d|t u ŋ|m|l	tʰ|d|t u ŋ|-|m	tʰ u ŋ	पेड का तना	
+566	564	Khispi	defeat (vi)	DEFEAT	314	pʰ a m	pʰ a m	pʰ a m	pʰ a m	pʰ a m	pʰ a m	pʰ a m	हरा देना	
+583	581	Khispi	dirty	DIRTY	321	ʑ ɛ t	ʑ ɛ t	ʑ|z ɛ|ɛː t	ʑ|z ɛ|ɛː t	ʑ|z|ɕ ɛ|ɛː t	ʑ|z|ɕ ɛ|ɛː t	j ɛ s	गंदा	
+590	588	Khispi	pull	PULL2	326	g i	g i	g|s i|uj	g|s i|uj	g|s|kʰ i|uj|u	g|s|kʰ i|uj	g i	खींचना	
+691	689	Khispi	face	FACE2	383	z u k	z u k	z|ʑ u k|s	z|ʑ u k|ŋ	z|ʑ u k|s|t	z|ʑ u k|ŋ|s	z u k	चेहरा	
+714	712	Khispi	millet, broomcorn	BITTER1	391	tɕ a k	tɕ a Ø k	tɕ a k|s	tɕ a|i Ø k|-	tɕ a k|s|t	tɕ a|i Ø k|-|ŋ	ɲ i ŋ + tɕ a k	broomcorn.jpg	!
+1328	1326	Khispi	millet, broomcorn	_na-prf2	687	ɲ i ŋ	ɲ i ŋ	ɲ i ŋ	ɲ i ŋ	ɲ i ŋ	ɲ i ŋ			
+718	716	Khispi	potato-bean	POTATOBEAN	393	m ɛ n	m ɛ n	m|p ɛ n|-	m|p ɛ n|-	m|p ɛ n|-	m|p ɛ n|-	m ɛ n	apios.jpe	
+729	727	Khispi	millet, foxtail	MILLETFOXTAIL	398	kʰ a	kʰ Ø i	kʰ a	kʰ Ø i	kʰ a	kʰ Ø i	ɲ i ŋ + kʰ a	foxtail.png	!
+733	731	Khispi	amaranth	AMARANTH	401	k ɔ ŋ	k ɔ ŋ -	k ɔ|a ŋ|-	k ɔ ŋ -	k ɔ|a ŋ|-	k ɔ ŋ -	m ɛ s + k ɔ ŋ	amaranth.jpg	!
+172	170	Khispi	amaranth	_ma-prf1	76	m ɛ s	m n s	m|p ɛ|e s|ɕ	m|p n|ɛ s|ɕ	m|p ɛ|e|a s|ɕ	m|p n|ɛ|e s|ɕ			!
+783	781	Khispi	flame	FLAME	419	d a p	d a p	d a|ɛ p|-	d a|ɛ p|-	d a|ɛ p|-	d a|ɛ p|-	b a + l a p	ज्योति	
+820	818	Khispi	flow	FLOW	430	ɕ Ø	ɕ Ø	ɕ|w Ø	ɕ|w Ø	ɕ|w Ø	ɕ|w Ø	ɕ o w	बहना	
+999	997	Khispi	halt, stop	HALT	504	Ø a k	Ø a k	Ø a k|s	Ø a k|ŋ	Ø a k|s|t	Ø a k|ŋ|s	k a k	स्र्कना	
+1017	1015	Khispi	hatch	HATCH	509	ts ɔ k	ts ɔ k	ts|tɕʰ ɔ k|s	ts|tɕʰ ɔ k|ŋ	ts|tɕʰ ɔ k|s|t	ts|tɕʰ ɔ k|ŋ|s	ts ɔ k	अंडे से निकलना, सेना	
+1093	1091	Khispi	horsefly	HORSEFLY1	540	t a m	t i m	t a|u m|ŋ	t i|a m|ŋ	t a|u m|ŋ|-	t i|a|u m|ŋ|-	t a m + p iː	गुड़मुक्खी	!
+1089	1087	Khispi	horsefly	HORSEFLY2	539	p Ø -	p Ø Ø	p Ø -	p Ø Ø	p Ø -	p Ø Ø			!
+1135	1133	Khispi	back (n)	BACKNB1	568	k u	k u	k|kʰ u|i	k|kʰ u|i	k|kʰ u|i|ɔ	k|kʰ u|i|ɔ	k u	पीठ	
+1191	1189	Khispi	late (vi)	LATE	601	j Ø t	j Ø t	j Ø t|-	j Ø t|-	j Ø t|-|s	j Ø t|-|s	j ɔ t	देर हो जाना	
+1249	1247	Khispi	like, love	LIKE	635	h Ø n	h Ø n	h Ø n|-	h Ø n|-	h Ø n|-	h Ø n|-	h ɔ n	पसंद होना,  प्रेम करना	
+1300	1298	Khispi	manure	MANURE2	671	b a	b a	b a	b a	b a	b a	h e + b a	खाद,  पाँस,	
+1297	1295	Khispi	manure	MANURE1	670	Ø Ø	Ø Ø	Ø Ø	Ø Ø	Ø Ø	Ø Ø			
+1481	1479	Khispi	pangolin	PANGOLIN	778	b a	b -	b|w a	b|w -	b|w|j a	b|w|j -	ɕ a + b ɔ	pangolin.jpg	!
+1486	1484	Khispi	pangolin	MEAT3	779	ɕ a	ɕ a	ɕ|s a	ɕ|s a	ɕ|s|tɕʰ a	ɕ|s|tɕʰ a			
+1513	1511	Khispi	pheasant, tragopan	TRAGOPAN	801	b a Ø	b a Ø	b a Ø	b a Ø	b a Ø	b a Ø	h ɔ + b a p	tragopan.jpg	
+1509	1507	Khispi	pheasant, tragopan	BIRD8	800	h ɔ	h ɔ	h|hw ɔ|a	h|hw ɔ|a	h|hw|ɕ ɔ|a|u	h|hw|ɕ ɔ|a|u			
+1528	1526	Khispi	play	PLAY1	816	Ø ɛ ŋ	Ø ɛ ŋ	Ø ɛ|i ŋ|m	Ø ɛ|i ŋ|-	Ø ɛ|i|aj ŋ|m|n	Ø ɛ|i|aj ŋ|-|m	j ɛ ŋ	खेलना	
+1596	1594	Khispi	reap	REAP	856	l a m	l a m	l|ɕ a m	l|ɕ a m	l|ɕ a m	l|ɕ a m	l a m	काटना e.g. paddy	
+1748	1746	Khispi	snatch away	SNATCH	992	kʰ ɔw	kʰ ɔw	kʰ ɔw	kʰ ɔw	kʰ ɔw	kʰ ɔw	kʰ ɔw	छीनना (land)	
+1772	1770	Khispi	sow, broadcast	SOW2	1018	h ɛ	h ɛ	h|ɕ ɛ	h|ɕ ɛ|e	h|ɕ|j ɛ	h|ɕ|j ɛ|e	h ɛ	बीज बोना	
+1861	1859	Khispi	steam	STEAM	1070	h Ø ŋ	h Ø ŋ	h Ø ŋ	h Ø ŋ	h Ø ŋ	h Ø ŋ	h a ŋ + p a	भाप	
+1865	1863	Khispi	steam	_pa-suf9	1071	p a	p a	p a	p a	p a	p a			
+1872	1870	Khispi	stich	STICH	1075	tɕʰ a k	tɕʰ a k	tɕʰ a|u k|p	tɕʰ a|u k|p	tɕʰ a|u|ej k|p|-	tɕʰ a|u|ej k|p|-	tɕʰ a k	सिलना	
+1943	1941	Khispi	thin	THIN	1132	tɕʰ a p	tɕʰ a p	tɕʰ a p|-	tɕʰ a p|-	tɕʰ a p|-	tɕʰ a p|-	tɕʰ a p + b u	पतला	
+1962	1960	Khispi	thunder (vi)	THUNDER	1155	h u k	h u k	h|hw u|a k|p	h|hw u|a k|p	h|hw|ɕ u|a|i k|p|-	h|hw|ɕ u|a|i k|p|-	h u k	मेघगर्जन	
+1989	1987	Khispi	twist	TWIST	1188	kʰ Ø -	kʰ Ø -	kʰ Ø -	kʰ Ø -	kʰ Ø -	kʰ Ø -	kʰ i	घुमाना	
+2023	2021	Khispi	wait	WAIT1	1209	dʑ a k	dʑ a k	dʑ a k|s	dʑ a k|ŋ	dʑ a k|s|t	dʑ a k|ŋ|s	dʑ a k	प्रतीक्षा करना, रक्षा करना	
+2029	2027	Khispi	walking stick	WALKINGSTICK	1215	ɕ u ŋ	ɕ u Ø -	ɕ u ŋ|-	ɕ u Ø -	ɕ u ŋ|-	ɕ u Ø -	kʰ ej + s u ŋ	कुबड़ी	!
+2026	2024	Khispi	walking stick	STICK2	1214	kʰ uj	kʰ uj	kʰ uj	kʰ uj	kʰ uj	kʰ uj			
+2047	2045	Khispi	wheat	WHEAT	1235	k a	k a	k|kʰ a|ɔw	k|kʰ a|-	k|kʰ a|ɔw|e	k|kʰ a|-|ɔw	m a + k a	गेहूँ	
+2051	2049	Khispi	wheat	_ma-prf12	1237	Ø -	Ø a	Ø -|a	Ø a	Ø -|a	Ø a			!
+2077	2075	Khispi	wipe	WIPE	1262	u	u	u|i	u|i	u|i|ɔ	u|i|ɔ	ul	पोंछना	
+151	149	Duhumbi	split	SPLIT2	65	dʑ ɔˀ	dʑ ɔˀ	dʑ|j ɔˀ	dʑ|j ɔˀ	dʑ|j|- ɔˀ	dʑ|j ɔˀ	dʑ ɔˀ	विभाजित करना (bamboo)	
+398	396	Duhumbi	chest	CHEST	215	g ɔw	g ɔw	g ɔw	g ɔw	g ɔw	g ɔw	g ɔw	छाती	
+424	422	Duhumbi	chin	CHIN2	229	k u ɹ	k u ɹ	k u ɹ|r	k u|- ɹ|-	k u ɹ|r|-	k u|- ɹ|-	h u + k u ɹ	ठोड़ी	
+420	418	Duhumbi	chin	CHIN1	228	Ø ɔ	Ø u	Ø ɔ	Ø u	Ø ɔ	Ø u			!
+516	514	Duhumbi	short	SHORT	276	tʰ ɔ ŋ	tʰ ɔ ŋ	tʰ|tʰj ɔ|a ŋ|m	tʰ|tʰj ɔ|a ŋ|-	tʰ|tʰj|t ɔ|a|u ŋ|m|-	tʰ|tʰj|t ɔ|a|u ŋ|-|m	ɔ + tʰ ɔ ŋ	छोटा	
+529	527	Duhumbi	trunk (tree)	TRUNK	283	tʰ u ŋ	tʰ u ŋ	tʰ|tʰj u ŋ|m	tʰ|tʰj u ŋ|-	tʰ|tʰj|t u ŋ|m|-	tʰ|tʰj|t u ŋ|-|m	tʰ u ŋ	पेड का तना	
+582	580	Duhumbi	dirty	DIRTY	321	ʑ ɛ t	ʑ ɛ t	ʑ|ɕ ɛ|ɛˀ t	ʑ|ɕ ɛ|ɛˀ t	ʑ|ɕ|z ɛ|ɛˀ t	ʑ|ɕ|z ɛ|ɛˀ t	j ɛ s	गंदा	
+589	587	Duhumbi	pull	PULL2	326	g i	g i	g|h i|ɛj	g|h i|ɛj	g|h|kʰ i|ɛj|u	g|h|kʰ i|ɛj	g i	खींचना	
+962	960	Duhumbi	gourd	GOURD	485	tɕʰ ɔ ŋ	tɕʰ ɔ ŋ -	tɕʰ|ɕ ɔ ŋ	tɕʰ|ɕ ɔ ŋ -|ŋ	tɕʰ|ɕ ɔ ŋ	tɕʰ|ɕ ɔ ŋ -|ŋ	kʰ a + tɕʰ ɔ ŋ	bottle gourd.jpg	!
+957	955	Duhumbi	gourd	_kha-prf4	484	kʰ a	kʰ a	kʰ|kʰɹ a	kʰ|kʰɹ a	kʰ|kʰɹ|k a	kʰ|kʰɹ|k a			
+991	989	Duhumbi	hair (body): feather	BODYHAIR	500	m u r	m u r	m|mj u r|-	m|mj u r	m|mj u r|-	m|mj u r	m u r	शरीर के बाल	
+1133	1131	Duhumbi	back (n)	BACKNB1	568	k u	k u	k|kʰ u|i	k|kʰ u|i	k|kʰ u|i|ɔ	k|kʰ u|i|ɔ	k u	पीठ	
+1479	1477	Duhumbi	pangolin	PANGOLIN	778	b u	b -	b|w u	b|w -	b|w|j u	b|w|j -	ɕ a + b ɔ	pangolin.jpg	!
+1484	1482	Duhumbi	pangolin	MEAT3	779	ɕ ɔ	ɕ ɔ	ɕ|s ɔ	ɕ|s ɔ	ɕ|s|tɕʰ ɔ	ɕ|s|tɕʰ ɔ			
+1527	1525	Duhumbi	play	PLAY1	816	Ø ɛ ŋ	Ø ɛ ŋ	Ø ɛ|aj ŋ|m	Ø ɛ|aj ŋ|-	Ø ɛ|aj|i ŋ|m|-	Ø ɛ|aj|i ŋ|-|m	j ɛ ŋ	खेलना	
+1688	1686	Duhumbi	shade	SHADE	924	tɕʰ a p	tɕʰ a p	tɕʰ|tɕ a|ɔ p	tɕʰ|tɕ a|ɔː p	tɕʰ|tɕ|ɕ a|ɔ|ɔː p	tɕʰ|tɕ|ɕ a|ɔː|ɔ p	tɕʰ a p	छाया,  साया (shade shadow)	
+1770	1768	Duhumbi	sow, broadcast	SOW2	1018	h ɛ	h ɛ	h|hj ɛ|ɔ	h|hj ɛ|ɔ	h|hj|w ɛ|ɔ	h|hj|w ɛ|ɔ|e	h ɛ	बीज बोना	
+1870	1868	Duhumbi	stich	STICH	1075	ts a k	ts a k	ts|tɕʰ a|u k|p	ts|tɕʰ a|u k|-	ts|tɕʰ a|u|ɛj k|p|-	ts|tɕʰ a|u|ɛj k|-|p	ts a k	सिलना	
+1924	1922	Duhumbi	tell	TELL	1115	ɕ a t	ɕ a t	ɕ|s a t	ɕ|s a t	ɕ|s a t	ɕ|s a t	ɕ a t	बोलना	
+2040	2038	Duhumbi	weave	WEAVE	1228	d a k	d a k	d|dj a k	d|dj a k|-	d|dj a k	d|dj a k|-	d a k	बुनना	
+2045	2043	Duhumbi	wheat	WHEAT	1235	k a	k a	k|kʰ a|ɔw	k|kʰ a|-	k|kʰ a|ɔw|e	k|kʰ a|-|ɔw	m a + k a	गेहूँ	
+2049	2047	Duhumbi	wheat	_ma-prf12	1237	Ø a	Ø a	Ø a	Ø a	Ø a	Ø a			
+2075	2073	Duhumbi	wipe	WIPE	1262	u	u	u|i	u|i	u|i|ɔ	u|i|ɔ	ur	पोंछना	
