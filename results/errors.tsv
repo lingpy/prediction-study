@@ -5,7 +5,7 @@ tʰ	t	Duhumbi	1	tʰ u ŋ	t ʰu ŋ
 u	ʰu	Duhumbi	1	tʰ u ŋ	t ʰu ŋ
 ə	u	Jerigaon	2	m ə	m u
 ɔ	ɔː	Jerigaon	1	w ɔ	w ɔː
-a	ɛˀ	Jerigaon	1	tɕʰ a -	tɕʰ ɛˀ -
+a	ɛˀ	Jerigaon	1	tɕʰ a	tɕʰ ɛˀ
 eˀ	eː	Jerigaon	2	h eˀ	h eː
 dʑ	dz	Jerigaon	1	dʑ i k	dz i k
 -	n	Jerigaon	1	s a -	s a n
@@ -65,8 +65,8 @@ a	ɔː	Khoina	1	tɕ a ŋ	tɕʰ ɔː -
 -	aː	Khoina	1	b -	b aː
 ɔ	øˀ	Khoina	1	r ɔ p	r øˀ -
 p	-	Khoina	1	r ɔ p	r øˀ -
-g	l	Khoina	1	g u	l uˀ
-u	uˀ	Khoina	1	g u	l uˀ
+g	l	Khoina	1	g u -	l uˀ -
+u	uˀ	Khoina	1	g u -	l uˀ -
 ɛ	ɐ̃ː	Khoina	1	x ɛ t	x ɐ̃ː -
 t	-	Khoina	1	x ɛ t	x ɐ̃ː -
 g	kʰ	Khoina	1	g ɔ	kʰ ɔˀ
@@ -79,7 +79,7 @@ y	a	Khoina	1	g y	g a
 s	dʑ	Khoina	1	s ɔ ŋ	dʑ y ŋ
 ɔ	y	Khoina	1	s ɔ ŋ	dʑ y ŋ
 ə	a	Khoina	1	m ə	m a
-eˀ	ɛˀ	Khoina	1	j eˀ	j ɛˀ
+eˀ	ɛˀ	Khoina	1	j eˀ -	j ɛˀ -
 j	tɕʰ	Khoina	1	j ɔ k	tɕʰ ɔ k
 z	dz	Khoina	1	z ɛ n	dz ɛ n
 ə	aː	Khoina	1	n ə	n aː

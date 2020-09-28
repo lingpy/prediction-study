@@ -79,31 +79,31 @@ The output will first produce various tables which are for conveniency encoded i
 
 ### 4. Predictions (Automated, up to two candidates)
 
-| doculect   |   predicted |   perfect |   proportion |   score |
-|:-----------|------------:|----------:|-------------:|--------:|
-| Duhumbi    |          13 |         6 |       0.4615 |  0.6923 |
-| Jerigaon   |          73 |        34 |       0.4658 |  0.7169 |
-| Khispi     |          31 |        13 |       0.4194 |  0.7151 |
-| Khoina     |          45 |        16 |       0.3556 |  0.6667 |
-| Khoitam    |          47 |        22 |       0.4681 |  0.7270 |
-| Rahung     |          48 |        24 |       0.5000 |  0.7292 |
-| Rupa       |          31 |        12 |       0.3871 |  0.6505 |
-| Shergaon   |          91 |        40 |       0.4396 |  0.7051 |
-| total      |         379 |       167 |       0.4406 |  0.7003 |
+| doculect   |   words |   morphemes |   perfect |   proportion |   score |
+|:-----------|--------:|------------:|----------:|-------------:|--------:|
+| Duhumbi    |      11 |          13 |         6 |       0.4615 |  0.6923 |
+| Jerigaon   |      62 |          73 |        34 |       0.4658 |  0.7169 |
+| Khispi     |      26 |          31 |        13 |       0.4194 |  0.7151 |
+| Khoina     |      38 |          45 |        16 |       0.3556 |  0.6667 |
+| Khoitam    |      39 |          47 |        23 |       0.4894 |  0.7447 |
+| Rahung     |      45 |          48 |        24 |       0.5000 |  0.7292 |
+| Rupa       |      25 |          31 |        13 |       0.4194 |  0.6559 |
+| Shergaon   |      81 |          91 |        40 |       0.4396 |  0.7051 |
+| total      |     327 |         379 |       169 |       0.4459 |  0.7032 |
 
 ### 5. Predictions (Automated, up to three candidates)
 
-| doculect   |   predicted |   perfect |   proportion |   score |
-|:-----------|------------:|----------:|-------------:|--------:|
-| Duhumbi    |          13 |         6 |       0.4615 |  0.7179 |
-| Jerigaon   |          73 |        34 |       0.4658 |  0.7192 |
-| Khispi     |          31 |        13 |       0.4194 |  0.7151 |
-| Khoina     |          45 |        16 |       0.3556 |  0.6728 |
-| Khoitam    |          47 |        22 |       0.4681 |  0.7305 |
-| Rahung     |          48 |        24 |       0.5000 |  0.7292 |
-| Rupa       |          31 |        12 |       0.3871 |  0.6595 |
-| Shergaon   |          91 |        40 |       0.4396 |  0.7088 |
-| total      |         379 |       167 |       0.4406 |  0.7066 |
+| doculect   |   words |   morphemes |   perfect |   proportion |   score |
+|:-----------|--------:|------------:|----------:|-------------:|--------:|
+| Duhumbi    |      11 |          13 |         6 |       0.4615 |  0.7179 |
+| Jerigaon   |      62 |          73 |        34 |       0.4658 |  0.7192 |
+| Khispi     |      26 |          31 |        13 |       0.4194 |  0.7151 |
+| Khoina     |      38 |          45 |        16 |       0.3556 |  0.6728 |
+| Khoitam    |      39 |          47 |        23 |       0.4894 |  0.7482 |
+| Rahung     |      45 |          48 |        24 |       0.5000 |  0.7292 |
+| Rupa       |      25 |          31 |        13 |       0.4194 |  0.6649 |
+| Shergaon   |      81 |          91 |        40 |       0.4396 |  0.7088 |
+| total      |     327 |         379 |       169 |       0.4459 |  0.7095 |
 
 ```
 

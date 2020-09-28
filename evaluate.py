@@ -217,7 +217,7 @@ btable += [[
     sum([row[2] for row in btable]),
     sum([row[3] for row in btable]),
     sum([row[3] for row in btable])/sum([row[2] for row in btable]),
-    sum([row[5] for row in btable])/len(docs),
+    sum([row[5] for row in btable])/len(S),
     ]]
 print('\n### 3. Predictions (Automated, one candidate)\n')
 print(tabulate(
@@ -264,6 +264,7 @@ for doc in docs:
                 S[doc][cogid] = [score, wordA, wordB, idxA, attIdx[0]]
     ctable += [[
         doc,
+        len(PREDICTED[doc]),
         len(S[doc]),
         len([x for x in S[doc].values() if x[0] == 1]),
         len([x for x in S[doc].values() if x[0] == 1])/len(S[doc]),
@@ -274,8 +275,9 @@ ctable += [[
     'total',
     sum([row[1] for row in ctable]),
     sum([row[2] for row in ctable]),
-    sum([row[2] for row in ctable])/sum([row[1] for row in ctable]),
-    sum([row[4] for row in ctable])/len(docs),
+    sum([row[3] for row in ctable]),
+    sum([row[3] for row in ctable])/sum([row[2] for row in ctable]),
+    sum([row[5] for row in ctable])/len(S),
     ]]
 
 print('\n### 4. Predictions (Automated, up to two candidates)\n')
@@ -283,7 +285,8 @@ print(tabulate(
     ctable,
     headers=[
         'doculect',
-        'predicted',
+        'words',
+        'morphemes',
         'perfect',
         'proportion',
         'score'],
@@ -322,18 +325,21 @@ for doc in docs:
                 S[doc][cogid] = [score, wordA, wordB, idxA, attIdx[0]]
     dtable += [[
         doc,
+        len(PREDICTED[doc]),
         len(S[doc]),
         len([x for x in S[doc].values() if x[0] == 1]),
         len([x for x in S[doc].values() if x[0] == 1])/len(S[doc]),
         sum([cog[0] for cog in S[doc].values()])/len(S[doc])
         ]]
 
+
 dtable += [[
     'total',
     sum([row[1] for row in dtable]),
     sum([row[2] for row in dtable]),
-    sum([row[2] for row in dtable])/sum([row[1] for row in dtable]),
-    sum([row[4] for row in dtable])/len(docs),
+    sum([row[3] for row in dtable]),
+    sum([row[3] for row in dtable])/sum([row[2] for row in dtable]),
+    sum([row[5] for row in dtable])/len(S),
     ]]
 
 print('\n### 5. Predictions (Automated, up to three candidates)\n')
@@ -341,7 +347,8 @@ print(tabulate(
     dtable,
     headers=[
         'doculect',
-        'predicted',
+        'words',
+        'morphemes',
         'perfect',
         'proportion',
         'score'],
@@ -395,7 +402,8 @@ with open(Path('results', 'computer-predictions-2.html').as_posix(), 'w') as f:
         ctable,
         headers=[
             'doculect',
-            'predicted',
+            'words',
+            'morphemes',
             'perfect',
             'proportion',
             'score'],
@@ -407,7 +415,8 @@ with open(Path('results', 'computer-predictions-3.html').as_posix(), 'w') as f:
         dtable,
         headers=[
             'doculect',
-            'predicted',
+            'words',
+            'morphemes',
             'perfect',
             'proportion',
             'score'],
