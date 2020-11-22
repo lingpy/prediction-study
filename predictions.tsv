@@ -94,8 +94,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 2239	Rupa BEST	gourd		Rupa	kʰ - + ʨʰ u ŋ	kʰ + tɕʰ u ŋ	484 485	960 965	_kha-prf4 GOURD	kʰ - + tɕʰ u ŋ	
 2240	Rupa GUESS	gourd		Rupa	kʰ a + ʨʰ u ŋ	kʰ a + tɕʰ u ŋ	484 485	960 965	_kha-prf4 GOURD	kʰ a + tɕʰ u ŋ	
 2241	Rupa ATTESTED	gourd	gourd	Rupa	g + tɕʰ u ŋ	g + tɕʰ u ŋ	484 485	960 965	_kha-prf4 GOURD	g - + tɕʰ u ŋ	c
-2242	Rupa SECOND	gourd		Rupa	kʰ|k -|uː + ʨʰ|tɕʰ u|y ŋ|-	kʰ|k -|uː + ʨʰ|tɕʰ u|y ŋ|-	484 485	960 965	_kha-prf4 GOURD	kʰ|k -|uː + ʨʰ|tɕʰ u|y ŋ|-	
-2243	Rupa THIRD	gourd		Rupa	kʰ|k|g -|uː + ʨʰ|tɕʰ|kʰ u|y|- ŋ|-|k	kʰ|k|g -|uː + ʨʰ|tɕʰ|kʰ u|y|- ŋ|-|k	484 485	960 965	_kha-prf4 GOURD	kʰ|k|g -|uː + ʨʰ|tɕʰ|kʰ u|y|- ŋ|-|k	
+2242	Rupa SECOND	gourd		Rupa	kʰ|k -|uː + ʨʰ|tɕʰ u|y ŋ|-	kʰ|k -|uː + tɕʰ u|y ŋ|-	484 485	960 965	_kha-prf4 GOURD	kʰ|k -|uː + tɕʰ u|y ŋ|-	
+2243	Rupa THIRD	gourd		Rupa	kʰ|k|g -|uː + ʨʰ|tɕʰ|kʰ u|y|- ŋ|-|k	kʰ|k|g -|uː + tɕʰ|kʰ u|y|- ŋ|-|k	484 485	960 965	_kha-prf4 GOURD	kʰ|k|g -|uː + tɕʰ|kʰ u|y|- ŋ|-|k	
 2671	Shergaon BEST	gourd		Shergaon	kʰ - + tɕʰ u ŋ	kʰ + tɕʰ u ŋ	484 485	961 966	_kha-prf4 GOURD	kʰ - + tɕʰ u ŋ	
 2672	Shergaon GUESS	gourd		Shergaon	kʰ a + tɕʰ u ŋ	kʰ a + tɕʰ u ŋ	484 485	961 966	_kha-prf4 GOURD	kʰ a + tɕʰ u ŋ	
 2673	Shergaon ATTESTED	gourd	gourd	Shergaon	kʰl ɔ m	kʰl ɔ m	0	23	GOURD1	kʰl ɔ m	nc
@@ -827,8 +827,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 1499	Khoitam THIRD	dragon		Khoitam	tɕʰ|s|z ɛː|ə	tɕʰ|s|z ɛː|ə	334	608	THUNDER	tɕʰ|s|z ɛː|ə	
 2209	Rupa BEST	dragon		Rupa	tɕʰ aː	tɕʰ aː	334	609	THUNDER	tɕʰ aː	
 2210	Rupa GUESS	dragon		Rupa	n ə + tɕʰ aː	n ə + tɕʰ aː	0 334	2139 609	_sky-prf THUNDER	n ə + tɕʰ aː	
-2212	Rupa SECOND	dragon		Rupa	tɕʰ|ʨʰ aː	tɕʰ|ʨʰ aː	334	609	THUNDER	tɕʰ|ʨʰ aː	
-2213	Rupa THIRD	dragon		Rupa	tɕʰ|ʨʰ|tsʰ aː	tɕʰ|ʨʰ|tsʰ aː	334	609	THUNDER	tɕʰ|ʨʰ|tsʰ aː	
+2212	Rupa SECOND	dragon		Rupa	tɕʰ|ʨʰ aː	tɕʰ aː	334	609	THUNDER	tɕʰ aː	
+2213	Rupa THIRD	dragon		Rupa	tɕʰ|ʨʰ|tsʰ aː	tɕʰ|tsʰ aː	334	609	THUNDER	tɕʰ|tsʰ aː	
 2611	Shergaon BEST	dragon		Shergaon	tɕʰ aː	tɕʰ aː	334	610	THUNDER	tɕʰ aː	
 2612	Shergaon GUESS	dragon		Shergaon	n ə + tɕʰ aː	n ə + tɕʰ aː	0 334	2150 610	_sky-prf THUNDER	n ə + tɕʰ aː	
 2614	Shergaon SECOND	dragon		Shergaon	tɕʰ|tɕʰɹ aː	tɕʰ|tɕʰɹ aː	334	610	THUNDER	tɕʰ|tɕʰɹ aː	
@@ -1096,8 +1096,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 845	Khispi THIRD	hatch		Khispi	ts|tɕʰ ɔ k|s|t	ts|tɕʰ ɔ k|s|t	509	1017	HATCH	ts|tɕʰ ɔ k|s|t	
 2257	Rupa BEST	hatch		Rupa	ts ɔ k	ts ɔ k	509	1018	HATCH	ts ɔ k	
 2258	Rupa GUESS	hatch		Rupa	ʨ ɔ k	tɕ ɔ k	509	1018	HATCH	tɕ ɔ k	
-2260	Rupa SECOND	hatch		Rupa	ts|ʨ ɔ|o k	ts|ʨ ɔ|o k	509	1018	HATCH	ts|ʨ ɔ|o k	
-2261	Rupa THIRD	hatch		Rupa	ts|ʨ|tɕʰ ɔ|o k	ts|ʨ|tɕʰ ɔ|o k	509	1018	HATCH	ts|ʨ|tɕʰ ɔ|o k	
+2260	Rupa SECOND	hatch		Rupa	ts|ʨ ɔ|o k	ts|tɕ ɔ|o k	509	1018	HATCH	ts|tɕ ɔ|o k	
+2261	Rupa THIRD	hatch		Rupa	ts|ʨ|tɕʰ ɔ|o k	ts|tɕ|tɕʰ ɔ|o k	509	1018	HATCH	ts|tɕ|tɕʰ ɔ|o k	
 2689	Shergaon BEST	hatch		Shergaon	tɕ ɔ k	tɕ ɔ k	509	1019	HATCH	tɕ ɔ k	
 2690	Shergaon GUESS	hatch		Shergaon	tɕ ɔ k	tɕ ɔ k	509	1019	HATCH	tɕ ɔ k	
 2691	Shergaon ATTESTED	hatch	hatch	Shergaon	tɕ u k	tɕ u k	509	1019	HATCH	tɕ u k	c
@@ -1233,8 +1233,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 1567	Khoitam BEST	make		Khoitam	ʨʰ - Ø	tɕʰ Ø	664	1290	MAKE	tɕʰ Ø	
 1568	Khoitam GUESS	make		Khoitam	ʨʰ eˀ	tɕʰ eˀ	664	1290	MAKE	tɕʰ eˀ	
 1569	Khoitam ATTESTED	make	make	Khoitam	tɕʰ ɛˀ	tɕʰ ɛˀ	664	1290	MAKE	tɕʰ ɛˀ	c
-1570	Khoitam SECOND	make		Khoitam	ʨʰ|tsʰ -|eˀ Ø	ʨʰ|tsʰ -|eˀ	664	1290	MAKE	ʨʰ|tsʰ -|eˀ	
-1571	Khoitam THIRD	make		Khoitam	ʨʰ|tsʰ -|eˀ|e Ø	ʨʰ|tsʰ -|eˀ|e	664	1290	MAKE	ʨʰ|tsʰ -|eˀ|e	
+1570	Khoitam SECOND	make		Khoitam	ʨʰ|tsʰ -|eˀ Ø	tɕʰ|tsʰ -|eˀ	664	1290	MAKE	tɕʰ|tsʰ -|eˀ	
+1571	Khoitam THIRD	make		Khoitam	ʨʰ|tsʰ -|eˀ|e Ø	tɕʰ|tsʰ -|eˀ|e	664	1290	MAKE	tɕʰ|tsʰ -|eˀ|e	
 1915	Rahung BEST	make		Rahung	tɕʰ - Ø	tɕʰ Ø	664	1291	MAKE	tɕʰ Ø	
 1916	Rahung GUESS	make		Rahung	tɕʰ eˀ	tɕʰ eˀ	664	1291	MAKE	tɕʰ eˀ	
 1917	Rahung ATTESTED	make	make	Rahung	tɕʰ ɛˀ	tɕʰ ɛˀ	664	1291	MAKE	tɕʰ ɛˀ	c
@@ -1323,8 +1323,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 1585	Khoitam BEST	millet, broomcorn		Khoitam	ʨʰ a k	tɕʰ a k	391	715	BITTER1	tɕʰ a k	
 1586	Khoitam GUESS	millet, broomcorn		Khoitam	n ə + ʨʰ a k	n ə + tɕʰ a k	0 391	2129 715	_na-prf2 BITTER1	n ə + tɕʰ a k	
 1587	Khoitam ATTESTED	millet, broomcorn	millet, broomcorn	Khoitam	n ə + tɕʰ a k	n ə + tɕʰ a k	0 391	2129 715	_na-prf2 BITTER1	n ə + tɕʰ a k	c
-1588	Khoitam SECOND	millet, broomcorn		Khoitam	ʨʰ|tsʰ a k	ʨʰ|tsʰ a k	391	715	BITTER1	ʨʰ|tsʰ a k	
-1589	Khoitam THIRD	millet, broomcorn		Khoitam	ʨʰ|tsʰ a k	ʨʰ|tsʰ a k	391	715	BITTER1	ʨʰ|tsʰ a k	
+1588	Khoitam SECOND	millet, broomcorn		Khoitam	ʨʰ|tsʰ a k	tɕʰ|tsʰ a k	391	715	BITTER1	tɕʰ|tsʰ a k	
+1589	Khoitam THIRD	millet, broomcorn		Khoitam	ʨʰ|tsʰ a k	tɕʰ|tsʰ a k	391	715	BITTER1	tɕʰ|tsʰ a k	
 439	Jerigaon BEST	millet, foxtail		Jerigaon	kʰ u	kʰ u	398	728	MILLETFOXTAIL	kʰ u	
 440	Jerigaon GUESS	millet, foxtail		Jerigaon	n ə + kʰ u	n ə + kʰ u	0 398	2114 728	_na-prf1 MILLETFOXTAIL	n ə + kʰ u	
 441	Jerigaon ATTESTED	millet, foxtail	millet, foxtail	Jerigaon	Ø	Ø	0	426	?	Ø	
@@ -2365,13 +2365,13 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 1735	Khoitam BEST	takin		Khoitam	tɕʰ ə + tɕʰ ɔ m	tɕʰ ə + tɕʰ ɔ m	1106 1107	1913 1919	_sya-prf24 TAKIN	tɕʰ ə + tɕʰ ɔ m	
 1736	Khoitam GUESS	takin		Khoitam	tɕʰ ə + tɕʰ ɔ m	tɕʰ ə + tɕʰ ɔ m	1106 1107	1913 1919	_sya-prf24 TAKIN	tɕʰ ə + tɕʰ ɔ m	
 1737	Khoitam ATTESTED	takin	takin	Khoitam	tɕʰ y + s ɔ m	tɕʰ y + s ɔ m	1106 1107	1913 1919	_sya-prf24 TAKIN	tɕʰ y + s ɔ m	c
-1738	Khoitam SECOND	takin		Khoitam	tɕʰ|ʨʰ ə|u + tɕʰ|s ɔ m|ŋ	tɕʰ|ʨʰ ə|u + tɕʰ|s ɔ m|ŋ	1106 1107	1913 1919	_sya-prf24 TAKIN	tɕʰ|ʨʰ ə|u + tɕʰ|s ɔ m|ŋ	
-1739	Khoitam THIRD	takin		Khoitam	tɕʰ|ʨʰ|s ə|u|y + tɕʰ|s|ʨʰ ɔ m|ŋ|n	tɕʰ|ʨʰ|s ə|u|y + tɕʰ|s|ʨʰ ɔ m|ŋ|n	1106 1107	1913 1919	_sya-prf24 TAKIN	tɕʰ|ʨʰ|s ə|u|y + tɕʰ|s|ʨʰ ɔ m|ŋ|n	
+1738	Khoitam SECOND	takin		Khoitam	tɕʰ|ʨʰ ə|u + tɕʰ|s ɔ m|ŋ	tɕʰ ə|u + tɕʰ|s ɔ m|ŋ	1106 1107	1913 1919	_sya-prf24 TAKIN	tɕʰ ə|u + tɕʰ|s ɔ m|ŋ	
+1739	Khoitam THIRD	takin		Khoitam	tɕʰ|ʨʰ|s ə|u|y + tɕʰ|s|ʨʰ ɔ m|ŋ|n	tɕʰ|s ə|u|y + tɕʰ|s ɔ m|ŋ|n	1106 1107	1913 1919	_sya-prf24 TAKIN	tɕʰ|s ə|u|y + tɕʰ|s ɔ m|ŋ|n	
 2389	Rupa BEST	takin		Rupa	tsʰ ə + tɕʰ ɔ m	tsʰ ə + tɕʰ ɔ m	1106 1107	1914 1920	_sya-prf24 TAKIN	tsʰ ə + tɕʰ ɔ m	
 2390	Rupa GUESS	takin		Rupa	tɕʰ ə + tɕʰ ɔ m	tɕʰ ə + tɕʰ ɔ m	1106 1107	1914 1920	_sya-prf24 TAKIN	tɕʰ ə + tɕʰ ɔ m	
 2391	Rupa ATTESTED	takin	takin	Rupa	Ø	Ø	0	469	?	Ø	
-2392	Rupa SECOND	takin		Rupa	tsʰ|tɕʰ ə|y + tɕʰ|ʨʰ ɔ|øˀ m|(ŋ)	tsʰ|tɕʰ ə|y + tɕʰ|ʨʰ ɔ|øˀ m|(ŋ)	1106 1107	1914 1920	_sya-prf24 TAKIN	tsʰ|tɕʰ ə|y + tɕʰ|ʨʰ ɔ|øˀ m|(ŋ)	
-2393	Rupa THIRD	takin		Rupa	tsʰ|tɕʰ|z ə|y + tɕʰ|ʨʰ|kʰ ɔ|øˀ|ø m|(ŋ)|ŋ	tsʰ|tɕʰ|z ə|y + tɕʰ|ʨʰ|kʰ ɔ|øˀ|ø m|(ŋ)|ŋ	1106 1107	1914 1920	_sya-prf24 TAKIN	tsʰ|tɕʰ|z ə|y + tɕʰ|ʨʰ|kʰ ɔ|øˀ|ø m|(ŋ)|ŋ	
+2392	Rupa SECOND	takin		Rupa	tsʰ|tɕʰ ə|y + tɕʰ|ʨʰ ɔ|øˀ m|(ŋ)	tsʰ|tɕʰ ə|y + tɕʰ ɔ|øˀ m|(ŋ)	1106 1107	1914 1920	_sya-prf24 TAKIN	tsʰ|tɕʰ ə|y + tɕʰ ɔ|øˀ m|(ŋ)	
+2393	Rupa THIRD	takin		Rupa	tsʰ|tɕʰ|z ə|y + tɕʰ|ʨʰ|kʰ ɔ|øˀ|ø m|(ŋ)|ŋ	tsʰ|tɕʰ|z ə|y + tɕʰ|kʰ ɔ|øˀ|ø m|(ŋ)|ŋ	1106 1107	1914 1920	_sya-prf24 TAKIN	tsʰ|tɕʰ|z ə|y + tɕʰ|kʰ ɔ|øˀ|ø m|(ŋ)|ŋ	
 3031	Shergaon BEST	takin		Shergaon	tɕʰ ə + tɕʰ ɔ m	tɕʰ ə + tɕʰ ɔ m	1106 1107	1915 1921	_sya-prf24 TAKIN	tɕʰ ə + tɕʰ ɔ m	
 3032	Shergaon GUESS	takin		Shergaon	tɕʰ ə + tɕʰ u m	tɕʰ ə + tɕʰ u m	1106 1107	1915 1921	_sya-prf24 TAKIN	tɕʰ ə + tɕʰ u m	
 3033	Shergaon ATTESTED	takin	takin	Shergaon	k ɛ + m ɔ + j a k	k ɛ + m ɔ + j a k	0 0 0	353 354 355	TAKIN1 TAKIN2 TAKIN3	k ɛ + m ɔ + j a k	nc, Bod. loan
@@ -2408,8 +2408,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 1555	Khoitam BEST	Jerigaon people		Khoitam	d ə + tɕ ĩː	d ə + tɕ ĩː	19 17	44 37	_da-prf2 JERIGAON	d ə + tɕ ĩː	
 1556	Khoitam GUESS	Jerigaon people		Khoitam	d ə + tɕ ĩː	d ə + tɕ ĩː	19 17	44 37	_da-prf2 JERIGAON	d ə + tɕ ĩː	
 1557	Khoitam ATTESTED	Jerigaon people	Jerigaon people	Khoitam	tɕ ĩː + dʑ iː	tɕ ĩː + dʑ iː	19 17	37 364	JERIGAON _byi-suf	tɕ ĩː + dʑ iː	c
-1558	Khoitam SECOND	Jerigaon people		Khoitam	d|tʰ ə|- + tɕ|ʨ ĩː	d|tʰ ə|- + tɕ|ʨ ĩː	19 17	44 37	_da-prf2 JERIGAON	d|tʰ ə|- + tɕ|ʨ ĩː	
-1559	Khoitam THIRD	Jerigaon people		Khoitam	d|tʰ|tɕ ə|-|iː + tɕ|ʨ ĩː	d|tʰ|tɕ ə|-|iː + tɕ|ʨ ĩː	19 17	44 37	_da-prf2 JERIGAON	d|tʰ|tɕ ə|-|iː + tɕ|ʨ ĩː	
+1558	Khoitam SECOND	Jerigaon people		Khoitam	d|tʰ ə|- + tɕ|ʨ ĩː	d|tʰ ə|- + tɕ ĩː	19 17	44 37	_da-prf2 JERIGAON	d|tʰ ə|- + tɕ ĩː	
+1559	Khoitam THIRD	Jerigaon people		Khoitam	d|tʰ|tɕ ə|-|iː + tɕ|ʨ ĩː	d|tʰ|tɕ ə|-|iː + tɕ ĩː	19 17	44 37	_da-prf2 JERIGAON	d|tʰ|tɕ ə|-|iː + tɕ ĩː	
 1897	Rahung BEST	Jerigaon people		Rahung	d ə + tɕ ĩː	d ə + tɕ ĩː	19 17	45 38	_da-prf2 JERIGAON	d ə + tɕ ĩː	
 1898	Rahung GUESS	Jerigaon people		Rahung	d ə + tɕ ĩː	d ə + tɕ ĩː	19 17	45 38	_da-prf2 JERIGAON	d ə + tɕ ĩː	
 1899	Rahung ATTESTED	Jerigaon people	Jerigaon people	Rahung	tɕ ĩː + dʑ iː	tɕ ĩː + dʑ iː	19 17	38 365	JERIGAON _byi-suf	tɕ ĩː + dʑ iː	c
@@ -2489,8 +2489,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 2143	Rupa BEST	above, top		Rupa	ʨʰ ũː ŋ	tɕʰ ũː ŋ	58	140	ON1	tɕʰ ũː ŋ	
 2144	Rupa GUESS	above, top		Rupa	ʨʰ ũ ŋ	tɕʰ ũ ŋ	58	140	ON1	tɕʰ ũ ŋ	
 2145	Rupa ATTESTED	above, top	above, top	Rupa	a + tsʰ ũ ŋ	a + tsʰ ũː ŋ	0 58	376 140	_a-prf ON1	a + tsʰ ũː ŋ	c, vowel adj.
-2146	Rupa SECOND	above, top		Rupa	ʨʰ|tɕʰ ũː|ɔ ŋ|k	ʨʰ|tɕʰ ũː|ɔ ŋ|k	58	140	ON1	ʨʰ|tɕʰ ũː|ɔ ŋ|k	
-2147	Rupa THIRD	above, top		Rupa	ʨʰ|tɕʰ|ʨ ũː|ɔ ŋ|k|-	ʨʰ|tɕʰ|ʨ ũː|ɔ ŋ|k|-	58	140	ON1	ʨʰ|tɕʰ|ʨ ũː|ɔ ŋ|k|-	
+2146	Rupa SECOND	above, top		Rupa	ʨʰ|tɕʰ ũː|ɔ ŋ|k	tɕʰ ũː|ɔ ŋ|k	58	140	ON1	tɕʰ ũː|ɔ ŋ|k	
+2147	Rupa THIRD	above, top		Rupa	ʨʰ|tɕʰ|ʨ ũː|ɔ ŋ|k|-	tɕʰ|tɕ ũː|ɔ ŋ|k|-	58	140	ON1	tɕʰ|tɕ ũː|ɔ ŋ|k|-	
 2419	Shergaon BEST	above, top		Shergaon	tɕʰ ɔ̃ː ŋ	tɕʰ ɔ̃ː ŋ	58	141	ON1	tɕʰ ɔ̃ː ŋ	
 2420	Shergaon GUESS	above, top		Shergaon	tɕʰ ɔ̃ ŋ	tɕʰ ɔ̃ ŋ	58	141	ON1	tɕʰ ɔ̃ ŋ	
 2422	Shergaon SECOND	above, top		Shergaon	tɕʰ ɔ̃ː|ɔ ŋ|k	tɕʰ ɔ̃ː|ɔ ŋ|k	58	141	ON1	tɕʰ ɔ̃ː|ɔ ŋ|k	
@@ -2513,8 +2513,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 2263	Rupa BEST	honey		Rupa	tɕʰ yː	tɕʰ yː	408	758	HONEYA	tɕʰ yː	
 2264	Rupa GUESS	honey		Rupa	tɕʰ yː	tɕʰ yː	408	758	HONEYA	tɕʰ yː	
 2265	Rupa ATTESTED	honey	honey	Rupa	tsʰ iː _ ɔ + kʰ ɔː	tsʰ iː + ɔ + kʰ ɔː	408	758	HONEYA _a-prf WATER	tsʰ iː + ɔ + kʰ ɔː	c, ‘bee + liquid’
-2266	Rupa SECOND	honey		Rupa	tɕʰ|ʨʰ yː|y	tɕʰ|ʨʰ yː|y	408	758	HONEYA	tɕʰ|ʨʰ yː|y	
-2267	Rupa THIRD	honey		Rupa	tɕʰ|ʨʰ|ʨ yː|y|ə	tɕʰ|ʨʰ|ʨ yː|y|ə	408	758	HONEYA	tɕʰ|ʨʰ|ʨ yː|y|ə	
+2266	Rupa SECOND	honey		Rupa	tɕʰ|ʨʰ yː|y	tɕʰ yː|y	408	758	HONEYA	tɕʰ yː|y	
+2267	Rupa THIRD	honey		Rupa	tɕʰ|ʨʰ|ʨ yː|y|ə	tɕʰ|tɕ yː|y|ə	408	758	HONEYA	tɕʰ|tɕ yː|y|ə	
 2695	Shergaon BEST	honey		Shergaon	tɕʰ u	tɕʰ u	408	759	HONEYA	tɕʰ u	
 2696	Shergaon GUESS	honey		Shergaon	tɕʰ u	tɕʰ u	408	759	HONEYA	tɕʰ u	
 2697	Shergaon ATTESTED	honey	honey	Shergaon	tɕʰ iː	tɕʰ iː	408	759	HONEYA	tɕʰ iː	c
@@ -2630,9 +2630,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_PREDICTED	DOCULECT_IN_SOURCE	FORM	TOKENS	CROSSIDS	CO
 #@sampa=
 #@pinyin=CHINESE
 #@css=menu:show|database:hide
-#@basics=ALIGNMENT|COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTE|TOKENS
+#@basics=COGIDS|CONCEPT|DOCULECT|FORM|MORPHEMES|NOTE|TOKENS
 #@_selected_doculects=Duhumbi BEST|Duhumbi GUESS|Duhumbi ATTESTED|Duhumbi SECOND|Duhumbi THIRD|Jerigaon BEST|Jerigaon GUESS|Jerigaon ATTESTED|Jerigaon SECOND|Jerigaon THIRD|Khispi BEST|Khispi GUESS|Khispi ATTESTED|Khispi SECOND|Khispi THIRD|Khoina BEST|Khoina GUESS|Khoina ATTESTED|Khoina SECOND|Khoina THIRD|Khoitam BEST|Khoitam GUESS|Khoitam ATTESTED|Khoitam SECOND|Khoitam THIRD|Rahung BEST|Rahung GUESS|Rahung ATTESTED|Rahung SECOND|Rahung THIRD|Rupa BEST|Rupa GUESS|Rupa ATTESTED|Rupa SECOND|Rupa THIRD|Shergaon BEST|Shergaon GUESS|Shergaon ATTESTED|Shergaon SECOND|Shergaon THIRD
-#@_selected_concepts=rub, sharpen
+#@_selected_concepts=back (n)|statue|chest|amulet box|chin|dove|dirty|to detest|gourd|hair (body): feather|pubic hair|pangolin|play|pull|shade|short|big stomach due to pregnancy|sow, broadcast|split|stich|tell|trunk (tree)|weave|wheat|wipe|mix dough|achieve, obtain|alive, healthy|be alright|ask|back (wards)|after|bad|white|beautiful|bind (v)|bite|borrow|borrow (return same)|bridge, hanging|Bugun|burn, roast (vt)|civet, palm|clean|cook|cough (vi)|cover (v)|curcuma sp.|cure (vi)|daughter-in-law|deer, sambar|defeat (vi)|deity, ghost|descend|dragon|long life|eagle, buzzard|face|fall|fall (rain)|fence|fetch|flame|flatten (dough)|flee|winnow|flow|frying pan|grind (grinding stone)|halt, stop|become stiff|hatch|exit|pick, bite|hearth, fireplace|hornbill|horsefly|husks, chaff|ice|lift completely, carry|be cold|like, love|load (n)|bamboo basket|make|manure|meet|middle / centre|millet, broomcorn|millet, foxtail|naga, serpent deity|neck|net for fishing|now|oil|peas|pinch|plant  (vt)|plough (v)|potato-bean|pour|present|break, split off|Puroik|quarrel (v)|question|reap|recognise|ride, mount|rub, sharpen|run|same, equal|scratch|become big|search|settle|shake|shoe, footwear|smell (n)|snatch away|steam|be bitter|story|sweet|tear (vt)|feel dirty|thief|thing|thunder (vi)|tusk|twist|uproot|wait|walking stick|wet|fresh|year, this|amaranth|feel sad|to feel dirty|body|late (vi)|pity|pheasant, tragopan|thin|beer strainer|boil  (water)|comparative degree|dig|float|soak in water|goral|hold|frost to settle|jackal|keep, remain|morning|green snake|okay|Job's tears|prohibitive prefix|pull (sthing mobile)|pull (sthing immobile)|pinch, pluck|rice, unhusked, paddy|shoulder|sister, younger|smell (vi)|suck|takin|wring, squeeze|assemble, pile up|meteorite|earthworm|Jerigaon people|Rahung, people of|rub|lift up|stab|Thembang people|wear|above, top|sorghum|cut|borrow (return different)|cover (n)|down|fire to spread|honey|sing|spit|vegetable, leafy|creeper, vine|be born|leech, water|leech, land|lick|pumpkin|upper|short-tempered|break|chew|cold|cold (vi)|age, lifespan|listen, heed|look|shake (body)|shake (carpet)|stick
 #@sorted_taxa=Duhumbi BEST|Duhumbi GUESS|Duhumbi ATTESTED|Duhumbi SECOND|Duhumbi THIRD|Jerigaon BEST|Jerigaon GUESS|Jerigaon ATTESTED|Jerigaon SECOND|Jerigaon THIRD|Khispi BEST|Khispi GUESS|Khispi ATTESTED|Khispi SECOND|Khispi THIRD|Khoina BEST|Khoina GUESS|Khoina ATTESTED|Khoina SECOND|Khoina THIRD|Khoitam BEST|Khoitam GUESS|Khoitam ATTESTED|Khoitam SECOND|Khoitam THIRD|Rahung BEST|Rahung GUESS|Rahung ATTESTED|Rahung SECOND|Rahung THIRD|Rupa BEST|Rupa GUESS|Rupa ATTESTED|Rupa SECOND|Rupa THIRD|Shergaon BEST|Shergaon GUESS|Shergaon ATTESTED|Shergaon SECOND|Shergaon THIRD
 #@sorted_concepts=back (n)|statue|chest|amulet box|chin|dove|dirty|to detest|gourd|hair (body): feather|pubic hair|pangolin|play|pull|shade|short|big stomach due to pregnancy|sow, broadcast|split|stich|tell|trunk (tree)|weave|wheat|wipe|mix dough|achieve, obtain|alive, healthy|be alright|ask|back (wards)|after|bad|white|beautiful|bind (v)|bite|borrow|borrow (return same)|bridge, hanging|Bugun|burn, roast (vt)|civet, palm|clean|cook|cough (vi)|cover (v)|curcuma sp.|cure (vi)|daughter-in-law|deer, sambar|defeat (vi)|deity, ghost|descend|dragon|long life|eagle, buzzard|face|fall|fall (rain)|fence|fetch|flame|flatten (dough)|flee|winnow|flow|frying pan|grind (grinding stone)|halt, stop|become stiff|hatch|exit|pick, bite|hearth, fireplace|hornbill|horsefly|husks, chaff|ice|lift completely, carry|be cold|like, love|load (n)|bamboo basket|make|manure|meet|middle / centre|millet, broomcorn|millet, foxtail|naga, serpent deity|neck|net for fishing|now|oil|peas|pinch|plant  (vt)|plough (v)|potato-bean|pour|present|break, split off|Puroik|quarrel (v)|question|reap|recognise|ride, mount|rub, sharpen|run|same, equal|scratch|become big|search|settle|shake|shoe, footwear|smell (n)|snatch away|steam|be bitter|story|sweet|tear (vt)|feel dirty|thief|thing|thunder (vi)|tusk|twist|uproot|wait|walking stick|wet|fresh|year, this|amaranth|feel sad|to feel dirty|body|late (vi)|pity|pheasant, tragopan|thin|beer strainer|boil  (water)|comparative degree|dig|float|soak in water|goral|hold|frost to settle|jackal|keep, remain|morning|green snake|okay|Job's tears|prohibitive prefix|pull (sthing mobile)|pull (sthing immobile)|pinch, pluck|rice, unhusked, paddy|shoulder|sister, younger|smell (vi)|suck|takin|wring, squeeze|assemble, pile up|meteorite|earthworm|Jerigaon people|Rahung, people of|rub|lift up|stab|Thembang people|wear|above, top|sorghum|cut|borrow (return different)|cover (n)|down|fire to spread|honey|sing|spit|vegetable, leafy|creeper, vine|be born|leech, water|leech, land|lick|pumpkin|upper|short-tempered|break|chew|cold|cold (vi)|age, lifespan|listen, heed|look|shake (body)|shake (carpet)|stick
 #@display=filedisplay

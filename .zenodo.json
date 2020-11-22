@@ -1,0 +1,44 @@
+{
+    "title": "Data and Code Accompanying the Study on \"Benefits of reflex prediction: A case study of Western Kho-Bwa\"",
+    "access_right": "open",
+    "keywords": [
+        "lingpy",
+        "linguistics",
+        "prediction",
+        "comparative method"
+    ],
+    "creators": [
+        {
+            "name": "Timotheus A. Bodt"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Timotheus A. Bodt",
+            "type": "Distributor"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Distributor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        },
+        {
+          "identifier": "dighl"
+        },
+        {
+          "identifier": "calc"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Timotheus A. Bodt and Johann-Mattis List (to appear): Benefits of reflex prediction: A case study of Western Kho-Bwa. Diachronica.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

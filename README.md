@@ -1,4 +1,10 @@
-# Data and Code Accompanying the Study on Predictions
+# Data and Code Accompanying the Study on "Benefits of reflex prediction: A case study of Western Kho-Bwa" 
+
+## Source of the Dataset
+
+Cite the source of the dataset as:
+
+> Timotheus A. Bodt and Johann-Mattis List (to appear): Benefits of reflex prediction: A case study of Western Kho-Bwa. Diachronica.
 
 ## Overview
 
